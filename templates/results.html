@@ -221,9 +221,13 @@
             const container = document.getElementById('image-container');
             container.appendChild(imgElement);
             container.appendChild(titleElement);
-
+            console.log('Sending data:', { 
+                title: imageData.title, 
+                playlist_id: imageData.playlistid 
+            });
             localStorage.setItem('recImageTitle', imageData.title);
             localStorage.setItem('playlistID', imageData.playlistid);
+            
             // Function to send data to the Python server
             function sendDataToServer() {
                 fetch('/musicrec', {  // Adjust the endpoint as needed
