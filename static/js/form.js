@@ -72,9 +72,9 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
     const blue = document.getElementById('blue').checked;
     const violet = document.getElementById('violet').checked;
 
-    const preference1 = document.getElementById('preference1').checked;
-    const preference2 = document.getElementById('preference2').checked;
-    const preference3 = document.getElementById('preference3').checked;
+    const vastness = document.getElementById('preference1').checked;
+    const distance = document.getElementById('preference2').checked;
+    const vibrance = document.getElementById('preference3').checked;
 
     const selectedImages = [];
     const checkboxes = document.querySelectorAll('input[name="image[]"]:checked');
