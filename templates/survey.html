@@ -100,10 +100,51 @@
                     <button type="button" class="prev-btn">Previous</button>
                     <button type="button" class="next-btn">Next</button>
                 </div>
-                <button href="results.html" type="submit" class="submit" style="display: none;">Submit</button>
+                <button type="submit" class="submit">Submit</button>
             </form>
         </div>
     </div>
-    <script src="/static/js/form.js"></script>
+        <script src="/static/js/form.js"></script>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const steps = document.querySelectorAll('.form-step');
+            const nextBtn = document.querySelector('.next-btn');
+            const prevBtn = document.querySelector('.prev-btn');
+            const submitBtn = document.querySelector('.submit');
+            let currentStep = 0;
+    
+            function showStep(step) {
+                steps.forEach((formStep, index) => {
+                    formStep.classList.toggle('active', index === step);
+                });
+    
+                if (currentStep === steps.length - 1) {
+                    nextBtn.style.display = 'none';
+                    submitBtn.style.display = 'block';
+                } else {
+                    nextBtn.style.display = 'block';
+                    submitBtn.style.display = 'none';
+                }
+    
+                prevBtn.style.display = currentStep === 0 ? 'none' : 'block';
+            }
+    
+            nextBtn.addEventListener('click', () => {
+                if (currentStep < steps.length - 1) {
+                    currentStep++;
+                    showStep(currentStep);
+                }
+            });
+    
+            prevBtn.addEventListener('click', () => {
+                if (currentStep > 0) {
+                    currentStep--;
+                    showStep(currentStep);
+                }
+            });
+    
+            showStep(currentStep);
+        });
+    </script>
 </body>
 </html>
