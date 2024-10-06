@@ -212,6 +212,40 @@
             const container = document.getElementById('image-container');
             container.appendChild(imgElement);
             container.appendChild(titleElement);
+
+            localStorage.setItem('recImageTitle', imageData.title);
+            // Fetch to send the title to musicrec.py and receive the recommended song link
+            fetch('/path/to/musicrec.py', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ title: recImageTitle }),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json(); // Parse JSON response
+            })
+            .then(data => {
+                // Assuming 'recommendedSongLink' is the key in your response JSON
+                const recommendedSongLink = data.recommendedSongLink;
+
+                // Create an element to display the recommended song link
+                const songElement = document.createElement('a');
+                songElement.href = recommendedSongLink; // Set the link
+                songElement.textContent = "Listen to the recommended song"; // Text for the link
+                songElement.target = "_blank"; // Open in a new tab
+
+                // Append the song link to the song container
+                const songContainer = document.getElementById('song-container');
+                songContainer.appendChild(songElement);
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+
         } else {
             document.getElementById('image-container').innerText = "No image data found.";
         }
