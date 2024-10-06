@@ -294,9 +294,9 @@ def recommend_songs(playlist_id, img_title):
 def music_recommendation():
     data = request.json  # Get the JSON data from the request
     img_title = data['title']  # Extract the image title from the JSON
-
+    
     # Call your recommend_songs function
-    playlist_id = '1NGqMCRo4drDeNa9JpGEip'  # Example playlist ID
+    playlist_id = data['playlistid']
     recommended_song = recommend_songs(playlist_id, img_title)  # Get recommendations
 
     # Parse the recommended song JSON to get the link
