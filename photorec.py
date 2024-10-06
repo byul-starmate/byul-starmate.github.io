@@ -54,7 +54,7 @@ def photorec(user_inputs):
     user_name = user_inputs.get('name', 'Guest')  # Get user name
     
     # Load image data from JSON file
-    input_file_path = 'ver2_image_data.json'
+    input_file_path = 'static/data/ver2_image_data.json'
     with open(input_file_path, 'r') as file:
         data = json.load(file)
 
