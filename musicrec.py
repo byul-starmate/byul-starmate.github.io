@@ -285,7 +285,7 @@ def recommend_songs(playlist_id, img_title):
     }
     
     # Return the JSON
-    print(json.dumps(most_recommended_json, indent=2))
+    return json.dumps(most_recommended_json, indent=2)
 
 
 # Example usage:
