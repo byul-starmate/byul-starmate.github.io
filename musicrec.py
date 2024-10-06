@@ -293,11 +293,10 @@ def recommend_songs(playlist_id, img_title):
 @app.route('/musicrec', methods=['POST'])  # Define a route for POST requests
 def music_recommendation():
     data = request.json  # Get the JSON data from the request
-    img_title = data['title']  # Extract the image title from the JSON
-    
-    # Call your recommend_songs function
-    playlist_id = data['playlistid']
-    recommended_song = recommend_songs(playlist_id, img_title)  # Get recommendations
+    image_title = data.get('title')
+    playlist_id = data.get('playlist_id')  # Retrieve the playlist ID
+
+    recommended_song = recommend_songs(playlist_id, image_title)  # Get recommendations
 
     # Parse the recommended song JSON to get the link
     recommended_song_data = json.loads(recommended_song)
