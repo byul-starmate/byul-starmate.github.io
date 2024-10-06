@@ -12,21 +12,23 @@ def load_json(file_path):
         return json.load(f)
 
 def get_color_name(rgb):
-    r, g, b = rgb
-    if r > 150 and g < 120 and b < 120:
-        return "Red"
-    elif r > 150 and 150 > g > 120 and b < 50:
-        return "Orange"
-    elif r > 150 and g > 150 and b < 120:
-        return "Yellow"
-    elif g > 150 and r < 120 and b < 120:
-        return "Green"
-    elif b > 150 and r < 120 and g < 120:
-        return "Blue"
-    elif r > 120 and b > 150:
-        return "Violet"
-    else:
-        return "Grayscale"
+    colors = {
+            "red": (255, 0, 0),
+            "orange": (255, 170, 0), 
+            "yellow": (255, 255, 0),
+            "green": (0, 255, 0),
+            "blue": (0, 0, 255),
+            "violet": (127, 0, 255),
+            "Grayscale": (100, 100, 100)
+        }
+        min_distance = float("inf")
+        closest_color = None
+        for color, value in colors.items():
+            distance = sum((i - j) ** 2 for i, j in zip(rgb, value))
+            if distance < min_distance:
+                min_distance = distance
+                closest_color = color
+        return closest_color
 
 def count_true_colors(color_codes, condition):  # Extract color percentages
     color_rgb_str = color_codes
