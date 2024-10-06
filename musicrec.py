@@ -4,6 +4,9 @@ from collections import Counter
 import numpy as np
 import json
 import difflib
+from flask import Flask, request, jsonify  # Import Flask
+
+app = Flask(__name__)  # Create a Flask app
 
 
 # Function to load JSON data from a file
@@ -287,9 +290,23 @@ def recommend_songs(playlist_id, img_title):
     # Return the JSON
     return json.dumps(most_recommended_json, indent=2)
 
+@app.route('/musicrec', methods=['POST'])  # Define a route for POST requests
+def music_recommendation():
+    data = request.json  # Get the JSON data from the request
+    img_title = data['title']  # Extract the image title from the JSON
 
-# Example usage:
-title_input = "Crab Nebula"
-playlist_id = '1NGqMCRo4drDeNa9JpGEip'
+    # Call your recommend_songs function
+    playlist_id = '1NGqMCRo4drDeNa9JpGEip'  # Example playlist ID
+    recommended_song = recommend_songs(playlist_id, img_title)  # Get recommendations
 
-recommend_songs(playlist_id, title_input)
+    # Parse the recommended song JSON to get the link
+    recommended_song_data = json.loads(recommended_song)
+    song_link = recommended_song_data['most_recommended']['link']  # Extract the song link
+
+    # Return the song link as JSON response
+    return jsonify({'recommendedSongLink': song_link})
+
+if __name__ == '__main__':
+    app.run(port=5000)  # Start the Flask app on port 5000
+
+
