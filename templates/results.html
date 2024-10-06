@@ -216,9 +216,9 @@
 
             // Display selected preferences
             const preferences = [];
-            if (formData.preference1) preferences.push("Vast, atmospheric images of celestial backgrounds");
-            if (formData.preference2) preferences.push("Exploring distant galaxies");
-            if (formData.preference3) preferences.push("Vibrant space images");
+            if (formData.vastness) preferences.push("Vast, atmospheric images of celestial backgrounds");
+            if (formData.distance) preferences.push("Exploring distant galaxies");
+            if (formData.vibrance) preferences.push("Vibrant space images");
 
             document.querySelector('.text-content p').innerText = preferences.length > 0 ? preferences.join(', ') : "No preferences selected.";
 
