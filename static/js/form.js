@@ -64,6 +64,7 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
     event.preventDefault();
 
     const name = document.getElementById('name').value;
+    const playlistid = document.getElementById('playlist').value;
 
     const red = document.getElementById('red').checked;
     const orange = document.getElementById('orange').checked;
@@ -84,6 +85,7 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
 
     const formData = {
         name,
+        playlistid,
         red,
         orange,
         yellow,
