@@ -29,22 +29,22 @@ def load_json(file_path):
 
 def get_color_name(rgb):
     colors = {
-            "red": (255, 0, 0),
-            "orange": (255, 170, 0), 
-            "yellow": (255, 255, 0),
-            "green": (0, 255, 0),
-            "blue": (0, 0, 255),
-            "violet": (127, 0, 255),
-            "Grayscale": (100, 100, 100)
-        }
-        min_distance = float("inf")
-        closest_color = None
-        for color, value in colors.items():
-            distance = sum((i - j) ** 2 for i, j in zip(rgb, value))
-            if distance < min_distance:
-                min_distance = distance
-                closest_color = color
-        return closest_color
+        "red": (255, 0, 0),
+        "orange": (255, 170, 0), 
+        "yellow": (255, 255, 0),
+        "green": (0, 255, 0),
+        "blue": (0, 0, 255),
+        "violet": (127, 0, 255),
+        "Grayscale": (100, 100, 100)
+    }
+    min_distance = float("inf")
+    closest_color = None
+    for color, value in colors.items():
+        distance = sum((i - j) ** 2 for i, j in zip(rgb, value))
+        if distance < min_distance:
+            min_distance = distance
+            closest_color = color
+    return closest_color
 
 def count_true_colors(color_codes, condition):  # Extract color percentages
     color_rgb_str = color_codes
@@ -302,20 +302,23 @@ def recommend_songs(playlist_id, img_title):
     
     # Return the JSON
     return json.dumps(most_recommended_json, indent=2)
-@app.route('/musicrec', methods=['POST','GET'])  # Define a route for POST requests
+@app.route('/musicrec', methods=['POST','GET'])  
 def musicrec():
-    data = request.json  # Get the JSON data from the request
+    data = request.json  
     image_title = data.get('title')
-    playlist_id = data.get('playlist_id')  # Retrieve the playlist ID
+    playlist_id = data.get('playlist_id')  
+    print(f"Processing image title: {image_title}, playlist ID: {playlist_id}")
 
-    recommended_song = recommend_songs(playlist_id, image_title)  # Get recommendations
 
-    # Parse the recommended song JSON to get the link
-    recommended_song_data = json.loads(recommended_song)
-    song_link = recommended_song_data['most_recommended']['link']  # Extract the song link
+    try:
+        recommended_song = recommend_songs(playlist_id, image_title)  
+        recommended_song_data = json.loads(recommended_song)
+        song_link = recommended_song_data['most_recommended']['link']  
 
-    # Return the song link as JSON response
-    return jsonify({'recommendedSongLink': song_link})
+        return jsonify({'recommendedSongLink': song_link})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 400  # Return a 400 error with the error message
+
 
 
 if __name__ == '__main__':
