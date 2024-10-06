@@ -16,6 +16,7 @@ import os
 app = Flask(__name__)
 
 CORS(app, resources={r"/*": {"origins": "https://byul-starmate.github.io"}})
+-> CORS(app, resources={r"/*": {"origins": "*"}})
 
 @app.route('/favicon.ico')
 def favicon():
