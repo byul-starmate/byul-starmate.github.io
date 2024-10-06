@@ -30,12 +30,19 @@ def index():
 def get_image():
     # Get user inputs from the request
     user_inputs = request.json
-    print(user_inputs)
-    
     # Call the existing photorec function
     selected_image = photorec(user_inputs)  # Modify photorec to accept parameters
 
-    return jsonify(selected_image)
+    # Create response with JSON data
+    response = make_response(jsonify(selected_image))
+    
+    # Add CORS headers
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    response.headers['Access-Control-Allow-Headers'] = 'Content-Type,Authorization'
+    response.headers['Access-Control-Allow-Methods'] = 'GET,POST,OPTIONS'
+    
+    return response
+    # return jsonify(selected_image)
 
 
 def photorec(user_inputs):
