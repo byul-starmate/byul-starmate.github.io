@@ -217,10 +217,15 @@
             const titleElement = document.createElement('h2');
             titleElement.textContent = imageData.title; // Use the title
 
+            // Create a description element
+            const descriptionElement = document.createElement('p');
+            descriptionElement.className = 'image-description';
+
             // Append the image and title to the container
             const container = document.getElementById('image-container');
             container.appendChild(imgElement);
             container.appendChild(titleElement);
+            container.appendChild(descriptionElement);
             console.log('Sending data:', { 
                 title: imageData.title, 
                 playlist_id: imageData.playlistid 
