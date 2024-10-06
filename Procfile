@@ -1,1 +1,1 @@
-web: python photorec.py
+web: html index.html
