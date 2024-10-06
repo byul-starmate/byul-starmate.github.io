@@ -26,6 +26,10 @@ def favicon():
 def index():
     return render_template('index.html')  # Input HTML file for user preferences
 
+@app.route('/survey.html')
+def survey():
+    return render_template('survey.html')
+
 @app.route('/get_image', methods=['POST','GET'])
 def get_image():
     # Get user inputs from the request
