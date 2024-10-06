@@ -272,17 +272,22 @@
 
         </div>
       <script>
-        let trackID = "7896LFcAWlUQMtoHY1OCJv";
-        function setSpotifyEmbed() {
-            const iframe = document.getElementById('spotify-iframe');
-            iframe.src = "https://open.spotify.com/embed/track/" + trackID;
-        }
-        window.onload = setSpotifyEmbed;
-      </script>
-      <div class="spotify-embed">
-        <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
+    let trackLink = "https://open.spotify.com/track/7896LFcAWlUQMtoHY1OCJv?si=4daa681dde9e401b"; // Placeholder URL, to be replaced by the fetched link.
+    
+    function setSpotifyEmbed() {
+        // Assuming the trackLink is set by the response from musicrec.py
+        let trackID = trackLink.split('/track/')[1].split('?')[0]; // Extracting trackID
+        const iframe = document.getElementById('spotify-iframe');
+        iframe.src = "https://open.spotify.com/embed/track/" + trackID;
+    }
+    
+    window.onload = setSpotifyEmbed;
+</script>
+
+<div class="spotify-embed">
+    <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
             allowtransparency="true" allow="encrypted-media"></iframe>
-      </div>
+</div>
     </div>
    <!-- <div class="image-container">
       <img src="images/blurry-background.jpg" alt="Blurred Background" class="blurred-image">
