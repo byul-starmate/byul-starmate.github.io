@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    background-image: url('/static/data/images/Space-Background-Image.jpeg');
+    background-image: url('images/Space-Background-Image.jpeg');
     background-size: cover;
     background-position: center;
     display: block; 
