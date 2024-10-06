@@ -24,7 +24,7 @@ def favicon():
 
 @app.route('/')
 def index():
-    return render_template('index.html')  # Input HTML file for user preferences
+    return render_template('/templates/index.html')  # Input HTML file for user preferences
 
 @app.route('/get_image', methods=['POST','GET'])
 def get_image():
