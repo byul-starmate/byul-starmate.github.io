@@ -189,22 +189,21 @@
     }
   </style>
   <script>
-    // Function to fetch JSON data
-    function fetchData() {
-        return fetch('https://starmate-01afa58bced4.herokuapp.com/static/data/ver2_image_data.json')
-            .then(response => response.json())
-            .then(data => {
-                window.imageData = data;
+    // Function to display the image from the received JSON data
+    function displayImageFromJson(jsonData) {
+        const imageContainer = document.getElementById('image-container');
+        
+        // Extract the image link from the JSON data
+        const imageLink = jsonData.image_link;
 
-                // Run PyScript code once JSON is loaded
-                document.querySelector('py-script').dispatchEvent(new CustomEvent('pyscript-ready'));
+        // Create an img element and set its source to the image link
+        const imageElement = document.createElement('img');
+        imageElement.src = imageLink;
+        imageElement.alt = "Selected Image";
+        imageElement.style.width = '100%'; // Adjust width as necessary
 
-                // Load form data
-                loadFormData();
-            })
-            .catch(error => {
-                console.error("Error fetching JSON data:", error);
-            });
+        // Add the image to the container
+        imageContainer.appendChild(imageElement);
     }
 
     // Function to load form data from localStorage
@@ -235,11 +234,22 @@
         }
     }
 
-    // Fetch data when the DOM is fully loaded
+    // Fetch data from the server and then display the image
     document.addEventListener("DOMContentLoaded", function() {
-        fetchData();
+        fetch('https://starmate-01afa58bced4.herokuapp.com/static/data/ver2_image_data.json')
+            .then(response => response.json())
+            .then(jsonData => {
+                // Call the function to display the image
+                displayImageFromJson(jsonData);
+                // Load form data after fetching the JSON
+                loadFormData();
+            })
+            .catch(error => {
+                console.error('Error fetching JSON data:', error);
+            });
     });
-  </script>
+</script>
+
   <script>
     function copyLink() {
       const dummy = document.createElement('input');
@@ -328,6 +338,15 @@
       <h1>Random Image Selection Based on Attributes</h1>
       
     </div> -->
+    <div class="main-container">
+    <h1>Selected Image</h1>
+    <div id="image-container">
+      <!-- The image will be dynamically displayed here -->
+    </div>
+
+    <!-- Additional content goes here -->
+
+  </div>
     <div class="info-section">
       <div class="text-content">
         <h2>Orion Nebula</h2>
