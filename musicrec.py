@@ -61,7 +61,7 @@ def extract_data_by_title(data, title):
     return None
 
 # Load data from the JSON file
-file_path = '/Users/alex.inn/Documents/ver2_image_data.json'
+file_path = 'static/data/ver2_image_data.json'
 data = load_json(file_path)
 
 # Color to Data Dictionary
