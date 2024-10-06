@@ -273,11 +273,19 @@ def recommend_songs(playlist_id, img_title):
     # Sort tracks: first by user artist priority, then by popularity
     ranked_tracks.sort(key=lambda x: (not x[4], -x[2]))  # prioritize user artists first, then by popularity
 
-    # Print the ranked tracks
-    for track in ranked_tracks:
-        print(f"Track: {track[0]}, Artist: {track[1]}, Link: {track[3]}")
-
-#    return ranked_tracks
+    # Return the ranked tracks
+    most_recommended_track = ranked_tracks[0]
+    # Create a dictionary for the most recommended track
+    most_recommended_json = {
+        "most_recommended": {
+            "title": most_recommended_track[0],
+            "artist": most_recommended_track[1],
+            "link": most_recommended_track[3]
+        }
+    }
+    
+    # Return the JSON
+    print(json.dumps(most_recommended_json, indent=2))
 
 
 # Example usage:
