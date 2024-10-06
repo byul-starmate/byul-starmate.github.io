@@ -30,6 +30,8 @@ def index():
 def get_image():
     # Get user inputs from the request
     user_inputs = request.json
+    print(user_inputs)
+    
     # Call the existing photorec function
     selected_image = photorec(user_inputs)  # Modify photorec to accept parameters
 
