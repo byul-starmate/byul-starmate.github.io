@@ -10,11 +10,20 @@ import json
 import random
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
+from flask import send_from_directory
+import os
+
+
 
 app = Flask(__name__)
 
-CORS(app)  # This will enable CORS for all routes
+CORS(app, resources={r"/*": {"origins": "https://byul-starmate.github.io"}})
 
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 @app.route('/')
 def index():
@@ -48,7 +57,7 @@ def photorec(user_inputs):
     user_name = user_inputs.get('userName', 'Guest')  # Get user name
     
     # Load image data from JSON file
-    input_file_path = 'ver2_image_data.json'
+    input_file_path = 'static/data/ver2_image_data.json'
     with open(input_file_path, 'r') as file:
         data = json.load(file)
 
