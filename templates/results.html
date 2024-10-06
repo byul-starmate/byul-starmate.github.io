@@ -216,6 +216,40 @@
             document.getElementById('image-container').innerText = "No image data found.";
         }
     </script>
+   <header>
+    <nav>
+      <div class="logo-container">
+          <img src="/static/data/images/stars.jpg" alt="Starmate Logo">
+          <h1>Starmate</h1>
+      </div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="feed.html">Feed</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="main-container">
+    <h1>Selected Image</h1>
+    <div id="image-container">
+        <!-- The image will be displayed here -->
+    </div>
+
+        </div>
+      <script>
+        let trackID = "7896LFcAWlUQMtoHY1OCJv";
+        function setSpotifyEmbed() {
+            const iframe = document.getElementById('spotify-iframe');
+            iframe.src = "https://open.spotify.com/embed/track/" + trackID;
+        }
+        window.onload = setSpotifyEmbed;
+      </script>
+      <div class="spotify-embed">
+        <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
+            allowtransparency="true" allow="encrypted-media"></iframe>
+      </div>
+    </div>
 
 </body>
 </html>
