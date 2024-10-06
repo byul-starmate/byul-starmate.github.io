@@ -290,7 +290,7 @@
         const playlistID = localStorage.getItem('playlistID'); // Assuming you're storing this in localStorage
 
         // Fetch the recommended song link from the Flask backend
-        const response = await fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec.py', {
+        const response = await fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
