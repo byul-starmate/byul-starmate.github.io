@@ -101,6 +101,7 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
             'Content-Type': 'application/json'
         },
         body: JSON.stringify(formData)  // formData를 JSON 형태로 변환
+        console.log(body)
     })
     // .then(response => {
     //     if (!response.ok) {
