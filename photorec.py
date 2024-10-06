@@ -135,6 +135,7 @@ def photorec(user_inputs):
             'distance': item['distance'],
             'type': item['type'],
             'link': item['image_link'],
+            'caption': item['caption'],
             'color_count': colors[1]
         })
         
