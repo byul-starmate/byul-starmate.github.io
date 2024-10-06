@@ -203,6 +203,7 @@
             imgElement.src = imageData.link; // Use the image link
             imgElement.alt = imageData.title; // Set alt text to the title
 
+            localStorage.setItem('recImageTitle', imageData.title);
             // Create a title element
             const titleElement = document.createElement('h2');
             titleElement.textContent = imageData.title; // Use the title
