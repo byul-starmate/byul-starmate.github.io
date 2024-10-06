@@ -230,7 +230,7 @@
             
             // Function to send data to the Python server
             function sendDataToServer() {
-                fetch('/musicrec', {  // Adjust the endpoint as needed
+                fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec', {  // Adjust the endpoint as needed
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
