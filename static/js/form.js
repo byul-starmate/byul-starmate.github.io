@@ -107,6 +107,7 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
         try {
             const jsonData = JSON.parse(data);  // Try to parse as JSON
             console.log('Success:', jsonData);
+            window.location.href = 'results.html';
         } catch (e) {
             console.log('Received non-JSON response:', data);
         }
