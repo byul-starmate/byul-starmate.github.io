@@ -214,37 +214,35 @@
             container.appendChild(titleElement);
 
             localStorage.setItem('recImageTitle', imageData.title);
-            // Fetch to send the title to musicrec.py and receive the recommended song link
-            fetch('/path/to/musicrec.py', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({ title: recImageTitle }),
-            })
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.json(); // Parse JSON response
-            })
-            .then(data => {
-                // Assuming 'recommendedSongLink' is the key in your response JSON
-                const recommendedSongLink = data.recommendedSongLink;
+            localStorage.setItem('playlistID', imageData.playlistid);
+            // Function to send data to the Python server
+            function sendDataToServer() {
+                fetch('/musicrec', {  // Adjust the endpoint as needed
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ 
+                        title: imageTitle,
+                        playlist_id: playlistID // Send the playlist ID as well
+                    }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Response from server:', data);
+                    // Extract the track ID from the returned link
+                    const trackID = data.link.split('/track/')[1].split('?')[0];
+                    console.log('Track ID:', trackID);
+                    // Set the Spotify embed iframe with the trackID
+                    document.getElementById('spotify-iframe').src = `https://open.spotify.com/embed/track/${trackID}`;
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                });
+            }
 
-                // Create an element to display the recommended song link
-                const songElement = document.createElement('a');
-                songElement.href = recommendedSongLink; // Set the link
-                songElement.textContent = "Listen to the recommended song"; // Text for the link
-                songElement.target = "_blank"; // Open in a new tab
-
-                // Append the song link to the song container
-                const songContainer = document.getElementById('song-container');
-                songContainer.appendChild(songElement);
-            })
-            .catch((error) => {
-                console.error('Error:', error);
-            });
+    // Call the function when needed
+    sendDataToServer();
 
         } else {
             document.getElementById('image-container').innerText = "No image data found.";
