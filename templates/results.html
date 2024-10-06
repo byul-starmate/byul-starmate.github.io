@@ -231,10 +231,10 @@
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify({ 
-                        title: imageTitle,
-                        playlist_id: playlistID // Send the playlist ID as well
-                    }),
+                   body: JSON.stringify({ 
+                      title: imageData.title,  // Correctly use imageData.title
+                      playlist_id: imageData.playlistid // Correctly use imageData.playlistid
+                  }),
                 })
                 .then(response => response.json())
                 .then(data => {
@@ -272,25 +272,56 @@
   </header>
 
   <div class="main-container">
-
-        </div>
+      <div class="spotify-embed">
+          <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
+                  allowtransparency="true" allow="encrypted-media"></iframe>
+      </div>
+  </div>
       <script>
-    let trackLink = "https://open.spotify.com/track/5e1tJtgvnyb49dYwBTm1ny?si=8851a607a28c4768"; // Placeholder URL, to be replaced by the fetched link.
-    
-    function setSpotifyEmbed() {
-        // Assuming the trackLink is set by the response from musicrec.py
-        let trackID = trackLink.split('/track/')[1].split('?')[0]; // Extracting trackID
-        const iframe = document.getElementById('spotify-iframe');
-        iframe.src = "https://open.spotify.com/embed/track/" + trackID;
-    }
-    
-    window.onload = setSpotifyEmbed;
-</script>
+    // Declare the trackLink variable
+    let trackLink; // This will hold the link fetched from the server
 
-<div class="spotify-embed">
-    <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
-            allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
+    async function fetchRecommendedSong() {
+        const imageTitle = localStorage.getItem('imageTitle'); // Assuming you're storing this in localStorage
+        const playlistID = localStorage.getItem('playlistID'); // Assuming you're storing this in localStorage
+
+        // Fetch the recommended song link from the Flask backend
+        const response = await fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec.py', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                title: imageTitle,    // Send the image title
+                playlist_id: playlistID // Send the playlist ID
+            })
+        });
+
+        if (response.ok) {
+            const data = await response.json(); // Parse the JSON response
+            trackLink = data.recommendedSongLink; // Assign the fetched link to trackLink
+
+            // Call the function to set the Spotify embed with the new track link
+            setSpotifyEmbed();
+        } else {
+            console.error('Error fetching song recommendation:', response.statusText);
+        }
+    }
+
+    function setSpotifyEmbed() {
+        // Use the trackLink variable to extract the trackID
+        if (trackLink) { // Ensure trackLink is available
+            const trackID = trackLink.split('/track/')[1].split('?')[0]; // Extracting trackID
+            const iframe = document.getElementById('spotify-iframe');
+            iframe.src = "https://open.spotify.com/embed/track/" + trackID; // Set the src attribute
+        } else {
+            console.error('No track link available to embed.');
+        }
+    }
+
+    // Call the function to fetch the recommended song when the page loads
+    window.onload = fetchRecommendedSong;
+</script>
     </div>
    <!-- <div class="image-container">
       <img src="images/blurry-background.jpg" alt="Blurred Background" class="blurred-image">
