@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Find Your Starmate</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="nasa.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-card">
+            <div class="form-header">
+                <p class="title-form1">Find Your</p>
+                <p class="title-form2">Starmate</p>
+            </div>
+
+            <div class="progress-bar">
+                <div class="progress" id="progress"></div>
+            </div>
+
+            <form id="starmateForm" action="results.html" method="POST">
+                <div class="form-step active">
+                    <div class="form-group">
+                        <label class="question-1" for="name">Q. What do you want to be called?</label>
+                        <input type="text" id="name" class="text-box" required minlength="2" maxlength="40" placeholder="Your Name"/>
+                    </div>
+                </div>
+
+                <div class="form-step">
+                    <div class="form-group">
+                        <p class="question-2">Q. What is your favorite color?</p>
+                        <div class="color-options">
+                            <label>
+                                <input type="checkbox" id="red" name="image[]" value="NASA Color Shades/red_shades.png">
+                                <img class="image-button" src="NASA_Color_Shades/red_shades.png" alt="Red Shades">
+                            </label>
+                            <label>
+                                <input type="checkbox" id="orange" name="image[]" value="NASA Color Shades/orange_shades.png">
+                                <img class="image-button" src="NASA_Color_Shades/orange_shades.png" alt="Orange Shades">
+                            </label>
+                            <label>
+                                <input type="checkbox" id="yellow" name="image[]" value="NASA Color Shades/yellow_shades.png">
+                                <img class="image-button" src="NASA_Color_Shades/yellow_shades.png" alt="Yellow Shades">
+                            </label>
+                            <label>
+                                <input type="checkbox" id="green" name="image[]" value="NASA Color Shades/green_shades.png">
+                                <img class="image-button" src="NASA_Color_Shades/green_shades.png" alt="Green Shades">
+                            </label>
+                            <label>
+                                <input type="checkbox" id="blue" name="image[]" value="NASA Color Shades/blue_shades.png">
+                                <img class="image-button" src="NASA_Color_Shades/blue_shades.png" alt="Blue Shades">
+                            </label>
+                            <label>
+                                <input type="checkbox" id="violet" name="image[]" value="NASA Color Shades/violet_shades.png">
+                                <img class="image-button" src="NASA_Color_Shades/violet_shades.png" alt="Violet Shades">
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-step">
+                    <div class="form-group">
+                        <p class="question-3">Q. I favor vast, atmospheric images of celestial backgrounds over close, highly specific space photos.</p>
+                        <label class="switch">
+                            <input type="checkbox" id="preference1">
+                            <span class="slider round"></span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="form-step">
+                    <div class="form-group">
+                        <p class="question-4">Q. I’m interested in exploring far, distant galaxies. </p>
+                        <label class="switch">
+                            <input type="checkbox" id="preference2">
+                            <span class="slider round"></span>
+                        </label>
+                    </div>
+                </div>
+
+                
+                <div class="form-step">
+                    <div class="form-group">
+                        <p class="question-5">Q. I opt for a vibrant space image over a pastel one.</p>
+                        <label class="switch">
+                            <input type="checkbox" id="preference3">
+                            <span class="slider round"></span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="form-navigation">
+                    <button type="button" class="prev-btn">Previous</button>
+                    <button type="button" class="next-btn">Next</button>
+                </div>
+                <button type="submit" class="submit" style="display: none;">Submit</button>
+            </form>
+        </div>
+    </div>
+    <script src="form.js"></script>
+</body>
+</html>

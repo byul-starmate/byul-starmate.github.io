@@ -1,0 +1,3465 @@
+[
+    {
+      "title": "Galaxy Cluster PLCK G165.7 (NIRCam Image)",
+      "distance": 3600000000,
+      "caption": "NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) image of the galaxy cluster PLCK G165.7+67.0, also known as G165. A foreground cluster, located 3.6 billion light-years away from Earth, is magnifying and bending the light of the distant universe beyond. In this image, astronomers discovered the light of an exploding star \u2014 more specifically, a Type Ia supernova \u2014 imaged three times, seen as points of light within the prominent red arc at the right-center of the image.",
+      "image_link": "https://stsci-opo.org/STScI-01J3DHNNK8J612Z1DJCZRKBTB0.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(103, 94, 99)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(203, 199, 204)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(127, 61, 31)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Arp 107 (NIRCam and MIRI Image)",
+      "distance": 450000000,
+      "caption": "This composite image of Arp 107, created with data from the James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) reveal a wealth of information about the star-formation and how these two galaxies collided hundreds of million years ago.",
+      "image_link": "https://stsci-opo.org/STScI-01J748X0ZXT252FZ802FWB5608.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(67, 72, 101)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(156, 66, 72)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(161, 156, 183)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Arp 107 (MIRI Image)",
+      "distance": 450000000,
+      "caption": "This image of Arp 107, shown by Webb\u2019s MIRI (Mid-Infrared Instrument), reveals the supermassive black hole that lies in the center of the large spiral galaxy to the right. This black hole, which pulls much of the dust into lanes, also display\u2019s Webb\u2019s characteristic diffraction spikes, caused by the light that it emits interacting with the structure of the telescope itself.",
+      "image_link": "https://stsci-opo.org/STScI-01J74E05Z4PPBJAYVRS5ZND4Q5.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(27, 40, 85)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(69, 122, 174)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Digel Cloud 2S",
+      "distance": 40000,
+      "caption": "NASA\u2019s James Webb Space Telescope observed the outskirts of our Milky Way galaxy. Known as the Extreme Outer Galaxy, this region is located more than 58,000 light-years from the Galactic Center.",
+      "image_link": "https://stsci-opo.org/STScI-01J5NSEJTP6AWGVE845JMY21KT.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(105, 21, 4)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(43, 26, 67)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(126, 105, 122)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(0, 146, 231)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Question Mark Galaxy (NIRCam Image)",
+      "distance": 4650000000,
+      "caption": "The galaxy cluster MACS-J0417.5-1154 is so massive it is warping the fabric of space-time and distorting the appearance of galaxies behind it, an effect known as gravitational lensing. This natural phenomenon magnifies distant galaxies and can also make them appear in an image multiple times, as NASA\u2019s James Webb Space Telescope saw here. Two distant, interacting galaxies \u2014 a face-on spiral and a dusty red galaxy seen from the side \u2014 appear multiple times, tracing a familiar shape across the sky. Active star formation, and the face-on galaxy\u2019s remarkably intact spiral shape, indicate that these galaxies\u2019 interaction is just beginning.",
+      "image_link": "https://stsci-opo.org/STScI-01J6CWQ1T2BPBR55478Y4X0NQQ.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(207, 207, 208)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(115, 116, 118)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "MACS J0417.5-1154 Wide Field (NIRCam Image)",
+      "distance": 4650000000,
+      "caption": "A cosmic question mark appears amid a powerful gravitational lens in the James Webb Space Telescope\u2019s wide-field view of the galaxy cluster MACS-J0417.5-1154. Gravitational lensing occurs when something is so massive, like this galaxy cluster, that it warps the fabric of space-time itself, creating a natural funhouse-mirror effect that also magnifies galaxies behind it.",
+      "image_link": "https://stsci-opo.org/STScI-01J6D97YGSQACWK990TH56K6AF.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(85, 82, 88)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "CEERS Crop (NIRCam Image)",
+      "distance": 13000000000,
+      "caption": "This image shows a small portion of the field observed by NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) for the Cosmic Evolution Early Release Science (CEERS) survey. It is filled with galaxies. The light from some of them has traveled for over 13 billion years to reach the telescope.",
+      "image_link": "https://stsci-opo.org/STScI-01J5E849R5W27ZZ2C3QAE9ET75.png",
+      "type": "Fields",
+      "color_percentages": [
+        {
+          "colorCode": "(196, 178, 188)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(119, 72, 70)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Interacting Galaxies Arp 142 (NIRCam and MIRI Image)",
+      "distance": 326000000,
+      "caption": "This \u201cpenguin party\u201d is loud! The distorted spiral galaxy at center, the Penguin, and the compact elliptical galaxy at left, the Egg, are locked in an active embrace. A new near- and mid-infrared image from the James Webb Space Telescope, taken to mark its second year of science, shows that their interaction is marked by a faint upside-down U-shaped blue glow.",
+      "image_link": "https://stsci-opo.org/STScI-01J06XZQFRG9WHB4XT01NGACGB.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(70, 78, 106)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(148, 161, 179)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Interacting Galaxies Arp 142 (MIRI Image)",
+      "distance": 326000000,
+      "caption": "Webb\u2019s mid-infrared view of interacting galaxies Arp 142 seems to sing in primary colors. The background of space is like a yawning darkness speckled with bright, multi-colored beads.",
+      "image_link": "https://stsci-opo.org/STScI-01J06ZFN5S7DCBYRZ2VQNRQY3J.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 86, 94)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(153, 144, 142)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "L1527 and Protostar (MIRI Image)",
+      "distance": 460000000,
+      "caption": "L1527, shown in this image from NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument), is a molecular cloud that harbors a protostar. It resides about 460 light-years from Earth in the constellation Taurus. The more diffuse blue light and the filamentary structures in the image come from organic compounds known as polycyclic aromatic hydrocarbons (PAHs), while the red at the center of this image is an energized, thick layer of gases and dust that surrounds the protostar. The region in between, which shows up in white, is a mixture of PAHs, ionized gas, and other molecules.",
+      "image_link": "https://stsci-opo.org/STScI-01J0BY5NWGXKR165XPC66KS4PT.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 28, 81)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(169, 178, 206)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Serpens (NIRCam Image)",
+      "distance": 1300,
+      "caption": "In this image of the Serpens Nebula from the Near-Infrared Camera (NIRCam) on NASA\u2019s James Webb Space Telescope, astronomers found a grouping of aligned protostellar outflows within one small region (the top left corner). In the Webb image, these jets are signified by bright clumpy streaks that appear red, which are shockwaves from the jet hitting surrounding gas and dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HYGF81QMHP3SPA0Q7QMRXY3Z.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(76, 33, 16)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(79, 68, 89)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(153, 192, 210)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(167, 83, 30)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(178, 134, 129)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Serpens North \u2013 Aligned Outflows Crop (NIRCam Image)",
+      "distance": 1300,
+      "caption": "This image from NASA\u2019s James Webb Space Telescope shows a portion of the Serpens Nebula, where astronomers discovered a grouping of aligned protostellar outflows. These jets are signified by bright clumpy streaks that appear red, which are shock waves from the jet hitting surrounding gas and dust. Here, the red color represents the presence of molecular hydrogen and carbon monoxide.",
+      "image_link": "https://stsci-opo.org/STScI-01HYGK7PC1NBR9N26JAJ97W1XR.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(90, 45, 23)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(75, 96, 164)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(195, 101, 28)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(164, 198, 215)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Serpens Center Crop (NIRCam Image)",
+      "distance": 1300,
+      "caption": "This image shows the center of the Serpens Nebula as seen by NASA\u2019s James Webb Space Telescope\u2019s Near-Infrared Camera (NIRCam).",
+      "image_link": "https://stsci-opo.org/STScI-01HYGKYYKJ9QP1B9TYBMS2CSCK.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(77, 31, 16)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(164, 169, 186)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(70, 97, 165)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(211, 150, 87)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Crab Nebula",
+      "distance": 6500,
+      "caption": "NASA\u2019s James Webb Space Telescope dissected the Crab Nebula\u2019s structure, aiding astronomers as they continue to evaluate leading theories about the supernova remnant\u2019s origins. With the data collected by Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), a team of scientists were able to closely inspect some of the Crab Nebula\u2019s major components.",
+      "image_link": "https://stsci-opo.org/STScI-01J04A57VT54A4PKF2J4R1ZC7G.jpg",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 122, 168)",
+          "percent": 26
+        },
+        {
+          "colorCode": "(161, 160, 156)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(91, 71, 36)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Horsehead Nebula (NIRCam Image)",
+      "distance": 1300,
+      "caption": "This image of the Horsehead Nebula from NASA\u2019s James Webb Space Telescope focuses on a portion of the horse\u2019s \u201cmane\u201d that is about 0.8 light-years in width. It was taken with Webb\u2019s NIRCam (Near-infrared Camera). The ethereal clouds that appear blue at the bottom of the image are filled with a variety of materials including hydrogen, methane, and water ice. Red-colored wisps extending above the main nebula represent both atomic and molecular hydrogen. In this area, known as a photodissociation region, ultraviolet light from nearby young, massive stars creates a mostly neutral, warm area of gas and dust between the fully ionized gas above and the nebula below. As with many Webb images, distant galaxies are sprinkled in the background.",
+      "image_link": "https://stsci-opo.org/STScI-01HV4BDR9C8MNJGJNS9TNE78YX.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(62, 63, 97)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(85, 25, 28)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(146, 161, 186)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Horsehead Nebula (MIRI Image)",
+      "distance": 1300,
+      "caption": "This image of the Horsehead Nebula from NASA\u2019s James Webb Space Telescope focuses on a portion of the horse\u2019s \u201cmane.\u201d It was taken with Webb\u2019s MIRI (Mid-Infrared Instrument). Mid-infrared light captures the glow of substances like dusty silicates and soot-like molecules called polycyclic aromatic hydrocarbons.",
+      "image_link": "https://stsci-opo.org/STScI-01HWDBW8X37TMQKWGY532CFS7E.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(111, 124, 173)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(207, 214, 232)",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "title": "M82 (NIRCam Image)",
+      "distance": 12000000,
+      "caption": "Astronomers used the James Webb Space Telescope to look toward M82\u2019s center, where a galactic wind is being launched as a result of rapid star formation and subsequent supernovas. Studying the galactic wind can offer insight into how the loss of gas shapes the future growth of the galaxy.",
+      "image_link": "https://stsci-opo.org/STScI-01HRD3BSQ4GNW2KN7J3G5BPBVR.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(126, 71, 76)",
+          "percent": 15
+        },
+        {
+          "colorCode": "(201, 182, 176)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "M82 (NIRCam Image)",
+      "distance": 12000000,
+      "caption": "A team of astronomers used NASA\u2019s James Webb Space Telescope to survey the starburst galaxy Messier 82 (M82), which is located 12 million light-years away in the constellation Ursa Major. M82 hosts a frenzy of star formation, sprouting new stars 10 times faster than the Milky Way galaxy. Webb\u2019s infrared capabilities enabled scientists to peer through curtains of dust and gas that have historically obscured the star formation process.",
+      "image_link": "https://stsci-opo.org/STScI-01HRD50BHS9Z5353MJ62PYASBW.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(75, 76, 104)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(164, 154, 159)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Parallel Field to Protostar IRAS 23385 (MIRI Image)",
+      "distance": -1,
+      "caption": "This image was taken by MIRI (the Mid-Infrared Instrument) on NASA's James Webb Space Telescope of a region near the protostar known as IRAS 23385. The image is a single exposure at a wavelength of 15 microns which has been assigned an orange color.",
+      "image_link": "https://stsci-opo.org/STScI-01HQK9C8HHBQ275Y9C4CVH0RBN.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(181, 99, 23)",
+          "percent": 22
+        },
+        {
+          "colorCode": "(116, 17, 2)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(215, 178, 94)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "NGC 5468 (Webb NIRCam + Hubble WFC3)",
+      "distance": 130000000,
+      "caption": "This image of NGC 5468, a galaxy located about 130 million light-years from Earth, combines data from the Hubble and James Webb space telescopes. This is the farthest galaxy in which Hubble has identified Cepheid variable stars. These are important milepost markers for measuring the expansion rate of the universe. The distance calculated from Cepheids has been cross-correlated with a type Ia supernova in the galaxy. Type Ia supernovae are so bright they are used to measure cosmic distances far beyond the range of the Cepheids, extending measurements of the universe's expansion rate deeper into space.",
+      "image_link": "https://stsci-opo.org/STScI-01HQ6CGRCCC30RA3GJ74H05231.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(88, 86, 105)",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "title": "NGC 604 (NIRCam Image)",
+      "distance": 2730000,
+      "caption": "This image from NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) of star-forming region NGC 604 shows how stellar winds from bright, hot young stars carve out cavities in surrounding gas and dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HQNV4QZ16BPB3TBEVMYS3G7N.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(89, 31, 23)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(159, 114, 133)",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "title": "NGC 604 (MIRI Image)",
+      "distance": 2730000,
+      "caption": "This image from NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument) of star-forming region NGC 604 shows how large clouds of cooler gas and dust glow in mid-infrared wavelengths. This region is a hotbed of star formation and home to more than 200 of the hottest, most massive kinds of stars, all in the early stages of their lives.",
+      "image_link": "https://stsci-opo.org/STScI-01HQP6HC5D1NMKD35BAC1VM8AW.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(62, 87, 111)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(171, 146, 179)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1566",
+      "distance": 60000000,
+      "caption": "Face-on spiral galaxy, NGC 1566, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9ZG8GJAANKFKCJJX18G71B.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 77, 78)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(106, 38, 40)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(173, 144, 123)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1672",
+      "distance": 60000000,
+      "caption": "Face-on spiral galaxy, NGC 1672, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMA3N77TJ7VMCCQD6MB1MDGE.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(96, 90, 100)",
+          "percent": 23
+        },
+        {
+          "colorCode": "(96, 26, 25)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(187, 124, 102)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 2835",
+      "distance": 35000000,
+      "caption": "Face-on spiral galaxy, NGC 2835, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMA4QGAKSKZ0Z1JQD5YZJW4Q.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(93, 36, 26)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(107, 99, 120)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 127, 53)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 3351",
+      "distance": 33000000,
+      "caption": "Face-on spiral galaxy, NGC 3351, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMA5XEFAE1KT61H08B6ZHRZX.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(138, 140, 128)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(80, 29, 21)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(40, 71, 94)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(158, 53, 29)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(45, 68, 143)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 3627",
+      "distance": 36000000,
+      "caption": "Face-on spiral galaxy, NGC 3627, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMA6PHNNYCPN22FDN611VAKB.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(89, 34, 30)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(88, 87, 98)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(191, 146, 129)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4254",
+      "distance": 50000000,
+      "caption": "Face-on spiral galaxy, NGC 4254, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMA7E9Q34VN3RAXGQE7E5GVV.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(77, 26, 20)",
+          "percent": 24
+        },
+        {
+          "colorCode": "(88, 85, 83)",
+          "percent": 23
+        },
+        {
+          "colorCode": "(187, 159, 146)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(139, 151, 194)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(159, 70, 35)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4303",
+      "distance": 55000000,
+      "caption": "Face-on spiral galaxy, NGC 4303, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMBZZK7YGNRCVY082MQVSRZ6.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(102, 51, 48)",
+          "percent": 14
+        },
+        {
+          "colorCode": "(180, 156, 130)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(123, 130, 161)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(178, 101, 54)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4321",
+      "distance": 55000000,
+      "caption": "Face-on spiral galaxy, NGC 4321, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at bottom left, and the Hubble Space Telescope\u2019s on top right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMC16FVCPTHHGFAB67ZXCFXJ.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(72, 72, 75)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(119, 37, 17)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(199, 204, 217)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(201, 93, 0)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4535",
+      "distance": 50000000,
+      "caption": "Face-on spiral galaxy, NGC 4535, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at bottom left, and the Hubble Space Telescope\u2019s on top right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMC1WYP25W7WS86CD1ZTMED5.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(77, 78, 78)",
+          "percent": 15
+        },
+        {
+          "colorCode": "(80, 23, 21)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(162, 54, 35)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(174, 151, 140)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 5068",
+      "distance": 20000000,
+      "caption": "Face-on spiral galaxy, NGC 5068, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMC2B1WX7305FE35H3MHYG3H.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(90, 81, 84)",
+          "percent": 27
+        },
+        {
+          "colorCode": "(76, 15, 5)",
+          "percent": 13
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(146, 24, 4)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(186, 160, 157)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 154, 0)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy IC 5332",
+      "distance": 30000000,
+      "caption": "Face-on spiral galaxy, IC 5332, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s at bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9QCDE8TA5AFFS5XRTRKY5Z.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(64, 62, 65)",
+          "percent": 43
+        },
+        {
+          "colorCode": "(104, 39, 29)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(163, 140, 130)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(227, 114, 33)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 7496",
+      "distance": 24000000,
+      "caption": "Face-on spiral galaxy, NGC 7496, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HMC2VAHJRPDZW8EE9XM2ZAHR.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(88, 79, 79)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(70, 14, 12)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(173, 188, 222)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(148, 35, 16)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 628",
+      "distance": 32000000,
+      "caption": "Face-on spiral galaxy, NGC 628, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9S6N94YT76MP4ETAG5TWKX.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(65, 21, 14)",
+          "percent": 46
+        },
+        {
+          "colorCode": "(62, 70, 72)",
+          "percent": 26
+        },
+        {
+          "colorCode": "(142, 37, 25)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(236, 228, 213)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(152, 117, 92)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(226, 98, 30)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1087",
+      "distance": 80000000,
+      "caption": "Face-on spiral galaxy, NGC 1087, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9TNEQ0M5XFSAJ9NBHJFSXW.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(84, 29, 26)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(92, 92, 95)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(169, 79, 49)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(140, 161, 211)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(232, 140, 40)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1300",
+      "distance": 69000000,
+      "caption": "Face-on barred spiral galaxy, NGC 1300, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9W1X49F5G3TERHQ2502EHT.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(74, 75, 91)",
+          "percent": 16
+        },
+        {
+          "colorCode": "(82, 29, 21)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(214, 183, 173)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(160, 48, 27)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1365",
+      "distance": 56000000,
+      "caption": "Barred spiral galaxy, NGC 1365, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9X5PVATSFR4YKA12N87GF8.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 75, 64)",
+          "percent": 16
+        },
+        {
+          "colorCode": "(152, 155, 167)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(89, 25, 20)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(187, 80, 53)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1385",
+      "distance": 30000000,
+      "caption": "Face-on spiral galaxy, NGC 1385, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9XSEJ2BDZ219YP4AGF62A1.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(88, 27, 26)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(91, 79, 93)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(235, 235, 237)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(201, 161, 132)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(183, 84, 47)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1433",
+      "distance": 46000000,
+      "caption": "Face-on barred spiral galaxy, NGC 1433, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine\u00a0near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9YBR9973K52KQRMAN835D4.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(90, 30, 35)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(105, 95, 77)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(32, 45, 85)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(216, 214, 220)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(184, 52, 39)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1512",
+      "distance": 30000000,
+      "caption": "Face-on barred spiral galaxy, NGC 1512, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine\u00a0near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+      "image_link": "https://stsci-opo.org/STScI-01HM9Z132VE1VAXT79KHX3DXTF.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 77, 77)",
+          "percent": 20
+        },
+        {
+          "colorCode": "(97, 32, 33)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(172, 157, 150)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(171, 57, 36)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(22, 45, 89)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Uranus Close-up (NIRCam Image)",
+      "distance": -1,
+      "caption": "This image of Uranus from NIRCam (Near-Infrared Camera) on NASA's James Webb Space Telescope shows the planet and its rings in new clarity. The Webb image exquisitely captures Uranus\u2019s seasonal north polar cap, including the bright, white, inner cap and the dark lane in the bottom of the polar cap. Uranus\u2019 dim inner and outer rings are also visible in this image, including the elusive Zeta ring\u2014the extremely faint and diffuse ring closest to the planet.",
+      "image_link": "https://stsci-opo.org/STScI-01HHFNP2T05WKAX43B6BVYD1KR.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(150, 171, 200)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Uranus Wide (NIRCam Image)",
+      "distance": -1,
+      "caption": "This image of Uranus from NIRCam (Near-Infrared Camera) on NASA\u2019s James Webb Space Telescope shows the planet and its rings in new clarity. The planet\u2019s seasonal north polar cap gleams in a bright white, and Webb\u2019s exquisite sensitivity resolves Uranus\u2019 dim inner and outer rings, including the Zeta ring\u2014the extremely faint and diffuse ring closest to the planet.",
+      "image_link": "https://stsci-opo.org/STScI-01HHFPRC79EM3SKWSBXNVKBXTG.png",
+      "type": "Planets",
+      "color_percentages": []
+    },
+    {
+      "title": "IC 348 (NIRCam Image)",
+      "distance": 1000,
+      "caption": "This image from the NIRCam (Near-Infrared Camera) instrument on NASA\u2019s James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter. The smallest weighs just three to four times Jupiter, challenging theories for star formation.",
+      "image_link": "https://stsci-opo.org/STScI-01HFC83QXT6N4MRJ1RS4D5KFJS.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(115, 78, 89)",
+          "percent": 14
+        },
+        {
+          "colorCode": "(231, 165, 197)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(254, 253, 254)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Cassiopeia A (NIRCam Image)",
+      "distance": 11090,
+      "caption": "A new high-definition image from NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) unveils intricate details of supernova remnant Cassiopeia A (Cas A), and shows the expanding shell of material slamming into the gas shed by the star before it exploded.",
+      "image_link": "https://stsci-opo.org/STScI-01HGGZ53NN6J3N8R0EXPG1VH6W.png",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(92, 86, 98)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(201, 141, 166)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "MACS 0416 (Hubble ACS and WFC3 + Webb NIRCam Image)",
+      "distance": -1,
+      "caption": "This panchromatic view of galaxy cluster MACS0416 was created by combining infrared observations from NASA\u2019s James Webb Space Telescope with visible-light data from NASA\u2019s Hubble Space Telescope. To make the image, in general the shortest wavelengths of light were color-coded blue, the longest wavelengths red, and intermediate wavelengths green. The resulting wavelength coverage, from 0.4 to 5 microns, reveals a vivid landscape of galaxies that could be described as one of the most colorful views of the universe ever created.",
+      "image_link": "https://stsci-opo.org/STScI-01HDHATHMQ6H9MD7A4D9MBPPEG.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(109, 89, 69)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(198, 179, 144)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "MACS 0416 (Hubble and Webb Compared)",
+      "distance": -1,
+      "caption": "This side-by-side comparison of galaxy cluster MACS0416 as seen by the Hubble Space Telescope in optical light (left) and the James Webb Space Telescope in infrared light (right) reveals different details. Both images feature hundreds of galaxies, however the Webb image shows galaxies that are invisible or only barely visible in the Hubble image. This is because Webb\u2019s infrared vision can detect galaxies too distant or dusty for Hubble to see. (Light from distant galaxies is redshifted due to the expansion of the universe.) The total exposure time for Webb was about 22 hours, compared to 122 hours of exposure time for the Hubble image.",
+      "image_link": "https://stsci-opo.org/STScI-01HDHHS841WF7NB7NS7DFNGTR1.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(139, 140, 141)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Crab Nebula (NIRCam and MIRI Image)",
+      "distance": 6500,
+      "caption": "NASA\u2019s James Webb Space Telescope has gazed at the Crab Nebula in the search for answers about the supernova remnant\u2019s origins. Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) have revealed new details in infrared light.",
+      "image_link": "https://stsci-opo.org/STScI-01HBBMDW8B4A90QZ64RGQJHRV1.png",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(113, 140, 153)",
+          "percent": 33
+        },
+        {
+          "colorCode": "(95, 77, 62)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 249, 234)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(197, 147, 126)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Crab Nebula (Webb and Hubble Comparison)",
+      "distance": 6500,
+      "caption": "A side-by-side comparison of the Crab Nebula as seen by the Hubble Space Telescope in optical light (left) and the James Webb Space Telescope in infrared light (right). The Hubble image was released in 2005, while astronomers have recently used Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) to reveal new details of the Crab Nebula.",
+      "image_link": "https://stsci-opo.org/STScI-01HBXSJ8AQENKP48XBHYJVHWJV.png",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(94, 92, 90)",
+          "percent": 21
+        },
+        {
+          "colorCode": "(0, 162, 194)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(181, 124, 53)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(84, 42, 17)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(115, 153, 97)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Jupiter (NIRCam Image)",
+      "distance": -1,
+      "caption": "This image of Jupiter from NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) shows stunning details of the majestic planet in infrared light. In this image, brightness indicates high altitude. The numerous bright white \"spots\" and \"streaks\" are likely very high-altitude cloud tops of condensed convective storms. Auroras, appearing in red in this image, extend to higher altitudes above both the northern and southern poles of the planet. By contrast, dark ribbons north of the equatorial region have little cloud cover.",
+      "image_link": "https://stsci-opo.org/STScI-01HCX10DQPZNBJMBR90A2M8CHY.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(95, 117, 150)",
+          "percent": 22
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(116, 179, 148)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "NGC 346 (MIRI Image)",
+      "distance": 200000,
+      "caption": "This new infrared image of NGC 346 from NASA\u2019s James Webb Space Telescope\u2019s Mid-Infrared Instrument (MIRI) traces emission from cool gas and dust. In this image blue represents silicates and sooty chemical molecules known as polycyclic aromatic hydrocarbons, or PAHs. More diffuse red emission shines from warm dust heated by the brightest and most massive stars in the heart of the region. Bright patches and filaments mark areas with abundant numbers of protostars. This image includes 7.7-micron light shown in blue, 10 microns in cyan, 11.3 microns in green, 15 microns in yellow, and 21 microns in red (770W, 1000W, 1130W, 1500W, and 2100W filters, respectively).",
+      "image_link": "https://stsci-opo.org/STScI-01HBVHYACKXBP5Y9R50MAEQYKR.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(94, 47, 47)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(31, 79, 136)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(210, 131, 117)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(254, 254, 254)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(165, 179, 218)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Europa (NIRCam Image)",
+      "distance": -1,
+      "caption": "NIRCam (the Near Infrared Camera) on NASA\u2019s James Webb Space Telescope captured this picture of the surface of Jupiter\u2019s moon Europa. Webb identified carbon dioxide on the icy surface of Europa that likely originated in the moon\u2019s subsurface ocean. This discovery has important implications for the potential habitability of Europa\u2019s ocean. The moon appears mostly blue because it is brighter at shorter infrared wavelengths. The white features correspond with the chaos terrain Powys Regio (left) and Tara Regio (center and right), which show enhanced carbon dioxide ice on the surface.",
+      "image_link": "https://stsci-opo.org/STScI-01H69AV49MW1M25VT0SNHX3XTA.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(85, 154, 209)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 249)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "HH 211 (NIRCam Image)",
+      "distance": 1000,
+      "caption": "NASA\u2019s James Webb Space Telescope\u2019s high resolution, near-infrared look at Herbig-Haro 211 reveals exquisite detail of the outflow of a young star, an infantile analogue of our Sun. Herbig-Haro objects are formed when stellar winds or jets of gas spewing from newborn stars form shock waves colliding with nearby gas and dust at high speeds",
+      "image_link": "https://stsci-opo.org/STScI-01H9NWHWKBM3DM6PQQPZDSVY7Y.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(30, 63, 96)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(136, 174, 215)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(119, 111, 108)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(187, 104, 107)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "NGC 5584 (Webb NIRCam + Hubble WFC3)",
+      "distance": 72000000,
+      "caption": "Combined observations from NASA\u2019s NIRCam (Near-Infrared Camera) and Hubble\u2019s WFC3 (Wide Field Camera 3) show spiral galaxy NGC 5584, which resides 72 million light-years away from Earth. Among NGC 5584\u2019s glowing stars are pulsating stars called Cepheid variables and Type Ia supernova, a special class of exploding stars. Astronomers use Cepheid variables and Type Ia supernovae as reliable distance markers to measure the universe\u2019s expansion rate.",
+      "image_link": "https://stsci-opo.org/STScI-01H9NTVTH43187J55MB3QGBNMY.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(88, 93, 112)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(96, 33, 35)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Supernova 1987A (NIRCam Image)",
+      "distance": 163000,
+      "caption": "Webb\u2019s NIRCam (Near-Infrared Camera) captured this detailed image of SN 1987A (Supernova 1987A). At the center, material ejected from the supernova forms a keyhole shape. Just to its left and right are faint crescents newly discovered by Webb. Beyond them an equatorial ring, formed from material ejected tens of thousands of years before the supernova explosion, contains bright hot spots. Exterior to that is diffuse emission and two faint outer rings. In this image blue represents light at 1.5 microns (F150W), cyan 1.64 and 2.0 microns (F164N, F200W), yellow 3.23 microns (F323N), orange 4.05 microns (F405N), and red 4.44 microns (F444W).",
+      "image_link": "https://stsci-opo.org/STScI-01H8Q0314JZ8C08QGG70FDMH4F.png",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(87, 39, 39)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(161, 154, 171)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Ring Nebula (NIRCam Image)",
+      "distance": 2300,
+      "caption": "NASA\u2019s James Webb Space Telescope has observed the well-known Ring Nebula in unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also known as M57 and NGC 6720, it is relatively close to Earth at roughly 2,500 light-years away.",
+      "image_link": "https://stsci-opo.org/STScI-01H82G1P61JMNCENZ6S3D6AGHQ.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(37, 102, 130)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(168, 161, 153)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(100, 52, 64)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Ring Nebula (MIRI image)",
+      "distance": 2300,
+      "caption": "NASA\u2019s James Webb Space Telescope has observed the well-known Ring Nebula with unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also known as M57 and NGC 6720, it is relatively close to Earth at roughly 2,500 light-years away.",
+      "image_link": "https://stsci-opo.org/STScI-01H82PFHGYX6VBJXTWJJJKV0YJ.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(28, 47, 103)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(255, 120, 110)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(106, 122, 146)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(254, 255, 255)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(227, 168, 153)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Sunrise Arc (NIRCam Image)",
+      "distance": 12900000000,
+      "caption": "This image from NASA\u2019s James Webb Space Telescope of a massive galaxy cluster called WHL0137-08 contains the most strongly magnified galaxy known in the universe\u2019s first billion years: the Sunrise Arc, and within that galaxy, the most distant star ever detected.",
+      "image_link": "https://stsci-opo.org/STScI-01H6BZB3K3WNZ50KYNA39XPWRG.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(105, 92, 77)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "El Gordo (NIRCam Image)",
+      "distance": 7600000000,
+      "caption": "Webb\u2019s infrared image of the galaxy cluster El Gordo (\u201cthe Fat One\u201d) reveals hundreds of galaxies, some never before seen at this level of detail. El Gordo acts as a gravitational lens, distorting and magnifying the light from distant background galaxies. Two of the most prominent features in the image include the Thin One, located just below and left of the image center, and the Fishhook, a red swoosh at upper right. Both are lensed background galaxies.",
+      "image_link": "https://stsci-opo.org/STScI-01GZY227TJADC5CHE24EZ5M2DS.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(116, 99, 92)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Herbig-Haro 46/47 (NIRCam Image)",
+      "distance": 1470,
+      "caption": "These stars have a lot of energy to let loose!",
+      "image_link": "https://stsci-opo.org/STScI-01H5308GYAN46P3HX4PQ20HP31.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 54, 94)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(255, 186, 171)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(159, 141, 171)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(0, 134, 185)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(95, 52, 37)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Rho Ophiuchi (NIRCam Image)",
+      "distance": 390,
+      "caption": "The first anniversary image from NASA\u2019s James Webb Space Telescope displays star birth like it\u2019s never been seen before, full of detailed, impressionistic texture. The subject is the Rho Ophiuchi cloud complex, the closest star-forming region to Earth. It is a relatively small, quiet stellar nursery, but you\u2019d never know it from Webb\u2019s chaotic close-up. Jets bursting from young stars crisscross the image, impacting the surrounding interstellar gas and lighting up molecular hydrogen, shown in red. Some stars display the telltale shadow of a circumstellar disk, the makings of future planetary systems.",
+      "image_link": "https://stsci-opo.org/STScI-01H4491MFFYDF52V1ZATNMCAAK.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 84, 105)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(136, 82, 45)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(165, 168, 151)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(119, 117, 199)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Cosmic Evolution Early Release Science (CEERS) Survey (NIRCam Image)",
+      "distance": -1,
+      "caption": "Stare deeply at this vast landscape. It was stitched together from multiple images captured by the James Webb Space Telescope in near-infrared light \u2013 and it is practically pulsing with activity.",
+      "image_link": "https://stsci-opo.org/STScI-01GYZ720K7ZG80071RJCS2TM5T.png",
+      "type": "Fields",
+      "color_percentages": []
+    },
+    {
+      "title": "ASPIRE Cosmic Filament (NIRCam Image)",
+      "distance": -1,
+      "caption": "This deep galaxy field from Webb\u2019s NIRCam (Near-Infrared Camera) shows an arrangement of 10 distant galaxies marked by eight white circles in a diagonal, thread-like line. (Two of the circles contain more than one galaxy.) This 3 million light-year-long filament is anchored by a very distant and luminous quasar \u2013 a galaxy with an active, supermassive black hole at its core. The quasar, called J0305-3150, appears in the middle of the cluster of three circles on the right side of the image. Its brightness outshines its host galaxy. The 10 marked galaxies existed just 830 million years after the big bang. The team believes the filament will eventually evolve into a massive cluster of galaxies.",
+      "image_link": "https://stsci-opo.org/STScI-01H3D6QZ1J5FYK1A3BPM8RG5MP.png",
+      "type": "Galaxies",
+      "color_percentages": []
+    },
+    {
+      "title": "Orion Bar (NIRCam Image)",
+      "distance": 1350,
+      "caption": "This image taken by Webb\u2019s NIRCam (Near-Infrared Camera) shows a part of the Orion Nebula known as the Orion Bar. It is a region where energetic ultraviolet light from the Trapezium Cluster \u2014 located off the upper-left corner \u2014 interacts with dense molecular clouds. The energy of the stellar radiation is slowly eroding the Orion Bar, and this has a profound effect on the molecules and chemistry in the protoplanetary disks that have formed around newborn stars here.",
+      "image_link": "https://stsci-opo.org/STScI-01H2TX6BJ4XM4XDKF07NYST1PQ.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(169, 142, 142)",
+          "percent": 20
+        },
+        {
+          "colorCode": "(97, 56, 27)",
+          "percent": 13
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(204, 120, 76)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(0, 119, 144)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Orion Bar (MIRI Image)",
+      "distance": 1350,
+      "caption": "This image from Webb\u2019s MIRI (Mid-Infrared Instrument) shows a small region of the Orion Nebula. At the center of this view is a young star system with a protoplanetary disk named d203-506. An international team of astronomers detected a new carbon molecule known as methyl cation for the first time in d203-506.",
+      "image_link": "https://stsci-opo.org/STScI-01H2V05HTQZBKQ855Q2WREMF2M.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(255, 202, 203)",
+          "percent": 17
+        },
+        {
+          "colorCode": "(99, 43, 20)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(86, 104, 138)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(203, 95, 0)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(0, 29, 78)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 173, 0)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(188, 90, 101)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 183, 114)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Quasar J0100+2802 (NIRCam Image)",
+      "distance": 12800000000,
+      "caption": "There are more than 20,000 galaxies in this field. This James Webb Space Telescope view is found between the Pisces and Andromeda constellations.",
+      "image_link": "https://stsci-opo.org/STScI-01H1CHFAMCWD257Z6C34B6QRAS.png",
+      "type": "Fields",
+      "color_percentages": [
+        {
+          "colorCode": "(128, 148, 155)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "JWST Advanced Deep Extragalactic Survey (NIRCam Image)",
+      "distance": -1,
+      "caption": "This infrared image from NASA\u2019s James Webb Space Telescope (JWST) was taken for the JWST Advanced Deep Extragalactic Survey, or JADES, program. It shows a portion of an area of the sky known as GOODS-South, which has been well studied by the Hubble Space Telescope and other observatories. More than 45,000 galaxies are visible here.",
+      "image_link": "https://stsci-opo.org/STScI-01H1Q1D0J4DSCEXAZBD8M7JVNA.png",
+      "type": "Fields",
+      "color_percentages": [
+        {
+          "colorCode": "(89, 96, 107)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Comet 238P/Read (NIRCam Image)",
+      "distance": -1,
+      "caption": "This image of Comet 238P/Read was captured by the NIRCam (Near-Infrared Camera) instrument on NASA\u2019s James Webb Space Telescope on September 8, 2022. It displays the hazy halo, called the coma, and tail that are characteristic of comets, as opposed to asteroids. The dusty coma and tail result from the vaporization of ices as the Sun warms the main body of the comet.",
+      "image_link": "https://stsci-opo.org/STScI-01H05KPX0METAZ6V7MGHCGW8K5.png",
+      "type": "Planets",
+      "color_percentages": []
+    },
+    {
+      "title": "Fomalhaut Dusty Debris Disk (MIRI Image)",
+      "distance": 25,
+      "caption": "This image of the dusty debris disk surrounding the young star Fomalhaut is from Webb\u2019s Mid-Infrared Instrument (MIRI). It reveals three nested belts extending out to 14 billion miles (23 billion kilometers) from the star. The inner belts \u2013 which had never been seen before \u2013 were revealed by Webb for the first time.",
+      "image_link": "https://stsci-opo.org/STScI-01GWWGQS865ZVQ33Y8WFEEPRZH.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(80, 27, 10)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(169, 80, 33)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(246, 191, 96)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Arp 220 (NIRCam and MIRI image)",
+      "distance": 250000000,
+      "caption": "Shining like a brilliant beacon amidst a sea of galaxies, Arp 220 lights up the night sky in this view from NASA\u2019s James Webb Space Telescope. Actually two spiral galaxies in the process of merging, Arp 220 glows brightest in infrared light, making it an ideal target for Webb. It is an ultra-luminous infrared galaxy (ULIRG) with a luminosity of more than a trillion suns. In comparison, our Milky Way galaxy has a much more modest luminosity of about ten billion suns.",
+      "image_link": "https://stsci-opo.org/STScI-01GXS0A0ZQE6VGE2V65D3WYQY5.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(158, 123, 123)",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "title": "Cassiopeia A (MIRI Image)",
+      "distance": 11090,
+      "caption": "Cassiopeia A (Cas A) is a supernova remnant located about 11,000 light-years from Earth in the constellation Cassiopeia. It spans approximately 10 light-years. This new image uses data from Webb\u2019s Mid-Infrared Instrument (MIRI) to reveal Cas A in a new light.",
+      "image_link": "https://stsci-opo.org/STScI-01GWQBCEQ7NP3XKS10BA2JYG3F.png",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 71, 83)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(93, 59, 59)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(237, 232, 228)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(240, 185, 125)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(188, 95, 66)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Uranus (NIRCam Image)",
+      "distance": -1,
+      "caption": "This zoomed-in image of Uranus, captured by Webb\u2019s Near-Infrared Camera (NIRCam) Feb. 6, 2023, reveals stunning views of the planet\u2019s rings. The planet displays a blue hue in this representative-color image, made by combining data from two filters (F140M, F300M) at 1.4 and 3.0 microns, which are shown here as blue and orange, respectively.",
+      "image_link": "https://stsci-opo.org/STScI-01GWQD7A9PKX6A8M932DSQT6G5.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(233, 231, 229)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(72, 88, 96)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(115, 195, 232)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "WR 124 (NIRCam and MIRI Composite Image)",
+      "distance": 15000,
+      "caption": "The luminous, hot star Wolf-Rayet 124 (WR 124) is prominent at the center of the James Webb Space Telescope\u2019s composite image combining near-infrared and mid-infrared wavelengths of light. The star displays the characteristic diffraction spikes of Webb\u2019s Near-Infrared Camera (NIRCam), caused by the physical structure of the telescope itself. NIRCam effectively balances the brightness of the star with the fainter gas and dust surrounding it, while Webb\u2019s Mid-Infrared Instrument (MIRI) reveals the nebula\u2019s structure.",
+      "image_link": "https://stsci-opo.org/STScI-01GTWAST9CFPWNH0VRSH8WVK04.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(89, 36, 56)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(184, 125, 132)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(251, 251, 251)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(103, 126, 144)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "WR 124 (MIRI Image)",
+      "distance": 15000,
+      "caption": "Wolf-Rayet stars are known to be efficient dust producers, and the Mid-Infrared Instrument (MIRI) on NASA\u2019s James Webb Space Telescope shows this to great effect. Cooler cosmic dust glows at the longer mid-infrared wavelengths, displaying the structure of WR 124\u2019s nebula. The 10 light-years-wide nebula is made of material cast off from the aging star in random ejections, and from dust produced in the ensuing turbulence. This brilliant stage of mass loss precedes the star\u2019s eventual supernova, when nuclear fusion in its core stops and the pressure of gravity causes it to collapse in on itself and then explode. As MIRI demonstrates here, Webb will help astronomers to explore questions that were previously only left to theory \u2013 about how much dust stars like this create before exploding in a supernova, and how much of that dust is large enough to survive the blast and go on to serve as building blocks of future stars, planets, and complex molecules.",
+      "image_link": "https://stsci-opo.org/STScI-01GTWBKC8G8ZBW11BA0TE7BNS1.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(99, 45, 60)",
+          "percent": 17
+        },
+        {
+          "colorCode": "(148, 73, 140)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(204, 153, 169)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Globular Cluster M92 (NIRCam Image)",
+      "distance": 26700,
+      "caption": "Image of the globular cluster Messier 92 (M92) captured by the James Webb Space Telescope\u2019s NIRCam instrument. The black strip in the center is a chip gap, the result of the separation between NIRCam\u2019s two long-wavelength detectors. The gap covers the dense center of the cluster, which is too bright to capture at the same time as the fainter, less dense outskirts of the cluster.",
+      "image_link": "https://stsci-opo.org/STScI-01GQQ6JPC22FHYYG0J3DCB5B5S.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(78, 78, 74)",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "title": "NGC 1433 (MIRI Image)",
+      "distance": 46000000,
+      "caption": "This image taken by NASA\u2019s James Webb Space Telescope shows one of a total of 19 galaxies targeted for study by the Physics at High Angular resolution in Nearby Galaxies (PHANGS) collaboration. Nearby barred spiral galaxy NGC 1433 takes on a completely new look when observed by Webb\u2019s Mid-Infrared Instrument (MIRI).",
+      "image_link": "https://stsci-opo.org/STScI-01GS6A1P3YPQCNS3MXDCFQ1A4F.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(57, 85, 91)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(169, 158, 154)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "NGC 7496 (MIRI Image)",
+      "distance": 24000000,
+      "caption": "Scientists are getting their first look with NASA\u2019s James Webb Space Telescope\u2019s powerful resolution at how the formation of young stars influences the evolution of nearby galaxies. The spiral arms of NGC 7496, one of a total of 19 galaxies targeted for study by the Physics at High Angular resolution in Nearby Galaxies (PHANGS) collaboration, are filled with cavernous bubbles and shells overlapping one another in this image from Webb\u2019s Mid-Infrared Instrument (MIRI). These filaments and hollow cavities are evidence of young stars releasing energy and, in some cases, blowing out the gas and dust of the interstellar medium surrounding them.",
+      "image_link": "https://stsci-opo.org/STScI-01GS80CFQW0GEZXBXKNQEMZF7E.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(71, 88, 95)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "NGC 1365 (MIRI Image)",
+      "distance": 56000000,
+      "caption": "Scientists are getting their first look with NASA\u2019s James Webb Space Telescope\u2019s powerful resolution at how the formation of young stars influences the evolution of nearby galaxies. NGC 1365, observed here by Webb\u2019s Mid-Infrared Instrument (MIRI), is one of a total of 19 galaxies targeted for study by the Physics at High Angular resolution in Nearby Galaxies (PHANGS) collaboration.",
+      "image_link": "https://stsci-opo.org/STScI-01GS812ZSR75EFTHTY2TP8YA5F.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 94, 94)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(254, 248, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(187, 149, 163)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Pandora's Cluster (NIRCam Image)",
+      "distance": 3500000000,
+      "caption": "Astronomers estimate 50,000 sources of near-infrared light are represented in this image from NASA\u2019s James Webb Space Telescope. Their light has travelled through varying distances to reach the telescope\u2019s detectors, representing the vastness of space in a single image. A foreground star in our own galaxy, to the right of the image center, displays Webb\u2019s distinctive diffraction spikes. Bright white sources surrounded by a hazy glow are the galaxies of Pandora\u2019s Cluster, a conglomeration of already-massive clusters of galaxies coming together to form a megacluster. The concentration of mass is so great that the fabric of spacetime is warped by gravity, creating an effect that makes the region of special interest to astronomers: a natural, super-magnifying glass called a \u201cgravitational lens\u201d that they can use to see very distant sources of light beyond the cluster that would otherwise be undetectable, even to Webb.",
+      "image_link": "https://stsci-opo.org/STScI-01GQQF50BGK43DS55KHHVVCVG1.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(106, 99, 98)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "NGC 346 (NIRCam Image)",
+      "distance": 200000,
+      "caption": "NGC 346, shown here in this image from NASA\u2019s James Webb Space Telescope Near-Infrared Camera (NIRCam), is a dynamic star cluster that lies within a nebula 200,000 light years away. Webb reveals the presence of many more building blocks than previously expected, not only for stars, but also planets, in the form of clouds packed with dust and hydrogen.",
+      "image_link": "https://stsci-opo.org/STScI-01GNYJM13ZB57AJ51PH33T5S9F.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(139, 76, 85)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(220, 185, 169)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "JWST Advanced Deep Extragalactic Survey (JADES)",
+      "distance": -1,
+      "caption": "This image taken by the James Webb Space Telescope highlights the region of study by the JWST Advanced Deep Extragalactic Survey (JADES). This area is in and around the Hubble Space Telescope\u2019s Ultra Deep Field. Scientists used Webb\u2019s NIRCam instrument to observe the field in nine different infrared wavelength ranges. From these images, the team searched for faint galaxies that are visible in the infrared but whose spectra abruptly cut off at a critical wavelength. They conducted additional observations (not shown here) with Webb\u2019s NIRSpec instrument to measure each galaxy\u2019s redshift and reveal the properties of the gas and stars in these galaxies.",
+      "image_link": "https://stsci-opo.org/STScI-01GKT0S3BJED8Q89Z2JKVFPQZ8.png",
+      "type": "Fields",
+      "color_percentages": [
+        {
+          "colorCode": "(124, 124, 124)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Two Views of the Gas in the Southern Ring Nebula (NIRCam and MIRI Composite Images)",
+      "distance": 2000,
+      "caption": "The Webb Space Telescope offers dramatically different views of the same scene! Each image combines near- and mid-infrared light from three filters.",
+      "image_link": "https://stsci-opo.org/STScI-01GJZFHKRPMNR6G23YS35RBV4F.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(152, 147, 142)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(243, 243, 243)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(96, 46, 47)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Pillars of Creation (NIRCam and MIRI Composite Image)",
+      "distance": 6500,
+      "caption": "By combining images of the iconic Pillars of Creation from two cameras aboard NASA\u2019s James Webb Space Telescope, the universe has been framed in its infrared glory. Webb\u2019s near-infrared image was fused with its mid-infrared image, setting this star-forming region ablaze with new details.",
+      "image_link": "https://stsci-opo.org/STScI-01GK2KM4N6Q1XGTKDVM4AQ3HQ7.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(25, 37, 54)",
+          "percent": 37
+        },
+        {
+          "colorCode": "(97, 49, 49)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(146, 149, 145)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(167, 63, 28)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(113, 89, 132)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "L1527 and Protostar (NIRCam Image)",
+      "distance": 460,
+      "caption": "The protostar within the dark cloud L1527, shown in this image from NASA\u2019s James Webb Space Telescope Near-Infrared Camera (NIRCam), is embedded within a cloud of material feeding its growth. Ejections from the star have cleared out cavities above and below it, whose boundaries glow orange and blue in this infrared view. The upper central region displays bubble-like shapes due to stellar \u201cburps,\u201d or sporadic ejections. Webb also detects filaments made of molecular hydrogen that has been shocked by past stellar ejections. The edges of the cavities at upper left and lower right appear straight, while the boundaries at upper right and lower left are curved. The region at lower right appears blue, as there\u2019s less dust between it and Webb than the orange regions above it.",
+      "image_link": "https://stsci-opo.org/STScI-01GGWCY2S6MMY594JESZYYSVZ2.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(222, 125, 73)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(109, 46, 32)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(0, 44, 138)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(209, 178, 202)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(115, 79, 113)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Dwarf Galaxy WLM (NIRCam Image)",
+      "distance": 3000000,
+      "caption": "A portion of the dwarf galaxy Wolf\u2013Lundmark\u2013Melotte (WLM) captured by the James Webb Space Telescope\u2019s Near-Infrared Camera. The image demonstrates Webb\u2019s remarkable ability to resolve faint stars outside the Milky Way. Color translation: 0.9-micron light is shown in blue, 1.5-micron in cyan, 2.5-micron in yellow, and 4.3-micron in red (filters F090W, F150W, F250M, and F430M).",
+      "image_link": "https://stsci-opo.org/STScI-01GHBYD4MG8BD08XP0X2E60C8Q.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(91, 96, 106)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Pillars of Creation (MIRI Image)",
+      "distance": 6500,
+      "caption": "NASA\u2019s James Webb Space Telescope\u2019s mid-infrared view of the Pillars of Creation strikes a chilling tone. Thousands of stars that exist in this region disappear \u2013 and seemingly endless layers of gas and dust become the centerpiece.",
+      "image_link": "https://stsci-opo.org/STScI-01GFRYX6CJ1ZTKW4PHAE55BY8P.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(96, 40, 16)",
+          "percent": 14
+        },
+        {
+          "colorCode": "(51, 91, 108)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(192, 76, 0)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Pillars of Creation (NIRCam Image)",
+      "distance": 6500,
+      "caption": "The Pillars of Creation are set off in a kaleidoscope of color in NASA\u2019s James Webb Space Telescope\u2019s near-infrared-light view. The pillars look like arches and spires rising out of a desert landscape, but are filled with semi-transparent gas and dust, and ever changing. This is a region where young stars are forming \u2013 or have barely burst from their dusty cocoons as they continue to form.",
+      "image_link": "https://stsci-opo.org/STScI-01GF42D0KV99R21EAD1RAZ3JB7.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 20, 2)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(6, 33, 81)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(178, 122, 60)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(88, 91, 105)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Pillars of Creation (Hubble and Webb Images Side by Side)",
+      "distance": 6500,
+      "caption": "NASA's Hubble Space Telescope made the Pillars of Creation famous with its first image in 1995, but revisited the scene in 2014 to reveal a sharper, wider view in visible light, shown above at left.",
+      "image_link": "https://stsci-opo.org/STScI-01GF44F9Y10HZB8SPV2NZ8H6TZ.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(65, 88, 115)",
+          "percent": 23
+        },
+        {
+          "colorCode": "(100, 95, 70)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(148, 79, 37)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(205, 180, 133)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Wolf-Rayet 140 (MIRI)",
+      "distance": 5600,
+      "caption": "Shells of cosmic dust created by the interaction of binary stars appear like tree rings around Wolf-Rayet 140. The remarkable regularity of the shells\u2019 spacing indicates that they form like clockwork during the stars\u2019 eight-year orbit cycle, when the two members of the binary make their closest approach to one another. In this image, blue, green, and red were assigned to Webb\u2019s Mid-Infrared Instrument (MIRI) data at 7.7, 15, and 21 microns (F770W, F1500W, and F2100W filters, respectively).",
+      "image_link": "https://stsci-opo.org/STScI-01GEPRPYZKGEY9GT152DEK45GC.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(124, 75, 73)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Interacting Galaxies VV 191 (Webb and Hubble Composite Image)",
+      "distance": -1,
+      "caption": "Editor\u2019s Note: This post highlights data from Webb science in progress, which has not yet been through the peer-review process.",
+      "image_link": "https://stsci-opo.org/STScI-01GE0993DBCZXEBR2ZH5JAHTT6.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(91, 83, 82)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(211, 200, 215)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb View of Dimorphos Ejecta (NIRCam)",
+      "distance": -1,
+      "caption": "This image from NASA\u2019s James Webb Space Telescope\u2019s Near-Infrared Camera (NIRCam) instrument shows Dimorphos, the asteroid moonlet in the double-asteroid system of Didymos, about 4 hours after NASA\u2019s Double Asteroid Redirection Test (DART) made impact. A tight, compact core and plumes of material appearing as wisps streaming away from the center of where the impact took place, are visible in the image. Those sharp points are Webb\u2019s distinctive eight diffraction spikes, an artifact of the telescope\u2019s structure.",
+      "image_link": "https://stsci-opo.org/STScI-01GE4RT3Z3320M9PNTDC6HA61Z.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(101, 36, 25)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(219, 128, 112)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Neptune (NIRCam)",
+      "distance": -1,
+      "caption": "This image of the Neptune system, captured by Webb\u2019s Near-Infrared Camera (NIRCam), reveals stunning views of the planet\u2019s rings, which have not been seen with this clarity in more than three decades. Webb\u2019s new image of Neptune also captures details of the planet\u2019s turbulent, windy atmosphere.",
+      "image_link": "https://stsci-opo.org/STScI-01GCCV90ETRGPQSGFSAP6W1E7F.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(187, 179, 195)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Neptune Close Up (NIRCam)",
+      "distance": -1,
+      "caption": "Webb\u2019s Near-Infrared Camera (NIRCam) image of Neptune, taken on July 12, 2022, brings the planet\u2019s rings into full focus for the first time in more than three decades.",
+      "image_link": "https://stsci-opo.org/STScI-01GCVNBND6RJ9360JKJ1G86Q0V.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(185, 173, 191)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(86, 65, 84)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Neptune Wide Field (NIRCam)",
+      "distance": -1,
+      "caption": "In this image by Webb\u2019s Near-Infrared Camera (NIRCam), a smattering of hundreds of background galaxies, varying in size and shape, appear alongside the Neptune system.",
+      "image_link": "https://stsci-opo.org/STScI-01GCCVQDANCA5Q777TR8R0V63R.png",
+      "type": "Planets",
+      "color_percentages": []
+    },
+    {
+      "title": "Mars (NIRCam Images)",
+      "distance": -1,
+      "caption": "Editor\u2019s Note: The findings reported here are based on preliminary results that have not been shared formally with the scientific community via peer-reviewed publication.",
+      "image_link": "https://stsci-opo.org/STScI-01GD405FJ85PXRKE10RY92KGDG.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(78, 78, 78)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(241, 240, 121)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(133, 52, 19)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(109, 24, 110)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(251, 158, 7)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Cartwheel Galaxy (NIRCam and MIRI Composite Image)",
+      "distance": 500000000,
+      "caption": "This image of the Cartwheel and its companion galaxies is a composite from Webb\u2019s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), which reveals details that are difficult to see in the individual images alone.",
+      "image_link": "https://stsci-opo.org/STScI-01G8JXRG3DGMM2R8HS37YRG531.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(144, 137, 155)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(181, 73, 54)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(254, 218, 220)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Cartwheel Galaxy (MIRI Image)",
+      "distance": 500000000,
+      "caption": "This image from Webb\u2019s Mid-Infrared Instrument (MIRI) shows a group of galaxies, including a large distorted ring-shaped galaxy known as the Cartwheel. The Cartwheel Galaxy, located 500 million light-years away in the Sculptor constellation, is composed of a bright inner ring and an active outer ring. While this outer ring has a lot of star formation, the dusty area in between reveals many stars and star clusters.",
+      "image_link": "https://stsci-opo.org/STScI-01G8KCAK75G2JPGHNC40PVTA1R.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(45, 72, 103)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "\u201cCosmic Cliffs\u201d in the Carina Nebula (NIRCam Image)",
+      "distance": 7600,
+      "caption": "What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) on NASA\u2019s James Webb Space Telescope, this image reveals previously obscured areas of star birth.",
+      "image_link": "https://stsci-opo.org/STScI-01G77PKYA4T05YKJ3EDQ36NZCX.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(124, 60, 45)",
+          "percent": 34
+        },
+        {
+          "colorCode": "(26, 66, 130)",
+          "percent": 20
+        },
+        {
+          "colorCode": "(200, 139, 82)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(116, 150, 192)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "\u201cCosmic Cliffs\u201d in the Carina Nebula (NIRCam and MIRI Composite Image)",
+      "distance": 7600,
+      "caption": "Astronomers using NASA\u2019s James Webb Space Telescope combined the capabilities of the telescope\u2019s two cameras to create a never-before-seen view of a star-forming region in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), this combined image reveals previously invisible areas of star birth.",
+      "image_link": "https://stsci-opo.org/STScI-01G780XGWBQ25CH43DP4NGBYMD.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(67, 62, 70)",
+          "percent": 56
+        },
+        {
+          "colorCode": "(162, 136, 138)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Stephan's Quintet (NIRCam and MIRI Composite Image)",
+      "distance": 290000000,
+      "caption": "An enormous mosaic of Stephan\u2019s Quintet is the largest image to date from NASA\u2019s James Webb Space Telescope, covering about one-fifth of the Moon\u2019s diameter. It contains over 150 million pixels and is constructed from almost 1,000 separate image files. The visual grouping of five galaxies was captured by Webb\u2019s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI).",
+      "image_link": "https://stsci-opo.org/STScI-01G7DA7WM13DBQNKV4EHRFCCJ7.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(85, 82, 99)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(252, 233, 223)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Stephan's Quintet (MIRI Image)",
+      "distance": 290000000,
+      "caption": "With its powerful, mid-infrared vision, the Mid-Infrared Instrument (MIRI) shows never-before-seen details of Stephan\u2019s Quintet, a visual grouping of five galaxies. MIRI pierced through dust-enshrouded regions to reveal huge shock waves and tidal tails, gas and stars stripped from the outer regions of the galaxies by interactions. It also unveiled hidden areas of star formation. The new information from MIRI provides invaluable insights into how galactic interactions may have driven galaxy evolution in the early universe.",
+      "image_link": "https://stsci-opo.org/STScI-01G7DBCTRCGSFP6NWA1S9C6KBP.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(50, 63, 101)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(152, 129, 156)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Southern Ring Nebula (NIRCam and MIRI Images Side by Side)",
+      "distance": 2000,
+      "caption": "This side-by-side comparison shows observations of the Southern Ring Nebula in near-infrared light, at left, and mid-infrared light, at right, from NASA\u2019s Webb Telescope.",
+      "image_link": "https://stsci-opo.org/STScI-01G709RFDHBXFGJ68SZXHNBAVM.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(133, 133, 133)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(69, 18, 4)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(172, 63, 54)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Southern Ring Nebula (NIRCam Image)",
+      "distance": 2000,
+      "caption": "The bright star at the center of NGC 3132, while prominent when viewed by NASA\u2019s Webb Telescope in near-infrared light, plays a supporting role in sculpting the surrounding nebula. A second star, barely visible at lower left along one of the bright star\u2019s diffraction spikes, is the nebula\u2019s source. It has ejected at least eight layers of gas and dust over thousands of years.",
+      "image_link": "https://stsci-opo.org/STScI-01G70BN48JR6M4ZTW3642X2D2H.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(67, 10, 3)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(123, 86, 97)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(175, 175, 213)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(150, 78, 31)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Southern Ring Nebula (MIRI Image)",
+      "distance": 2000,
+      "caption": "NASA\u2019s Webb Telescope has revealed the cloak of dust around the second star, shown at left in red, at the center of the Southern Ring Nebula for the first time. It is a hot, dense white dwarf star.",
+      "image_link": "https://stsci-opo.org/STScI-01G70C5W053HDANT4825MK67XW.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(78, 95, 105)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(176, 68, 69)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(213, 168, 152)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb's First Deep Field (NIRCam Image)",
+      "distance": 4240000000,
+      "caption": "Thousands of galaxies flood this near-infrared image of galaxy cluster SMACS 0723. High-resolution imaging from NASA\u2019s James Webb Space Telescope combined with a natural effect known as gravitational lensing made this finely detailed image possible.",
+      "image_link": "https://stsci-opo.org/STScI-01G7DCYVZ899DGSY684E801B2Y.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(96, 98, 98)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Webb\u2019s First Deep Field (MIRI and NIRCam Images Side by Side)",
+      "distance": 4240000000,
+      "caption": "Galaxy cluster SMACS 0723 is a technicolor landscape when viewed in mid-infrared light by NASA\u2019s James Webb Space Telescope. Compared to Webb\u2019s near-infrared image at right, the galaxies and stars are awash in new colors.",
+      "image_link": "https://stsci-opo.org/STScI-01G7DDFWDZG05PEZV7FBBHMH0J.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(137, 137, 137)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Webb's First Deep Field Unveiled (NIRCam Image)",
+      "distance": 4240000000,
+      "caption": "NASA\u2019s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb\u2019s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail.",
+      "image_link": "https://stsci-opo.org/STScI-01G7JHZCV9737KVQ1ZWB717GFN.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(96, 98, 98)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Hubble Ultra Deep Field",
+      "distance": -1,
+      "caption": "This Hubble Space Telescope image, known as the Hubble Ultra Deep Field, reveals about 10,000 galaxies and combines ultraviolet, visible, and near-infrared light. Two programs that will use the James Webb Space Telescope will add more detail to this image, capturing thousands of additional galaxies in a fuller range of infrared light. Webb will return both imagery and data known as spectra, providing more details about some of the earliest galaxies to exist in the universe for the first time.",
+      "image_link": "https://stsci-opo.org/STScI-01FY712AC9V49V2SS034E9QBC3.png",
+      "type": "Fields",
+      "color_percentages": []
+    },
+    {
+      "title": "Interstellar Comet 2I/Borisov (Hubble)",
+      "distance": -1,
+      "caption": "This Hubble Space Telescope image of 2I/Borisov shows the first observed rogue comet, a comet from interstellar space that is not gravitationally bound to a star.  It was discovered in 2019 and is the second identified interstellar interloper, after 'Oumuamua. 2I/Borisov looks a lot like the traditional comets found inside our solar system, which sublimate ices and cast off dust as they are warmed by the Sun. The wandering comet provided invaluable clues to the chemical composition, structure, and dust characteristics of planetary building blocks presumably forged in an alien star system. It\u2019s rapidly moving away from our Sun and will eventually head back into interstellar space, never to return.",
+      "image_link": "https://stsci-opo.org/STScI-01FW02AH4MFYGFQ2JKF8Y5SCPM.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(16, 62, 109)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Multiwavelength View of NGC 3351 (Hubble, VLT, ALMA)",
+      "distance": 33000000,
+      "caption": "This image of spiral galaxy NGC 3351 combines observations from several observatories to reveal details about its stars and gas. Radio observations from the Atacama Large Millimeter/submillimeter Array (ALMA) show dense molecular gas in magenta. The Very Large Telescope\u2019s Multi Unit Spectroscopic Explorer (MUSE) instrument highlights where young massive stars illuminate their surroundings, set off in red. The Hubble Space Telescope\u2019s images highlight dust lanes in white and newly formed stars in blue. High-resolution infrared images from the Webb Space Telescope will help researchers identify where stars are forming behind dust and study the earliest stages of star formation in this galaxy.",
+      "image_link": "https://stsci-opo.org/STScI-01FRNFJGRM1C2R69W7K2327959.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(146, 140, 138)",
+          "percent": 13
+        },
+        {
+          "colorCode": "(92, 62, 95)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(248, 235, 251)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(120, 49, 39)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(216, 154, 207)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiwavelength View of NGC 1300 (ALMA, VLT)",
+      "distance": 69000000,
+      "caption": "This image of spiral galaxy NGC 1300 combines multiple observations to map stellar populations and gas. Radio light observed by the Atacama Large Millimeter/submillimeter Array (ALMA), represented in yellow, highlights the clouds of cold molecular gas that provide the raw material from which stars form. Data from the Very Large Telescope\u2019s Multi Unit Spectroscopic Explorer (MUSE) instrument is represented in red and magenta, capturing the impact of young, massive stars on their surrounding gas. Visible light captured by the Hubble Space Telescope highlights dust lanes in gold and very young, hot stars in blue. High-resolution infrared images from the Webb Space Telescope will help researchers identify where stars are forming behind dust and study the earliest stages of star formation in this galaxy.",
+      "image_link": "https://stsci-opo.org/STScI-01FRNP4TNW7VRF9K6MEZFNVNW1.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(142, 126, 117)",
+          "percent": 16
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(228, 183, 134)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(149, 29, 45)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Galactic Center (Chandra, Hubble, Spitzer)",
+      "distance": 26000,
+      "caption": "An enormous swirling vortex of hot gas glows with infrared light, marking the approximate location of the supermassive black hole at the heart of our Milky Way galaxy. This multiwavelength composite image includes near-infrared light captured by NASA\u2019s Hubble Space Telescope, and was the sharpest infrared image ever made of the galactic center region when it was released in 2009. Dynamic flickering flares in the region immediately surrounding the black hole, named Sagittarius A*, have complicated the efforts of the Event Horizon Telescope (EHT) collaboration to create a closer, more detailed image. While the black hole itself does not emit light and so cannot be detected by a telescope, the EHT team is working to capture it by getting a clear image of the hot glowing gas and dust directly surrounding it.",
+      "image_link": "https://stsci-opo.org/STScI-01FJHQFKZXM0ANBAGZSTAP9XEK.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(17, 12, 72)",
+          "percent": 45
+        },
+        {
+          "colorCode": "(139, 66, 138)",
+          "percent": 36
+        },
+        {
+          "colorCode": "(183, 199, 255)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(50, 87, 159)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(164, 122, 102)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Galactic Center in Near-infrared (Hubble)",
+      "distance": 26000,
+      "caption": "Heated gas swirls around the region of the Milky Way galaxy\u2019s supermassive black hole, illuminated in near-infrared light captured by NASA\u2019s Hubble Space Telescope. Released in 2009 to celebrate the International Year of Astronomy, this was the sharpest infrared image ever made of the galactic center region. NASA\u2019s upcoming James Webb Space Telescope, scheduled to launch in December 2021, will continue this research, pairing Hubble-strength resolution with even more infrared-detecting capability. Of particular interest for astronomers will be Webb\u2019s observations of flares in the area, which have not   been observed around any other supermassive black hole and the cause of which is unknown. The flares have complicated the Event Horizon Telescope (EHT) collaboration\u2019s quest to capture an image of the area immediately surrounding the black hole, and Webb\u2019s infrared data is expected to help greatly in producing a clean image.",
+      "image_link": "https://stsci-opo.org/STScI-01FJHRDGBN9KP7BTD0Q03487ER.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(71, 19, 6)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(148, 70, 20)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 87)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(220, 147, 43)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "The COSMOS Hubble ACS Field",
+      "distance": -1,
+      "caption": "This sea of galaxies is the complete, original COSMOS field from the Hubble Space Telescope\u2019s Advanced Camera for Surveys (ACS). The full mosaic is a composite of 575 separate ACS images, where each ACS image is about one-tenth the diameter of the full Moon. The jagged edges of the outline are due to the separate images that make up the survey field.",
+      "image_link": "https://stsci-opo.org/STScI-01FD7GZNSGY4B8VA8KGBX7GNKB.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(80, 80, 80)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Orion Bar (Hubble)",
+      "distance": 1500,
+      "caption": "The Orion Bar is a diagonal, ridge-like feature of gas and dust in the lower left quadrant of this HUBBLE image of the Orion Nebula. Sculpted by the intense radiation from nearby hot, young stars, the Orion Bar at first glance appears to be shaped like a bar. It is probably prototypical of a photodissociation region, or PDR.",
+      "image_link": "https://stsci-opo.org/STScI-01F67S5AWT3QBJB8H32ZNZ7DWN.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(119, 81, 90)",
+          "percent": 15
+        },
+        {
+          "colorCode": "(53, 0, 3)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(179, 172, 144)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(145, 41, 43)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiwavelength View of Centaurus A (Hubble, Spitzer, Chandra, VLA)",
+      "distance": 13000000,
+      "caption": "Centaurus A sports a warped central disk of gas and dust, which is evidence of a past collision and merger with another galaxy. It also has an active galactic nucleus that periodically emits jets. It is the fifth brightest galaxy in the sky and only about 13 million light-years away from Earth, making it an ideal target to study an active galactic nucleus \u2013 a supermassive black hole emitting jets and winds \u2013 with NASA's upcoming James Webb Space Telescope. This image was made using data from the Hubble, Spitzer, and Chandra space telescopes and the Very Large Array.",
+      "image_link": "https://stsci-opo.org/STScI-01F0SV55ZF29KH11ZWNRD89FNA.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(92, 75, 74)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(255, 193, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(194, 91, 98)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Messier 92 (Hubble)",
+      "distance": 25000,
+      "caption": "Messier 92 (M92) is one of the brightest globular clusters in the Milky Way.",
+      "image_link": "https://stsci-opo.org/STScI-01EYXC2N83FA685SRK971G2BRN.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(108, 108, 112)",
+          "percent": 17
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "title": "GOODS-S/ERS2 Field (Hubble)",
+      "distance": -1,
+      "caption": "This is a Hubble Space Telescope view of a portion of GOODS-South, the southern field of a large deep-sky study by several observatories to trace the formation and evolution of galaxies. The image shows a rich tapestry of 7,500 galaxies stretching back through most of the universe's history. The farthest galaxies, a few of the very faint red specks, are seen as they appeared more than 13 billion years ago, or roughly 650 million years after the Big Bang. Soon, the James Webb Space Telescope will peer back even farther into this field to trace the formation and evolution of the very first galaxies.",
+      "image_link": "https://stsci-opo.org/STScI-01EX2BBQ7QECY35M3GAHHAKE3D.png",
+      "type": "Fields",
+      "color_percentages": [
+        {
+          "colorCode": "(123, 99, 61)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Apep Star System (VLT)",
+      "distance": -1,
+      "caption": "Evidence indicates that large amounts of cosmic dust are produced as the stellar winds of massive stars collide in Wolf-Rayet binary or multiple-star systems. As the stars orbit each other and dust is produced, a distinctive pinwheel pattern is formed, as shown in this image from the European Southern Observatory. Warm dust like this glows in the mid-infrared wavelengths of light detectable by NASA\u2019s James Webb Space Telescope. Confirming the origin of dust will help account for the mysterious over-abundance of it found in galaxies, which is crucial to the later development of stars, planets, and life as we know it.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSSTQYW11WTZ34SRRCJTWFZ.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(145, 49, 0)",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "title": "Pluto and Charon (New Horizons)",
+      "distance": -1,
+      "caption": "Pluto and its largest moon, Charon, are two of the most well-known residents of the Kuiper Belt. This composite of enhanced color images of Pluto (lower right) and Charon (upper left), was taken by NASA\u2019s New Horizons spacecraft as it passed through the Pluto system on July 14, 2015. The color and brightness of both Pluto and Charon have been processed identically to allow direct comparison of their surfaces, and to highlight the similarity between Charon\u2019s polar red terrain and Pluto\u2019s equatorial red terrain. Pluto and Charon are shown with approximately correct relative sizes, but their true separation is not to scale.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSSWEM0W4MQN4EJY66QF79X.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(166, 161, 149)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(81, 20, 13)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Triton (Voyager 2)",
+      "distance": -1,
+      "caption": "This global color mosaic of Neptune\u2019s moon Triton, likely a captured Kuiper Belt Object, was taken in 1989 by Voyager 2 during its flyby of the Neptune system. Triton is by far the largest satellite of Neptune.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSSW5Z175NMH8C4NW7DX9ZN.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(78, 78, 78)",
+          "percent": 28
+        },
+        {
+          "colorCode": "(176, 167, 165)",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "title": "Arrakoth (New Horizons)",
+      "distance": -1,
+      "caption": "Though not on Webb\u2019s target list, Arrokoth is probably exemplary of a lot of objects in the Kuiper Belt. The farthest object ever visited by a spacecraft, it is composed of two, joined planetesimals. Arrokoth was photographed by the New Horizons spacecraft in December 2018 and January 2019.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSSW39ZJW7XWK9RZS2PA4Y7.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(162, 103, 74)",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "title": "NGC 3256 (Hubble)",
+      "distance": 100000000,
+      "caption": "Although the two galaxies in NGC 3256 appear merged when viewed in visible light, a second, bright nucleus is found hiding among the tangle of dust lanes in the central region. By using a range of telescopes on the ground and in space, the Great Observatories All-sky LIRG Survey (GOALS) research team has been analyzing galaxies like NGC 3256 from X-ray through radio wavelengths. NGC 3256 has a buried active nucleus, large-scale shocks from two powerful outflows, and a huge number of compact, bright star clusters.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST26Q83QJYJM2R1V5Z3ZAN.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(95, 94, 94)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(210, 234, 253)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "NGC 7469 (Hubble)",
+      "distance": 200000000,
+      "caption": "Since the galaxies that make up NGC 7469 are both almost face-on when viewed from Earth, it's easier to identify the areas where a black hole may exist. A powerful accreting supermassive black hole, surrounded by a ring of young stars, lives at the heart of the galaxy in the upper right. High-resolution infrared imagery from the James Webb Space Telescope is required to determine if the stars form differently around a central supermassive black hole compared to star formation farther out in the galaxy's arms. Webb will also help researchers trace the gas outflows, which will help pinpoint where and how the interstellar medium is affected, which subsequently drives or quenches star formation.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST1T4PGPYSCD8K02RD4JBH.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(89, 73, 52)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "II Zw 096 (Hubble)",
+      "distance": 525000000,
+      "caption": "These merging galaxies, known as II Zw 096, are the site of a spectacular burst of star formation that is hinted at in the red speckles near the middle of the image. This dust-shrouded area conceals a brilliant burst of star formation that becomes more apparent at longer wavelengths of infrared light.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST1PK2K0MYFWV8XBVEF7PH.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(36, 75, 107)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "Jupiter and Io (Cassini)",
+      "distance": -1,
+      "caption": "The moon Io orbits Jupiter in this image from NASA\u2019s Cassini spacecraft. Io is similar in size to Earth\u2019s moon. Jupiter and Io appear deceptively close in this image, when in fact the moon is orbiting 217,000 miles from the gas giant planet.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST6Z7WR1MY3GF14FBC5B94.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(88, 77, 66)",
+          "percent": 22
+        },
+        {
+          "colorCode": "(182, 163, 143)",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "title": "Jupiter's Polar Cyclone Storms (Juno)",
+      "distance": -1,
+      "caption": "NASA\u2019s Juno spacecraft captured infrared images that astronomers combined to create this picture of Jupiter\u2019s north pole, showing a central cyclone and the eight cyclones that encircle it. Data indicate that the storms are enduring features at the pole, with each circumpolar cyclone almost as wide as the distance between Naples, Italy and New York City in the United States. Wind speeds in the storms can reach 220 miles per hour (350 kilometers per hour). The colors in this composite represent radiant heat; the yellow (thinner) clouds are about 9 degrees Fahrenheit (\u201313\u00b0 Celsius) and the dark red (thickest) are around \u2013181 degrees Fahrenheit (-83\u00b0 Celsius).",
+      "image_link": "https://stsci-opo.org/STScI-01EVST6T6BGPVME5V1WK6EWZ44.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(70, 0, 0)",
+          "percent": 26
+        },
+        {
+          "colorCode": "(139, 0, 0)",
+          "percent": 19
+        },
+        {
+          "colorCode": "(255, 118, 0)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(255, 212, 164)",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "title": "Jupiter's Ring System (Galileo)",
+      "distance": -1,
+      "caption": "All three components of Jupiter\u2019s ring system are captured in this image from NASA\u2019s Galileo spacecraft: the flat main ring, the halo that is interior to the main ring, and the diffuse outer gossamer ring. The gossamer ring is shown stretching the width of this mosaic image (and continuing beyond), with the main ring and halo on the right-hand side. The image is purposely overexposed to accentuate the faint gossamer ring. The images were obtained when Galileo was in Jupiter\u2019s shadow, peering back toward the Sun.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST6QXEVHXMEFHF7TZ3AZ50.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(81, 81, 81)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(253, 253, 253)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Volcano Erupts on Io (Galileo)",
+      "distance": -1,
+      "caption": "NASA\u2019s Galileo spacecraft captured this image of a volcanic eruption on Io in 1997. Io is the most volcanically active world in the solar system, thanks to constant flexing brought on by the gravitational push and pull from Jupiter as well as fellow moons Ganymede and Europa. The extreme tidal forces generate a tremendous amount of heat within Io, keeping much of its subsurface crust in liquid form seeking any available escape route to the surface to relieve the pressure. Hundreds of huge volcanoes cover a surface only slightly larger than the Moon, with erupting lava fountains reaching dozens of miles high.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST6MF67AYSWCXP14JZ97DB.png",
+      "type": "Other Objects",
+      "color_percentages": [
+        {
+          "colorCode": "(106, 72, 44)",
+          "percent": 28
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(222, 195, 142)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(171, 148, 156)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Extended Groth Strip (Hubble)",
+      "distance": -1,
+      "caption": "This image from the Hubble Space Telescope shows a part of the sky known as the Extended Groth Strip (EGS). The CEERS Survey researchers will use the James Webb Space Telescope to observe the Extended Groth Strip in infrared light. Their observations employ three of the telescope\u2019s instruments and will provide both images and spectra of the objects in the field \u2014 which includes at least 50,000 galaxies \u2014 helping to expand what we know about galaxies in the very early universe.",
+      "image_link": "https://stsci-opo.org/STScI-01EVST7PYE2HGJ068FBPQ0MFZD.png",
+      "type": "Fields",
+      "color_percentages": []
+    },
+    {
+      "title": "Ceres (Dawn)",
+      "distance": -1,
+      "caption": "Ceres is a dwarf planet in the main asteroid belt between Mars and Jupiter. After launching in 2021, the James Webb Space Telescope will help researchers discover more about the formation of the solar system by observing objects like Ceres in the main asteroid belt with its powerful infrared capability. This image of Ceres was captured by the Dawn spacecraft in 2015.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTFG11Z011TWQSTZ4ASBBW.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(158, 158, 158)",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "title": "Central Region of Orion Nebula (VLT)",
+      "distance": 1500,
+      "caption": "This color-composite mosaic of the central part of the Orion Nebula is based on 81 images from the European Southern Observatory (ESO) Very Large Telescope at the Paranal Observatory in Chile. The famous Trapezium stars appear near the center, amid the Trapezium Cluster, the very crowded home of more than a thousand young stars. Researchers will train Webb on this region to study phenomena associated with the birth of stars and planets.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTH3VAYEJ9WN8BVT9ZA821.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(104, 121, 156)",
+          "percent": 24
+        },
+        {
+          "colorCode": "(57, 56, 0)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Four Proplyds in the Orion Nebula (Hubble)",
+      "distance": 1500,
+      "caption": "These are Hubble Space Telescope images of four protoplanetary disks around young stars in the Orion Nebula, approximately 1,300 light-years away. The disks range in size from two to eight times the diameter of our solar system. Astronomers spotted the disks in large-scale survey images of the Orion nebula taken with Hubble between January 1994 and March 1995.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTH13NZRC6WTETFGJBWES1.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(72, 114, 139)",
+          "percent": 45
+        },
+        {
+          "colorCode": "(204, 149, 128)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(222, 226, 228)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Snake in Galactic Plane (Spitzer)",
+      "distance": 10800,
+      "caption": "The Snake is a serpentine-shaped, extremely filamentary cloud. In this infrared image from the Spitzer Space Telescope, the blue dots are stars relatively undimmed by dust, while the red dots are embedded, forming stars.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTRND27EFF0E3VEE27HY36.png",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 105, 0)",
+          "percent": 58
+        },
+        {
+          "colorCode": "(0, 95, 93)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(0, 179, 255)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(133, 141, 0)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(0, 137, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 197, 0)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(0, 88, 143)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(0, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Brick in Galactic Center (Spitzer)",
+      "distance": 108000,
+      "caption": "An image from the Spitzer Space Telescope shows an area of the center of the Milky Way known as the Brick. More than 100,000 times the mass of the Sun, the Brick doesn\u2019t seem to be forming any massive stars \u2014 yet. But based on its immense mass in such a small area, if it does form stars \u2014 as scientists think it should \u2014 it would be one of the most massive star clusters in the Milky Way galaxy.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTRJ7G3E367P0TKY456ANC.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(255, 195, 153)",
+          "percent": 24
+        },
+        {
+          "colorCode": "(0, 79, 108)",
+          "percent": 20
+        },
+        {
+          "colorCode": "(102, 147, 137)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(255, 166, 187)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(243, 255, 255)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(0, 170, 255)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(1, 62, 34)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Uranus and Neptune (Hubble)",
+      "distance": -1,
+      "caption": "The Hubble Space Telescope captured these images of the mysterious ice giants Uranus, left, and Neptune, right.  Shortly after launch in 2021, the James Webb Space Telescope will unlock secrets of the atmospheres of both planets.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTTD99WSANT6KQP96HKDC9.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 168, 238)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(94, 94, 94)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(78, 215, 236)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Two Faces of Uranus (Hubble)",
+      "distance": -1,
+      "caption": "These Hubble Space Telescope images show the varied faces of Uranus. On the left, Uranus in 2005 displays its ring system. The planet \u2014 along with its rings and moons \u2014 is tipped on its side, rotating at roughly a 90-degree angle from the plane of its orbit.  In the Hubble close-up taken just one year later, Uranus reveals its banded structure and a mysterious dark storm.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTTB0V4XKG8JXYB31CJQZE.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(77, 215, 236)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(0, 119, 171)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Uranus (Voyager 2)",
+      "distance": -1,
+      "caption": "Arriving at Uranus in 1986, Voyager 2 observed a bluish orb with extremely subtle features. A haze layer hid most of the planet's clouds from view.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTT88ZDBFB6DT3B1S696EH.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(207, 245, 246)",
+          "percent": 25
+        },
+        {
+          "colorCode": "(114, 147, 154)",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "title": "Neptune (Voyager 2)",
+      "distance": -1,
+      "caption": "This Voyager 2 image of Neptune shows a cold and dark wind-whipped world. In 1989, NASA\u2019s Voyager 2 became the first and only spacecraft to observe the planet Neptune, passing about 3,000 miles above the planet\u2019s north pole.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTT3GM1Q5WJGZ2AYQ6WPD2.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(67, 106, 255)",
+          "percent": 21
+        },
+        {
+          "colorCode": "(38, 43, 101)",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "title": "Neptune (Hubble, 2018)",
+      "distance": -1,
+      "caption": "This Hubble Space Telescope image of Neptune, taken in 2018, shows a new dark storm (top center).",
+      "image_link": "https://stsci-opo.org/STScI-01EVSTT1022T2BMAWEACTWDN29.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(0, 168, 238)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(92, 113, 135)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "NGC 1333 (Spitzer)",
+      "distance": 1000,
+      "caption": "Scientists will use Webb to search the nearby stellar nursery NGC 1333 for its smallest, faintest residents. It is an ideal place to look for very faint, free-floating objects, including those with planetary masses. This image was captured by the Spitzer Space Telescope.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSV3H6JHFYMHDRK0M1SBHV2.jpg",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(50, 76, 89)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(245, 180, 204)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(197, 97, 107)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(64, 1, 9)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Sculptor Dwarf Galaxy (Hubble, DSS2)",
+      "distance": 290000,
+      "caption": "The Sculptor dwarf galaxy is a companion to the Milky Way galaxy. Astronomers will use Webb to study the motions of stars in Sculptor and Draco, another dwarf companion to the Milky Way. By studying how the stars move, the researchers will be able to determine how the dark matter is distributed in these galaxies.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSV46AZPH6M58XVX1YNRX0F.jpg",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(83, 83, 83)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "The Galactic Center in Infrared Light (Spitzer)",
+      "distance": -1,
+      "caption": "The center of our Milky Way galaxy is hidden from the prying eyes of optical telescopes by clouds of obscuring dust and gas. But in this stunning vista, the Spitzer Space Telescope's infrared cameras penetrate much of the dust, revealing the stars of the crowded galactic center region. The upcoming Webb telescope will offer a much-improved infrared view, teasing out fainter stars and sharper details.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSV6NM7QVX4ATNCJT6Z28T1.jpg",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(119, 38, 47)",
+          "percent": 24
+        },
+        {
+          "colorCode": "(113, 96, 112)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(220, 99, 91)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Nucleus of Comet 19P/Borrelly (Deep Space 1)",
+      "distance": -1,
+      "caption": "One of the comets the Webb team will study following its 2021 launch is Borrelly, a Jupiter-family comet. NASA's Deep Space 1 spacecraft snapped this image of Borrelly\u2019s icy, rocky nucleus in September 2001. The irregularly shaped nucleus is 8 kilometers, or 5 miles, long. While Webb will not see this level of detail, it will be able to measure molecular composition on the surface and sense variations as the object rotates.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSV6TBB0KWNTKWV50S600SF.jpg",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(94, 94, 94)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(214, 214, 214)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Comet Hale-Bopp (Johannes-Kepler Observatory)",
+      "distance": -1,
+      "caption": "Scientists using Webb plan to observe a \u201ctarget-of-opportunity\u201d comet, one that is not yet known but is expected to be discovered in the first year of the telescope\u2019s mission. If they are lucky, perhaps they might capture an interstellar comet, or perhaps they will train Webb on a comet similar to Hale\u2013Bopp, shown above in a ground-based photo shortly after passing perihelion in April 1997. Comet Hale\u2013Bopp, thought to be from the Oort Cloud, was one of the brightest comets seen for many decades. Visible to the naked eye for a record 18 months, it could be seen even from major cities with light-polluted skies.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSV6RAD2XZGBNKD66KS2D51.jpg",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(240, 250, 225)",
+          "percent": 14
+        },
+        {
+          "colorCode": "(173, 162, 166)",
+          "percent": 8
+        },
+        {
+          "colorCode": "(46, 54, 126)",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "title": "Saturn and Its Aurora (Hubble)",
+      "distance": -1,
+      "caption": "Saturn experiences auroras, also known as northern and southern lights, just like Earth. Here, Hubble ultraviolet-light observations of an aurora are superposed on a visible-light image of the planet.",
+      "image_link": "https://stsci-opo.org/STScI-01G0CTTKJEEGF1WWFNZ7ZFDNEQ.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(106, 108, 105)",
+          "percent": 33
+        },
+        {
+          "colorCode": "(207, 171, 145)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Saturn Storm in Mid-Infrared (VLT)",
+      "distance": -1,
+      "caption": "This image shows a giant Saturnian storm that was observed at mid-infrared wavelengths by the European Southern Observatory\u2019s Very Large Telescope in 2011. The warm gases powering the storm make it glow brightly compared to the rest of the planet.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSVE19PH8P94M6ZTZ200B93.jpg",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(87, 16, 14)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(173, 33, 34)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Titan (Cassini)",
+      "distance": -1,
+      "caption": "Hazy layers of hydrocarbons enshroud Saturn\u2019s moon, Titan. On its surface, methane rivers flow into tar-edged seas. This image was captured by the Cassini spacecraft in 2017.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSVDYWCZG966CDYGMBVAME3.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(211, 186, 101)",
+          "percent": 19
+        },
+        {
+          "colorCode": "(78, 67, 34)",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "title": "Galaxy ESO 137-001: Visible (Hubble)",
+      "distance": 220000000,
+      "caption": "The spiral galaxy ESO 137-001, seen here in an image from Hubble, is an example of a \u201cjellyfish\u201d galaxy, because blue tendrils of star formation stream away from it like jellyfish tentacles.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSWN16DT10GWBKNZ9BZE8MA.jpg",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(80, 84, 85)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(84, 45, 14)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(254, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(181, 147, 122)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Galaxy ESO 137-001: Visible and X-ray (Hubble, Chandra)",
+      "distance": 220000000,
+      "caption": "This composite view of ESO 137-001 includes visible light from Hubble and X-ray light from the Chandra X-ray Observatory (in blue). It reveals a tail of hot gas that has been stripped from the galaxy.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSWMX846GG3EPT7M4PZR5C5.jpg",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(37, 47, 96)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(144, 136, 160)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(94, 61, 54)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(254, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Abell 2744 (Hubble)",
+      "distance": -1,
+      "caption": "Abell 2744, nicknamed Pandora's Cluster, is a giant pile-up of four smaller galaxy clusters. The cluster is so massive that its powerful gravity bends the light from galaxies far behind it, making the background objects appear larger and brighter in a phenomenon called gravitational lensing. Shown in this Hubble image, the mammoth Abell 2744 cluster is located about 3.5 billion light-years away.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSWPYFCW7P3AC9A5S71ME5K.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(137, 124, 121)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiwavelength View of Supernova 1987A (Hubble, Chandra, ALMA)",
+      "distance": 163000,
+      "caption": "Astronomers combined observations from three different observatories (Atacama Large Millimeter/submillimeter Array, red; Hubble, green; Chandra X-ray Observatory, blue) to produce this colorful, multiwavelength image of the intricate remains of Supernova 1987A.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSWR9Y6F8V8NR8XBBFE6VJ8.png",
+      "type": "Supernovae and Remnants",
+      "color_percentages": [
+        {
+          "colorCode": "(112, 19, 112)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(66, 11, 4)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(209, 35, 22)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(152, 138, 161)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(163, 32, 67)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(199, 34, 182)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 183, 3)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(183, 185, 142)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Multiwavelength View of NGC 346 (Spitzer, NTT, XMM-Newton)",
+      "distance": 210000,
+      "caption": "This image of the star-forming cloud NGC 346 is a combination of multiwavelength light from NASA's Spitzer Space Telescope (infrared), the European Southern Observatory's New Technology Telescope (visible), and the European Space Agency's XMM-Newton space telescope (X-ray). Webb\u2019s sharper infrared vision will allow astronomers to survey in greater detail developing stars still encased in their natal cocoons of gas and dust.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSYW9ZSD3TCQYNWJV56K52E.jpg",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(124, 150, 111)",
+          "percent": 16
+        },
+        {
+          "colorCode": "(19, 40, 83)",
+          "percent": 13
+        },
+        {
+          "colorCode": "(216, 232, 255)",
+          "percent": 11
+        },
+        {
+          "colorCode": "(91, 77, 77)",
+          "percent": 6
+        },
+        {
+          "colorCode": "(36, 60, 160)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(175, 92, 108)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(104, 136, 183)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(232, 211, 154)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(70, 94, 254)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Infrared View of NGC 346 (Hubble)",
+      "distance": 210000,
+      "caption": "Infant stars still embedded in gas and dust in the NGC 346 nebula shine brightly in this Hubble Space Telescope image. Webb\u2019s infrared vision will uncover thousands more developing stars in this star-forming region.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSYW3SGEZ7ZXRQPFCS3YY5R.jpg",
+      "type": "Stellar Formations",
+      "color_percentages": [
+        {
+          "colorCode": "(55, 71, 123)",
+          "percent": 45
+        },
+        {
+          "colorCode": "(134, 152, 228)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(124, 99, 103)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Herbig-Haro 212 (VLT)",
+      "distance": 1400,
+      "caption": "A pair of jets protrude outwards in this infrared image of Herbig-Haro 212 (HH 212), taken by the European Southern Observatory\u2019s Very Large Telescope. Webb\u2019s high resolution and sensitivity will allow astronomers to examine objects like this in greater detail than ever before.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSZGSJ5PB7Y4FJAPT8H6GTT.png",
+      "type": "Other Objects",
+      "color_percentages": [
+        {
+          "colorCode": "(80, 28, 3)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(160, 76, 0)",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "title": "NGC 4151 (Hubble Image)",
+      "distance": 62000000,
+      "caption": "This image of galaxy NGC 4151, captured by the Hubble Space Telescope\u2019s Wide Field Camera 3, shows compass arrows and labels for reference.",
+      "image_link": "https://stsci-opo.org/STScI-01EVSZRRM9YG0HBQ21WEJGG9J5.png",
+      "type": "Galaxies",
+      "color_percentages": [
+        {
+          "colorCode": "(98, 86, 77)",
+          "percent": 18
+        },
+        {
+          "colorCode": "(200, 176, 165)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Massive Star-Forming Region in 30 Doradus (Hubble)",
+      "distance": 170000,
+      "caption": "The Hubble Space Telescope captured this image of the massive young stellar grouping R136. The cluster of stars resides in the 30 Doradus nebula, a turbulent star birth region in the Large Magellanic Cloud (LMC), a satellite galaxy of our Milky Way. The blue color is light from the hottest, most massive stars; the green from the glow of oxygen; and the red from fluorescing hydrogen.",
+      "image_link": "https://stsci-opo.org/STScI-01FN9CQM93S12ZNFSXGFZEYWG8.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(101, 63, 41)",
+          "percent": 12
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 10
+        },
+        {
+          "colorCode": "(108, 120, 153)",
+          "percent": 9
+        },
+        {
+          "colorCode": "(180, 178, 142)",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "title": "Hubble Frontier Field Abell 2744",
+      "distance": -1,
+      "caption": "This long-exposure Hubble Space Telescope image of massive galaxy cluster Abell 2744 shows some of the faintest and youngest galaxies ever detected in space. Abell 2744, located in the constellation Sculptor, appears in the foreground of this image. It contains several hundred galaxies as they looked 3.5 billion years ago. The immense gravity in Abell 2744 acts as a gravitational lens to warp space and brighten and magnify images of nearly 3,000 distant background galaxies. The more distant galaxies appear as they did longer than 12 billion years ago, not long after the big bang.",
+      "image_link": "https://stsci-opo.org/STScI-01EVT0R1MTA1D9TNY9FB37KR4J.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(109, 97, 83)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(5, 35, 88)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Reflection Nebula IC 2631 (ESO)",
+      "distance": 500,
+      "caption": "An image from the European Southern Observatory shows blue light from a newborn star lights up the reflection nebula IC 2631. This nebula is part of the Chamaeleon star-forming region, which Webb will study to learn more about the formation of water and other cosmic ices.",
+      "image_link": "https://stsci-opo.org/STScI-01EVT0Y111TWTRZ1MF817NR6WW.png",
+      "type": "Nebulae",
+      "color_percentages": [
+        {
+          "colorCode": "(118, 92, 74)",
+          "percent": 3
+        },
+        {
+          "colorCode": "(101, 146, 166)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(51, 71, 114)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Mars (Hubble)",
+      "distance": -1,
+      "caption": "Hubble took this photo of Mars when the planet was 50 million miles from Earth, during its last opposition in 2016. The photo reveals details as small as 20 to 30 miles across.",
+      "image_link": "https://stsci-opo.org/STScI-01EVT0YSW959M9W949RQ38DEPN.png",
+      "type": "Planets",
+      "color_percentages": [
+        {
+          "colorCode": "(119, 99, 74)",
+          "percent": 15
+        },
+        {
+          "colorCode": "(221, 143, 71)",
+          "percent": 14
+        },
+        {
+          "colorCode": "(180, 226, 249)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(91, 128, 155)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Stellar Cluster NGC 1333 (Chandra, Spitzer, DSS, Mayall)",
+      "distance": 1000,
+      "caption": "Stellar cluster NGC 1333 is home to a large number of brown dwarfs. Astronomers will use Webb\u2019s powerful infrared instruments to learn more about these dim cousins to the cluster\u2019s bright newborn stars. This image was made by combining data from the Chandra and Spitzer space telescopes and ground-based observatories.",
+      "image_link": "https://stsci-opo.org/STScI-01G0D373ZZQJCSMG1TTYRGXD6R.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(55, 68, 112)",
+          "percent": 4
+        },
+        {
+          "colorCode": "(86, 29, 28)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(140, 137, 154)",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "title": "Westerlund 2 (Hubble)",
+      "distance": -1,
+      "caption": "This young cluster of about 3,000 stars in our Milky Way is called Westerlund 2 and contains some of the galaxy's hottest, brightest, and most massive stars. Hubble's infrared vision pierced dust around this stellar nursery to reveal the dense concentration of stars in the central cluster.",
+      "image_link": "https://stsci-opo.org/STScI-01EVT0ER929574VHS93D38CK19.png",
+      "type": "Clusters",
+      "color_percentages": [
+        {
+          "colorCode": "(110, 61, 46)",
+          "percent": 22
+        },
+        {
+          "colorCode": "(198, 202, 255)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(255, 255, 255)",
+          "percent": 7
+        },
+        {
+          "colorCode": "(151, 111, 145)",
+          "percent": 5
+        },
+        {
+          "colorCode": "(226, 178, 149)",
+          "percent": 2
+        },
+        {
+          "colorCode": "(161, 26, 49)",
+          "percent": 1
+        },
+        {
+          "colorCode": "(0, 117, 255)",
+          "percent": 1
+        }
+      ]
+    }
+  ]

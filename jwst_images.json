@@ -1,0 +1,1281 @@
+[
+    {
+        "title": "Digel Cloud 2S",
+        "image_url": "https://stsci-opo.org/STScI-01J5NSEJTP6AWGVE845JMY21KT.png",
+        "caption": "NASA\u2019s James Webb Space Telescope observed the outskirts of our Milky Way galaxy. Known as the Extreme Outer Galaxy, this region is located more than 58,000 light-years from the Galactic Center.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Digel Cloud 2",
+            "Object Description": "Star cluster on the outskirts of the Milky Way galaxy",
+            "R.A. Position": "02:48:28.45",
+            "Dec. Position": "+58:23:29.72",
+            "Constellation": "Perseus",
+            "Distance": "About 40,000 light-years",
+            "Dimensions": "Image is 1.8 arcmin across (about 21 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1237 (M. Ressler); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "17 Jan 2023",
+            "Filters": "NIRCam: F115W, F150W, F200W, F356W, F444W\nMIRI: F770W, F1280W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: Purple: F115W, Blue: F150W, Green: F200W, Yellow: F356W, Orange: F444W, Red: F770W, Red: F1280W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Question Mark Galaxy (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01J6CWQ1T2BPBR55478Y4X0NQQ.png",
+        "caption": "The galaxy cluster MACS-J0417.5-1154 is so massive it is warping the fabric of space-time and distorting the appearance of galaxies behind it, an effect known as gravitational lensing. This natural phenomenon magnifies distant galaxies and can also make them appear in an image multiple times, as NASA\u2019s James Webb Space Telescope saw here. Two distant, interacting galaxies \u2014 a face-on spiral and a dusty red galaxy seen from the side \u2014 appear multiple times, tracing a familiar shape across the sky. Active star formation, and the face-on galaxy\u2019s remarkably intact spiral shape, indicate that these galaxies\u2019 interaction is just beginning.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Question Mark Galaxy in MACS J0417.5-1154",
+            "Object Description": "Gravitationally lensed galaxy in galaxy cluster",
+            "R.A. Position": "04:17:34.6",
+            "Dec. Position": "-11:54:32",
+            "Constellation": "Eridanus",
+            "Distance": "4.65 billion light-years (z=0.441)",
+            "Dimensions": "Image is about 50 arcseconds across (about 1.2 million light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1208 (C. Willott); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "Oct 2022",
+            "Filters": "F090W, F150W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0 Blue: F090W Green: F150W Red: F444W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "MACS J0417.5-1154 Wide Field (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01J6D97YGSQACWK990TH56K6AF.png",
+        "caption": "A cosmic question mark appears amid a powerful gravitational lens in the James Webb Space Telescope\u2019s wide-field view of the galaxy cluster MACS-J0417.5-1154. Gravitational lensing occurs when something is so massive, like this galaxy cluster, that it warps the fabric of space-time itself, creating a natural funhouse-mirror effect that also magnifies galaxies behind it.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "MACS J0417.5-1154",
+            "Object Description": "Galaxy Cluster",
+            "R.A. Position": "04:17:34.6",
+            "Dec. Position": "-11:54:32",
+            "Constellation": "Eridanus",
+            "Distance": "4.65 billion light-years (z=0.441)",
+            "Dimensions": "Image is about 2.4 arcmin across (about 3.3 million light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1208 (C. Willott); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "Oct 2022",
+            "Filters": "F090W, F150W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0 Blue: F090W Green: F150W Red: F444W"
+        }
+    },
+    {
+        "title": "CEERS Crop (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J5E849R5W27ZZ2C3QAE9ET75.png",
+        "caption": "This image shows a small portion of the field observed by NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) for the Cosmic Evolution Early Release Science (CEERS) survey. It is filled with galaxies. The light from some of them has traveled for over 13 billion years to reach the telescope.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "CEERS Survey, Extended Groth Strip",
+            "Object Description": "Deep field survey",
+            "R.A. Position": "14:19:46",
+            "Dec. Position": "+52:53:37",
+            "Constellation": "Bo\u00f6tes",
+            "Dimensions": "Image is about 4.2 arcminutes across.",
+            "Data Description": "This image was created with Webb data from proposal: 1345 (S. Finkelstein). Image Processing: Alyssa Pagan (STScI).",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "20-21 Dec 2022, 24 Dec 2022",
+            "Filters": "F115W, F150W, F200W, F277W, F356W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nBlue: F115W+F150W\nGreen: F200W + F277W\nRed: F356W + F444W"
+        }
+    },
+    {
+        "title": "Epsilon Indi Ab Exoplanet (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J09EC4V6EKK95KF9YJ84KVBE.png",
+        "caption": "This image of the gas-giant exoplanet Epsilon Indi Ab was taken with the coronagraph on NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument). A star symbol marks the location of the host star Epsilon Indi A, whose light has been blocked by the coronagraph, resulting in the dark circle marked with a dashed white line. Epsilon Indi Ab is one of the coldest exoplanets ever directly imaged. Light at 10.6 microns was assigned the color blue, while light at 15.5 microns was assigned the color orange. MIRI did not resolve the planet, which is a point source.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Eps Ind A; HD209100; HIP108870",
+            "Object Description": "Exoplanet",
+            "R.A. Position": "22:03:21.65",
+            "Dec. Position": "-56:47:09.52",
+            "Constellation": "Indus",
+            "Distance": "12 light-years",
+            "Data Description": "This image was created with Webb data from proposal: 2243 (E. Matthews)",
+            "Instrument": "MIRI",
+            "Exposure Dates": "03 July 2023",
+            "Filters": "F1065C; F1550C",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument with a coronagraph. Two filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0 Cyan: F1065C Orange: F1550C"
+        }
+    },
+    {
+        "title": "Interacting Galaxies Arp 142 (NIRCam and MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J06XZQFRG9WHB4XT01NGACGB.png",
+        "caption": "This \u201cpenguin party\u201d is loud! The distorted spiral galaxy at center, the Penguin, and the compact elliptical galaxy at left, the Egg, are locked in an active embrace. A new near- and mid-infrared image from the James Webb Space Telescope, taken to mark its second year of science, shows that their interaction is marked by a faint upside-down U-shaped blue glow.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Arp 142, NGC 2396/2397",
+            "Object Description": "Interacting Galaxies",
+            "R.A. Position": "09:37:43.09",
+            "Dec. Position": "02:45:47.01",
+            "Constellation": "Hydra",
+            "Distance": "326 million light-years",
+            "Dimensions": "Image is 2.2 arcmin across (about 210,000 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 6564 (M. Marin); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "May 6, 2024",
+            "Filters": "F090W, F150W, F200W, F277W, F356W, F444W, F770W, F1000W, F1500W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample narrow and broad wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: Red: F1500W, F1000W, and F444W. Orange: F770W and F356W. Yellow: F277W. Green: F200W. Blue: F150W and F090W.",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Interacting Galaxies Arp 142 (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J06ZFN5S7DCBYRZ2VQNRQY3J.png",
+        "caption": "Webb\u2019s mid-infrared view of interacting galaxies Arp 142 seems to sing in primary colors. The background of space is like a yawning darkness speckled with bright, multi-colored beads.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Arp 142, NGC 2396/2397",
+            "Object Description": "Interacting Galaxies",
+            "R.A. Position": "09:37:43.09",
+            "Dec. Position": "02:45:47.01",
+            "Constellation": "Hydra",
+            "Distance": "326 million light-years",
+            "Dimensions": "Image is about 3.4 arcmin across (about 322,000 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 6564 (M. Marin); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "MIRI",
+            "Exposure Dates": "May 6, 2024",
+            "Filters": "F770W, F1000W, F1500W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument. Several filters were used to sample narrow and broad wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: Red: F1500W Green: F1000W Blue: F770W.",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "L1527 and Protostar (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J0BY5NWGXKR165XPC66KS4PT.png",
+        "caption": "L1527, shown in this image from NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument), is a molecular cloud that harbors a protostar. It resides about 460 light-years from Earth in the constellation Taurus. The more diffuse blue light and the filamentary structures in the image come from organic compounds known as polycyclic aromatic hydrocarbons (PAHs), while the red at the center of this image is an energized, thick layer of gases and dust that surrounds the protostar. The region in between, which shows up in white, is a mixture of PAHs, ionized gas, and other molecules.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "L1527 IRS (IRAS 04368+2557)",
+            "Object Description": "Young Stellar Object",
+            "R.A. Position": "04:39:53.59",
+            "Dec. Position": "+26:03:05.50",
+            "Constellation": "Taurus",
+            "Distance": "About 460 light-years",
+            "Dimensions": "Image is 2.37 arcmin across (about 0.32 light-years)",
+            "Data Description": "This image was created from JWST data from proposal: 2739 (K. Pontoppidan). Image processing: Macarena Garcia Marin (STScI), Joseph DePasquale (STScI).",
+            "Instrument": "MIRI",
+            "Exposure Dates": "08 Sep 2022",
+            "Filters": "F770W, F1280W, F1800W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument. Several filters were used to sample different infrared wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\u00a0\nBlue: F770W, Green: F1280W, Red: F1800W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Serpens (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01HYGF81QMHP3SPA0Q7QMRXY3Z.png",
+        "caption": "In this image of the Serpens Nebula from the Near-Infrared Camera (NIRCam) on NASA\u2019s James Webb Space Telescope, astronomers found a grouping of aligned protostellar outflows within one small region (the top left corner). In the Webb image, these jets are signified by bright clumpy streaks that appear red, which are shockwaves from the jet hitting surrounding gas and dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Serpens Nebula, HBC 672, [EC 92] 82",
+            "Object Description": "Reflection nebula and star forming region",
+            "R.A. Position": "18:29:56.91",
+            "Dec. Position": "+1:14:45.77",
+            "Constellation": "Serpens",
+            "Distance": "1,300 light-years",
+            "Dimensions": "Image is about 6.3 arcminutes across (1.8 light-years)",
+            "Data Description": "The Webb observations include those from program 1611 (K. Pontoppidan). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "26 April 2023, 12 May 2023",
+            "Filters": "F140M, F210M, F360M, F480M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140M, Cyan: F210M, Orange: F360M, Red: 480M",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Serpens North \u2013 Aligned Outflows Crop (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01HYGK7PC1NBR9N26JAJ97W1XR.png",
+        "caption": "This image from NASA\u2019s James Webb Space Telescope shows a portion of the Serpens Nebula, where astronomers discovered a grouping of aligned protostellar outflows. These jets are signified by bright clumpy streaks that appear red, which are shock waves from the jet hitting surrounding gas and dust. Here, the red color represents the presence of molecular hydrogen and carbon monoxide.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Serpens Nebula, HBC 672, [EC 92] 82",
+            "Object Description": "Reflection nebula and star forming region",
+            "R.A. Position": "18:29:56.91",
+            "Dec. Position": "+1:14:45.77",
+            "Constellation": "Serpens",
+            "Distance": "1,300 light-years",
+            "Dimensions": "Image is about 3.2 arcminutes across (0.9 light-years)",
+            "Data Description": "The Webb observations include those from program 1611 (K. Pontoppidan). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "26 April 2023, 12 May 2023",
+            "Filters": "F140M, F210M, F360M, F480M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140M, Cyan: F210M, Orange: F360M, Red: 480M"
+        }
+    },
+    {
+        "title": "Serpens Center Crop (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01HYGKYYKJ9QP1B9TYBMS2CSCK.png",
+        "caption": "This image shows the center of the Serpens Nebula as seen by NASA\u2019s James Webb Space Telescope\u2019s Near-Infrared Camera (NIRCam).",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Serpens Nebula, HBC 672, [EC 92] 82",
+            "Object Description": "Reflection nebula and star forming region",
+            "R.A. Position": "18:29:56.91",
+            "Dec. Position": "+1:14:45.77",
+            "Constellation": "Serpens",
+            "Distance": "1,300 light-years",
+            "Dimensions": "Image is about 4.8 arcminutes across (1.4 light-years)",
+            "Data Description": "The Webb observations include those from program 1611 (K. Pontoppidan). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "26 April 2023, 12 May 2023",
+            "Filters": "F140M, F210M, F360M, F480M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140M, Cyan: F210M, Orange: F360M, Red: 480M"
+        }
+    },
+    {
+        "title": "Crab Nebula",
+        "image_url": "https://stsci-opo.org/STScI-01J04A57VT54A4PKF2J4R1ZC7G.jpg",
+        "caption": "NASA\u2019s James Webb Space Telescope dissected the Crab Nebula\u2019s structure, aiding astronomers as they continue to evaluate leading theories about the supernova remnant\u2019s origins. With the data collected by Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), a team of scientists were able to closely inspect some of the Crab Nebula\u2019s major components.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Crab Nebula, M1, NGC 1952",
+            "Object Description": "Supernova Remnant, Pulsar",
+            "R.A. Position": "05:34:32",
+            "Dec. Position": "+22:00:52",
+            "Constellation": "Taurus",
+            "Distance": "6500 light-years",
+            "Dimensions": "Image is about 5.5 arcmin across (about 10 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1714 (T. Temim) - Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "31 Oct 2022, 24 Feb 2023, 17 Mar 2023",
+            "Filters": "NIRCam: F480M; MIRI: F1800W, F2100W",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter or images derived from mathematical combinations of filters. In this case, the assigned colors are: \u00a0Blue: Synchrotron (F480M), \u00a0Green: Sulfur (derived from F1800W and F2100W) Magenta: Dust (derived from F1800W and F2100W)",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Digel Cloud 2S",
+        "image_url": "https://stsci-opo.org/STScI-01J5NSEJTP6AWGVE845JMY21KT.png",
+        "caption": "NASA\u2019s James Webb Space Telescope observed the outskirts of our Milky Way galaxy. Known as the Extreme Outer Galaxy, this region is located more than 58,000 light-years from the Galactic Center.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Digel Cloud 2",
+            "Object Description": "Star cluster on the outskirts of the Milky Way galaxy",
+            "R.A. Position": "02:48:28.45",
+            "Dec. Position": "+58:23:29.72",
+            "Constellation": "Perseus",
+            "Distance": "About 40,000 light-years",
+            "Dimensions": "Image is 1.8 arcmin across (about 21 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1237 (M. Ressler); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "17 Jan 2023",
+            "Filters": "NIRCam: F115W, F150W, F200W, F356W, F444W\nMIRI: F770W, F1280W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: Purple: F115W, Blue: F150W, Green: F200W, Yellow: F356W, Orange: F444W, Red: F770W, Red: F1280W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Question Mark Galaxy (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01J6CWQ1T2BPBR55478Y4X0NQQ.png",
+        "caption": "The galaxy cluster MACS-J0417.5-1154 is so massive it is warping the fabric of space-time and distorting the appearance of galaxies behind it, an effect known as gravitational lensing. This natural phenomenon magnifies distant galaxies and can also make them appear in an image multiple times, as NASA\u2019s James Webb Space Telescope saw here. Two distant, interacting galaxies \u2014 a face-on spiral and a dusty red galaxy seen from the side \u2014 appear multiple times, tracing a familiar shape across the sky. Active star formation, and the face-on galaxy\u2019s remarkably intact spiral shape, indicate that these galaxies\u2019 interaction is just beginning.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Question Mark Galaxy in MACS J0417.5-1154",
+            "Object Description": "Gravitationally lensed galaxy in galaxy cluster",
+            "R.A. Position": "04:17:34.6",
+            "Dec. Position": "-11:54:32",
+            "Constellation": "Eridanus",
+            "Distance": "4.65 billion light-years (z=0.441)",
+            "Dimensions": "Image is about 50 arcseconds across (about 1.2 million light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1208 (C. Willott); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "Oct 2022",
+            "Filters": "F090W, F150W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0 Blue: F090W Green: F150W Red: F444W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "MACS J0417.5-1154 Wide Field (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01J6D97YGSQACWK990TH56K6AF.png",
+        "caption": "A cosmic question mark appears amid a powerful gravitational lens in the James Webb Space Telescope\u2019s wide-field view of the galaxy cluster MACS-J0417.5-1154. Gravitational lensing occurs when something is so massive, like this galaxy cluster, that it warps the fabric of space-time itself, creating a natural funhouse-mirror effect that also magnifies galaxies behind it.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "MACS J0417.5-1154",
+            "Object Description": "Galaxy Cluster",
+            "R.A. Position": "04:17:34.6",
+            "Dec. Position": "-11:54:32",
+            "Constellation": "Eridanus",
+            "Distance": "4.65 billion light-years (z=0.441)",
+            "Dimensions": "Image is about 2.4 arcmin across (about 3.3 million light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1208 (C. Willott); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "Oct 2022",
+            "Filters": "F090W, F150W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0 Blue: F090W Green: F150W Red: F444W"
+        }
+    },
+    {
+        "title": "CEERS Crop (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J5E849R5W27ZZ2C3QAE9ET75.png",
+        "caption": "This image shows a small portion of the field observed by NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) for the Cosmic Evolution Early Release Science (CEERS) survey. It is filled with galaxies. The light from some of them has traveled for over 13 billion years to reach the telescope.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "CEERS Survey, Extended Groth Strip",
+            "Object Description": "Deep field survey",
+            "R.A. Position": "14:19:46",
+            "Dec. Position": "+52:53:37",
+            "Constellation": "Bo\u00f6tes",
+            "Dimensions": "Image is about 4.2 arcminutes across.",
+            "Data Description": "This image was created with Webb data from proposal: 1345 (S. Finkelstein). Image Processing: Alyssa Pagan (STScI).",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "20-21 Dec 2022, 24 Dec 2022",
+            "Filters": "F115W, F150W, F200W, F277W, F356W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nBlue: F115W+F150W\nGreen: F200W + F277W\nRed: F356W + F444W"
+        }
+    },
+    {
+        "title": "Interacting Galaxies Arp 142 (NIRCam and MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J06XZQFRG9WHB4XT01NGACGB.png",
+        "caption": "This \u201cpenguin party\u201d is loud! The distorted spiral galaxy at center, the Penguin, and the compact elliptical galaxy at left, the Egg, are locked in an active embrace. A new near- and mid-infrared image from the James Webb Space Telescope, taken to mark its second year of science, shows that their interaction is marked by a faint upside-down U-shaped blue glow.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Arp 142, NGC 2396/2397",
+            "Object Description": "Interacting Galaxies",
+            "R.A. Position": "09:37:43.09",
+            "Dec. Position": "02:45:47.01",
+            "Constellation": "Hydra",
+            "Distance": "326 million light-years",
+            "Dimensions": "Image is 2.2 arcmin across (about 210,000 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 6564 (M. Marin); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "May 6, 2024",
+            "Filters": "F090W, F150W, F200W, F277W, F356W, F444W, F770W, F1000W, F1500W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample narrow and broad wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: Red: F1500W, F1000W, and F444W. Orange: F770W and F356W. Yellow: F277W. Green: F200W. Blue: F150W and F090W.",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Interacting Galaxies Arp 142 (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J06ZFN5S7DCBYRZ2VQNRQY3J.png",
+        "caption": "Webb\u2019s mid-infrared view of interacting galaxies Arp 142 seems to sing in primary colors. The background of space is like a yawning darkness speckled with bright, multi-colored beads.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Arp 142, NGC 2396/2397",
+            "Object Description": "Interacting Galaxies",
+            "R.A. Position": "09:37:43.09",
+            "Dec. Position": "02:45:47.01",
+            "Constellation": "Hydra",
+            "Distance": "326 million light-years",
+            "Dimensions": "Image is about 3.4 arcmin across (about 322,000 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 6564 (M. Marin); Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "MIRI",
+            "Exposure Dates": "May 6, 2024",
+            "Filters": "F770W, F1000W, F1500W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument. Several filters were used to sample narrow and broad wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: Red: F1500W Green: F1000W Blue: F770W.",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "L1527 and Protostar (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01J0BY5NWGXKR165XPC66KS4PT.png",
+        "caption": "L1527, shown in this image from NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument), is a molecular cloud that harbors a protostar. It resides about 460 light-years from Earth in the constellation Taurus. The more diffuse blue light and the filamentary structures in the image come from organic compounds known as polycyclic aromatic hydrocarbons (PAHs), while the red at the center of this image is an energized, thick layer of gases and dust that surrounds the protostar. The region in between, which shows up in white, is a mixture of PAHs, ionized gas, and other molecules.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "L1527 IRS (IRAS 04368+2557)",
+            "Object Description": "Young Stellar Object",
+            "R.A. Position": "04:39:53.59",
+            "Dec. Position": "+26:03:05.50",
+            "Constellation": "Taurus",
+            "Distance": "About 460 light-years",
+            "Dimensions": "Image is 2.37 arcmin across (about 0.32 light-years)",
+            "Data Description": "This image was created from JWST data from proposal: 2739 (K. Pontoppidan). Image processing: Macarena Garcia Marin (STScI), Joseph DePasquale (STScI).",
+            "Instrument": "MIRI",
+            "Exposure Dates": "08 Sep 2022",
+            "Filters": "F770W, F1280W, F1800W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument. Several filters were used to sample different infrared wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\u00a0\nBlue: F770W, Green: F1280W, Red: F1800W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Serpens (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01HYGF81QMHP3SPA0Q7QMRXY3Z.png",
+        "caption": "In this image of the Serpens Nebula from the Near-Infrared Camera (NIRCam) on NASA\u2019s James Webb Space Telescope, astronomers found a grouping of aligned protostellar outflows within one small region (the top left corner). In the Webb image, these jets are signified by bright clumpy streaks that appear red, which are shockwaves from the jet hitting surrounding gas and dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Serpens Nebula, HBC 672, [EC 92] 82",
+            "Object Description": "Reflection nebula and star forming region",
+            "R.A. Position": "18:29:56.91",
+            "Dec. Position": "+1:14:45.77",
+            "Constellation": "Serpens",
+            "Distance": "1,300 light-years",
+            "Dimensions": "Image is about 6.3 arcminutes across (1.8 light-years)",
+            "Data Description": "The Webb observations include those from program 1611 (K. Pontoppidan). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "26 April 2023, 12 May 2023",
+            "Filters": "F140M, F210M, F360M, F480M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140M, Cyan: F210M, Orange: F360M, Red: 480M",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Serpens North \u2013 Aligned Outflows Crop (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01HYGK7PC1NBR9N26JAJ97W1XR.png",
+        "caption": "This image from NASA\u2019s James Webb Space Telescope shows a portion of the Serpens Nebula, where astronomers discovered a grouping of aligned protostellar outflows. These jets are signified by bright clumpy streaks that appear red, which are shock waves from the jet hitting surrounding gas and dust. Here, the red color represents the presence of molecular hydrogen and carbon monoxide.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Serpens Nebula, HBC 672, [EC 92] 82",
+            "Object Description": "Reflection nebula and star forming region",
+            "R.A. Position": "18:29:56.91",
+            "Dec. Position": "+1:14:45.77",
+            "Constellation": "Serpens",
+            "Distance": "1,300 light-years",
+            "Dimensions": "Image is about 3.2 arcminutes across (0.9 light-years)",
+            "Data Description": "The Webb observations include those from program 1611 (K. Pontoppidan). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "26 April 2023, 12 May 2023",
+            "Filters": "F140M, F210M, F360M, F480M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140M, Cyan: F210M, Orange: F360M, Red: 480M"
+        }
+    },
+    {
+        "title": "Serpens Center Crop (NIRCam)",
+        "image_url": "https://stsci-opo.org/STScI-01HYGKYYKJ9QP1B9TYBMS2CSCK.png",
+        "caption": "This image shows the center of the Serpens Nebula as seen by NASA\u2019s James Webb Space Telescope\u2019s Near-Infrared Camera (NIRCam).",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Serpens Nebula, HBC 672, [EC 92] 82",
+            "Object Description": "Reflection nebula and star forming region",
+            "R.A. Position": "18:29:56.91",
+            "Dec. Position": "+1:14:45.77",
+            "Constellation": "Serpens",
+            "Distance": "1,300 light-years",
+            "Dimensions": "Image is about 4.8 arcminutes across (1.4 light-years)",
+            "Data Description": "The Webb observations include those from program 1611 (K. Pontoppidan). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "26 April 2023, 12 May 2023",
+            "Filters": "F140M, F210M, F360M, F480M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140M, Cyan: F210M, Orange: F360M, Red: 480M"
+        }
+    },
+    {
+        "title": "Crab Nebula",
+        "image_url": "https://stsci-opo.org/STScI-01J04A57VT54A4PKF2J4R1ZC7G.jpg",
+        "caption": "NASA\u2019s James Webb Space Telescope dissected the Crab Nebula\u2019s structure, aiding astronomers as they continue to evaluate leading theories about the supernova remnant\u2019s origins. With the data collected by Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), a team of scientists were able to closely inspect some of the Crab Nebula\u2019s major components.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Crab Nebula, M1, NGC 1952",
+            "Object Description": "Supernova Remnant, Pulsar",
+            "R.A. Position": "05:34:32",
+            "Dec. Position": "+22:00:52",
+            "Constellation": "Taurus",
+            "Distance": "6500 light-years",
+            "Dimensions": "Image is about 5.5 arcmin across (about 10 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1714 (T. Temim) - Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "31 Oct 2022, 24 Feb 2023, 17 Mar 2023",
+            "Filters": "NIRCam: F480M; MIRI: F1800W, F2100W",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter or images derived from mathematical combinations of filters. In this case, the assigned colors are: \u00a0Blue: Synchrotron (F480M), \u00a0Green: Sulfur (derived from F1800W and F2100W) Magenta: Dust (derived from F1800W and F2100W)",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Horsehead Nebula (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HV4BDR9C8MNJGJNS9TNE78YX.png",
+        "caption": "This image of the Horsehead Nebula from NASA\u2019s James Webb Space Telescope focuses on a portion of the horse\u2019s \u201cmane\u201d that is about 0.8 light-years in width. It was taken with Webb\u2019s NIRCam (Near-infrared Camera). The ethereal clouds that appear blue at the bottom of the image are filled with a variety of materials including hydrogen, methane, and water ice. Red-colored wisps extending above the main nebula represent both atomic and molecular hydrogen. In this area, known as a photodissociation region, ultraviolet light from nearby young, massive stars creates a mostly neutral, warm area of gas and dust between the fully ionized gas above and the nebula below. As with many Webb images, distant galaxies are sprinkled in the background.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Horsehead Nebula, Barnard 33",
+            "Object Description": "Star-forming region",
+            "R.A. Position": "05:40:52.62",
+            "Dec. Position": "-02:28:47.49",
+            "Constellation": "Orion",
+            "Distance": "1,300 light years",
+            "Dimensions": "Image is about 2.1 arcminutes across",
+            "Data Description": "This image was created with Webb data from proposal 1192 (K. Misselt)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "30 January 2024",
+            "Filters": "F140M, F250M, F300M, F323N, F335M, F430M, F405N, F470N",
+            "Color Info": "These images are a composite of separate exposures acquired by the NIRCam instrument on the James Webb Space Telescope. Several filters were used to sample various wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\nBlue= F140M, F250M, Cyan= \u00a0F300M, F323N, Green= F335M, Orange=F430M, Red= F405N, F407N"
+        }
+    },
+    {
+        "title": "Horsehead Nebula (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HWDBW8X37TMQKWGY532CFS7E.png",
+        "caption": "This image of the Horsehead Nebula from NASA\u2019s James Webb Space Telescope focuses on a portion of the horse\u2019s \u201cmane.\u201d It was taken with Webb\u2019s MIRI (Mid-Infrared Instrument). Mid-infrared light captures the glow of substances like dusty silicates and soot-like molecules called polycyclic aromatic hydrocarbons.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Horsehead Nebula, Barnard 33",
+            "Object Description": "Star-forming region",
+            "R.A. Position": "05:40:52.62",
+            "Dec. Position": "-02:28:47.49",
+            "Constellation": "Orion",
+            "Distance": "1,300 light years",
+            "Dimensions": "Image is about 1.3 arcminutes across",
+            "Data Description": "This image was created with Webb data from proposal 1192 (K. Misselt)",
+            "Instrument": "MIRI",
+            "Exposure Dates": "30 January 2024",
+            "Filters": "F560W, F770W, F1000W, F1100W, F1200W, F1500W, F1800W, F2100W, F2500W",
+            "Color Info": "These images are a composite of separate exposures acquired by the MIRI instrument on the James Webb Space Telescope. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\nBlue= F560W, F770W, F1000W Green= F1100W, F1200W, F1500W Red= F1800W, F2100W, F2500W"
+        }
+    },
+    {
+        "title": "M82 (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HRD3BSQ4GNW2KN7J3G5BPBVR.png",
+        "caption": "Astronomers used the James Webb Space Telescope to look toward M82\u2019s center, where a galactic wind is being launched as a result of rapid star formation and subsequent supernovas. Studying the galactic wind can offer insight into how the loss of gas shapes the future growth of the galaxy.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "M82, NGC 3034",
+            "Object Description": "Starburst Galaxy",
+            "R.A. Position": "09:55:52.0",
+            "Dec. Position": "69:40:48.99",
+            "Constellation": "Ursa Major",
+            "Distance": "12 million light-years (3.7 Megaparsecs)",
+            "Data Description": "This image was created with Webb data from proposal:\u00a01701 (M. Marin). Image processing: Alyssa Pagan (STScI).",
+            "Instrument": "JWST>NIRCam",
+            "Exposure Dates": "5 Janurary 2024",
+            "Filters": "JWST> F164N, F250W, F335M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample varying wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F164N, Green: F250W, Red: F335M"
+        }
+    },
+    {
+        "title": "M82 (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HRD50BHS9Z5353MJ62PYASBW.png",
+        "caption": "A team of astronomers used NASA\u2019s James Webb Space Telescope to survey the starburst galaxy Messier 82 (M82), which is located 12 million light-years away in the constellation Ursa Major. M82 hosts a frenzy of star formation, sprouting new stars 10 times faster than the Milky Way galaxy. Webb\u2019s infrared capabilities enabled scientists to peer through curtains of dust and gas that have historically obscured the star formation process.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "M82, NGC 3034",
+            "Object Description": "Starburst Galaxy",
+            "R.A. Position": "09:55:52.0",
+            "Dec. Position": "69:40:48.99",
+            "Constellation": "Ursa Major",
+            "Distance": "12 million light-years (3.7 Megaparsecs)",
+            "Data Description": "This image was created with Webb data from proposal: 1701 (M. Marin). Image processing: Alyssa Pagan (STScI).",
+            "Instrument": "JWST>NIRCam",
+            "Exposure Dates": "5 Janurary 2024",
+            "Filters": "JWST> F140N, F164N, F212N",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample varying wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F140W, Green: F164N, Red: F212N"
+        }
+    },
+    {
+        "title": "Parallel Field to Protostar IRAS 23385 (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HQK9C8HHBQ275Y9C4CVH0RBN.png",
+        "caption": "This image was taken by MIRI (the Mid-Infrared Instrument) on NASA's James Webb Space Telescope of a region near the protostar known as IRAS 23385. The image is a single exposure at a wavelength of 15 microns which has been assigned an orange color.",
+        "release_date": "",
+        "facts": {
+            "Filters": "None"
+        }
+    },
+    {
+        "title": "NGC 5468 (Webb NIRCam + Hubble WFC3)",
+        "image_url": "https://stsci-opo.org/STScI-01HQ6CGRCCC30RA3GJ74H05231.png",
+        "caption": "This image of NGC 5468, a galaxy located about 130 million light-years from Earth, combines data from the Hubble and James Webb space telescopes. This is the farthest galaxy in which Hubble has identified Cepheid variable stars. These are important milepost markers for measuring the expansion rate of the universe. The distance calculated from Cepheids has been cross-correlated with a type Ia supernova in the galaxy. Type Ia supernovae are so bright they are used to measure cosmic distances far beyond the range of the Cepheids, extending measurements of the universe's expansion rate deeper into space.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 5468",
+            "Object Description": "Spiral galaxy, cepheids host galaxy",
+            "R.A. Position": "14:06:35.01",
+            "Dec. Position": "-05:27:15.72",
+            "Constellation": "Virgo",
+            "Distance": "About 130 million light-years",
+            "Dimensions": "Image is about 2.1 arcminutes across (about 75,000 light-years)",
+            "Data Description": "This image was created with Webb and Hubble data from proposals: 1685 and 11570 (A. Riess). Image processing: Alyssa Pagan (STScI).",
+            "Instrument": "Hubble>WFC3/UVIS\nWebb>NIRCam",
+            "Exposure Dates": "Hubble> 28 December 2017- 25 March 2018\nWebb> 28 June 2023, 15 July 2023",
+            "Filters": "Hubble> F555W, F814W\nWebb> F277W",
+            "Color Info": "This image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3 instrument and the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F555W, Green: F814W, Red: F277W"
+        }
+    },
+    {
+        "title": "NGC 604 (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HQNV4QZ16BPB3TBEVMYS3G7N.png",
+        "caption": "This image from NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) of star-forming region NGC 604 shows how stellar winds from bright, hot young stars carve out cavities in surrounding gas and dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 604, M33",
+            "Object Description": "Star Forming Region in Spiral Galaxy M33",
+            "R.A. Position": "01:34:33.79",
+            "Dec. Position": "30:46:59.0",
+            "Constellation": "Triangulum",
+            "Distance": "About 2.73 million light-years (830,000 parsecs)",
+            "Dimensions": "Image is about 2.1 arcminutes across (about 1,700 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 6555 (M. Marin). Image processing: Alyssa Pagan (STScI).",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "28 Janurary 2024",
+            "Filters": "F090W, F187N, F200W, F335M, F444W, F470N",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample varying wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F090W, Cyan: F187N, Green: F335M, Red: F444W+F470N",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "NGC 604 (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HQP6HC5D1NMKD35BAC1VM8AW.png",
+        "caption": "This image from NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument) of star-forming region NGC 604 shows how large clouds of cooler gas and dust glow in mid-infrared wavelengths. This region is a hotbed of star formation and home to more than 200 of the hottest, most massive kinds of stars, all in the early stages of their lives.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 604, M33",
+            "Object Description": "Star Forming Region in Spiral Galaxy M33",
+            "R.A. Position": "01:34:33.79",
+            "Dec. Position": "30:46:59.0",
+            "Constellation": "Triangulum",
+            "Distance": "About 2.73 million light-years (830,000 parsecs)",
+            "Dimensions": "Image is about 1.8 arcminutes across (about 1,400 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 6555 (M. Marin). Image processing: Alyssa Pagan (STScI).",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "26 Janurary 2024",
+            "Filters": "NIRCam> F335M\nMIRI> F700W, F1130W, F1500W",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample varying wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nLuminostiy: F335M, Blue: F700W, Green: F1130W, Red: F1500W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1566",
+        "image_url": "https://stsci-opo.org/STScI-01HM9ZG8GJAANKFKCJJX18G71B.png",
+        "caption": "Face-on spiral galaxy, NGC 1566, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1566",
+            "Object Description": "Spiral galaxy",
+            "R.A. Position": "04:20:00.49",
+            "Dec. Position": "-54:56:15.28",
+            "Constellation": "Dorado",
+            "Distance": "About 60 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F658N, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F658N\nYellow = F814W\nGreen = F555W\nBlue = F438W\nPurple = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1672",
+        "image_url": "https://stsci-opo.org/STScI-01HMA3N77TJ7VMCCQD6MB1MDGE.png",
+        "caption": "Face-on spiral galaxy, NGC 1672, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1672",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "04:45:42.10",
+            "Dec. Position": "-59:14:56",
+            "Constellation": "Dorado",
+            "Distance": "About 60 million light-years away.",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposal: 10354 (L. Jenkins).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> ACS/WFC",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F435W, F550M, F658N, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the ACS/WFC instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nRed = F658N\nGreen: F550M\nBlue = F435W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 2835",
+        "image_url": "https://stsci-opo.org/STScI-01HMA4QGAKSKZ0Z1JQD5YZJW4Q.png",
+        "caption": "Face-on spiral galaxy, NGC 2835, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 2835",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "09:17:53.09",
+            "Dec. Position": "-22:21:16.14",
+            "Constellation": "Hydra",
+            "Distance": "About 35 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nCyan = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 3351",
+        "image_url": "https://stsci-opo.org/STScI-01HMA5XEFAE1KT61H08B6ZHRZX.png",
+        "caption": "Face-on spiral galaxy, NGC 3351, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 3351",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "10:43:55.08",
+            "Dec. Position": "+11:41:24.70",
+            "Constellation": "Leo",
+            "Distance": "About 33 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposal: 13364 (D. Calzetti). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed: F814W\nGreen: F555W \u00a0\nBlue: F438W \u00a0 \u00a0\u00a0\nPurple: F336W \u00a0 \u00a0\u00a0\nMagenta: F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 3627",
+        "image_url": "https://stsci-opo.org/STScI-01HMA6PHNNYCPN22FDN611VAKB.png",
+        "caption": "Face-on spiral galaxy, NGC 3627, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 3627",
+            "Object Description": "Spiral galaxy",
+            "R.A. Position": "11:20:15.0",
+            "Dec. Position": "+12:59:30",
+            "Constellation": "Leo",
+            "Distance": "About 36 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposal: 13364 (D. Calzetti). Image Processing: Alyssa Pagan (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4254",
+        "image_url": "https://stsci-opo.org/STScI-01HMA7E9Q34VN3RAXGQE7E5GVV.png",
+        "caption": "Face-on spiral galaxy, NGC 4254, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 4254, M99",
+            "Object Description": "Spiral galaxy",
+            "R.A. Position": "12:18:50.67",
+            "Dec. Position": "14:25:13.42",
+            "Constellation": "Coma Berenices",
+            "Distance": "About 50 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4303",
+        "image_url": "https://stsci-opo.org/STScI-01HMBZZK7YGNRCVY082MQVSRZ6.png",
+        "caption": "Face-on spiral galaxy, NGC 4303, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 4303",
+            "Object Description": "Starburst galaxy",
+            "R.A. Position": "12:21:55.33",
+            "Dec. Position": "04:28:26.94",
+            "Constellation": "Virgo",
+            "Distance": "About 55 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W\nVLT> F656N",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument and the Very Large Telescope (VLT). Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F656N\nYellow= F814W\nGreen = F555W\nCyan = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4321",
+        "image_url": "https://stsci-opo.org/STScI-01HMC16FVCPTHHGFAB67ZXCFXJ.png",
+        "caption": "Face-on spiral galaxy, NGC 4321, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at bottom left, and the Hubble Space Telescope\u2019s on top right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 4321, M100",
+            "Object Description": "Spiral galaxy",
+            "R.A. Position": "12:22:54.94",
+            "Dec. Position": "15:49:19.49",
+            "Constellation": "Coma Berenices",
+            "Distance": "About 55 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposal: 15654 (J. Lee). Image Processing: Alyssa Pagan (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4535",
+        "image_url": "https://stsci-opo.org/STScI-01HMC1WYP25W7WS86CD1ZTMED5.png",
+        "caption": "Face-on spiral galaxy, NGC 4535, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at bottom left, and the Hubble Space Telescope\u2019s on top right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 4535",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "12:34:20.17",
+            "Dec. Position": "08:12:4.76",
+            "Constellation": "Virgo",
+            "Distance": "About 50 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 5068",
+        "image_url": "https://stsci-opo.org/STScI-01HMC2B1WX7305FE35H3MHYG3H.png",
+        "caption": "Face-on spiral galaxy, NGC 5068, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 5068",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "13:18:54.81",
+            "Dec. Position": "-21:02:20.76",
+            "Constellation": "Virgo",
+            "Distance": "About 20 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposal: 15654 (J. Lee). Image Processing: Alyssa Pagan (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy IC 5332",
+        "image_url": "https://stsci-opo.org/STScI-01HM9QCDE8TA5AFFS5XRTRKY5Z.png",
+        "caption": "Face-on spiral galaxy, IC 5332, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s at bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "IC 5332",
+            "Object Description": "Spiral Galaxy",
+            "R.A. Position": "23:34:26.54",
+            "Dec. Position": "-36:06:0.19",
+            "Constellation": "Sculptor",
+            "Distance": "About 30 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W; F336W; F438W; F555W; F814W; F658N",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\nRed = F2100W + F1130W + F1000W + F770W\u00a0Green = F770W + F360M\u00a0Blue = F335M + F300M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Hubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\nRed = F658N\nYellow= F814W\nGreen = F555W\nCyan= F438W\nBlue = F336W\nPurple= F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 7496",
+        "image_url": "https://stsci-opo.org/STScI-01HMC2VAHJRPDZW8EE9XM2ZAHR.png",
+        "caption": "Face-on spiral galaxy, NGC 7496, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 7496",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "23:09:48.16",
+            "Dec. Position": "-43:25:20.41",
+            "Constellation": "Grus",
+            "Distance": "About 24 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 628",
+        "image_url": "https://stsci-opo.org/STScI-01HM9S6N94YT76MP4ETAG5TWKX.png",
+        "caption": "Face-on spiral galaxy, NGC 628, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 628; M74",
+            "Object Description": "Spiral Galaxy",
+            "R.A. Position": "01:36:51.100",
+            "Dec. Position": "+15:45:47.00",
+            "Constellation": "Pisces",
+            "Distance": "About 32 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposals: 10402 (R. Chandar) and 9796 (J. Miller)",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> ACS/WFC",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F435W, F555W, F656N, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the ACS/WFC instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F814W\nRed = F656N\nGreen = F555W\nBlue = F435W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1087",
+        "image_url": "https://stsci-opo.org/STScI-01HM9TNEQ0M5XFSAJ9NBHJFSXW.png",
+        "caption": "Face-on spiral galaxy, NGC 1087, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1087",
+            "Object Description": "Spiral Galaxy",
+            "R.A. Position": "02:46:25.16",
+            "Dec. Position": "-00:29:55.46",
+            "Constellation": "Cetus",
+            "Distance": "About 80 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1300",
+        "image_url": "https://stsci-opo.org/STScI-01HM9W1X49F5G3TERHQ2502EHT.png",
+        "caption": "Face-on barred spiral galaxy, NGC 1300, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1300",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "03:19:41.05",
+            "Dec. Position": "-19:24:40.19",
+            "Constellation": "Eridanus",
+            "Distance": "About 69 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).\nThe Hubble image was created with data from proposal: 10342 (K. Noll). Image Processing: Zolt Levay (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> ACS/WFC",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F435W, F555W, F658N, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the ACS/WFC instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F814W\nRed = F658N\nGreen = F555W\nBlue = F435W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1365",
+        "image_url": "https://stsci-opo.org/STScI-01HM9X5PVATSFR4YKA12N87GF8.png",
+        "caption": "Barred spiral galaxy, NGC 1365, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear on bottom right, and the Hubble Space Telescope\u2019s at top left. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1365",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "03:33:36.46",
+            "Dec. Position": "-36:08:26.37",
+            "Constellation": "Fornax",
+            "Distance": "About 56 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1385",
+        "image_url": "https://stsci-opo.org/STScI-01HM9XSEJ2BDZ219YP4AGF62A1.png",
+        "caption": "Face-on spiral galaxy, NGC 1385, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1385",
+            "Object Description": "Spiral galaxy",
+            "R.A. Position": "03:37:28.33",
+            "Dec. Position": "-24:30:03.22",
+            "Constellation": "Fornax",
+            "Distance": "About 30 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1433",
+        "image_url": "https://stsci-opo.org/STScI-01HM9YBR9973K52KQRMAN835D4.png",
+        "caption": "Face-on barred spiral galaxy, NGC 1433, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine\u00a0near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1433",
+            "Object Description": "Seyfert galaxy",
+            "R.A. Position": "03:42:02.33",
+            "Dec. Position": "-47:13:20.61",
+            "Constellation": "Horologium",
+            "Distance": "About 46 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F336W, F438W, F555W, F814W",
+            "Color Info": "Hubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F336W\nYellow= F814W\nGreen = F555W\nBlue = F438W"
+        }
+    },
+    {
+        "title": "Webb and Hubble's Views of Spiral Galaxy NGC 1512",
+        "image_url": "https://stsci-opo.org/STScI-01HM9Z132VE1VAXT79KHX3DXTF.png",
+        "caption": "Face-on barred spiral galaxy, NGC 1512, is split diagonally in this image: The James Webb Space Telescope\u2019s observations appear at top left, and the Hubble Space Telescope\u2019s on bottom right. Webb and Hubble\u2019s images show a striking contrast, an inverse of darkness and light. Why? Webb\u2019s observations combine\u00a0near- and mid-infrared light and Hubble\u2019s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble\u2019s images, dark regions are where starlight is absorbed by dust.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 1512",
+            "Object Description": "Barred spiral galaxy",
+            "R.A. Position": "04:03:54.28",
+            "Dec. Position": "-43:20:55.86",
+            "Constellation": "Horologium",
+            "Distance": "About 30 million light-years away",
+            "Data Description": "The Webb image was created with data from proposal: 2107 (J. Lee). Image Processing: Joseph DePasquale (STScI).",
+            "Instrument": "Webb> NIRCam, MIRI\nHubble> WFC3/UVIS",
+            "Filters": "Webb> F300M, F335M, F360M, F770W, F1000W, F1130W, F2100W\nHubble> F275W, F336W, F438W, F555W, F814W",
+            "Color Info": "Webb Image:\nThis image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed = F2100W + F1130W + F1000W + F770WGreen = F770W + F360MBlue = F335M + F300M\nHubble Image:\nThis image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3/UVIS instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed= F814W\nGreen = F555W\nBlue = F438W\nBlue = F336W\nPurple = F275W"
+        }
+    },
+    {
+        "title": "Beta Pictoris (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HKAHM6P1KVVK9747NV6237DW.png",
+        "caption": "NASA\u2019s James Webb Space Telescope has imaged star system Beta Pictoris. Webb\u2019s MIRI (Mid-Infrared Instrument) enabled a team of astronomers to investigate the composition of Beta Pic\u2019s main and secondary debris disks\u2014the latter feature previously detected by the Hubble Space Telescope.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Beta Pictoris",
+            "Object Description": "Debris disk",
+            "R.A. Position": "05:47:17.08",
+            "Dec. Position": "-51:03:59.43",
+            "Constellation": "Pictor",
+            "Distance": "63 light-years (19 parsecs)",
+            "Dimensions": "Image is about 3.6 arcseconds across (712 au)",
+            "Data Description": "This image was created with Hubble data from proposal: 1411 (C. Stark). Image Processing: Alyssa Pagan (STScI).",
+            "Instrument": "MIRI",
+            "Exposure Dates": "13 December 2022",
+            "Filters": "F1550C, F2300C",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument. Several filters were used to sample specfic wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nCyan: F1550C\nOrange: F2300C",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Uranus Close-up (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HHFNP2T05WKAX43B6BVYD1KR.png",
+        "caption": "This image of Uranus from NIRCam (Near-Infrared Camera) on NASA's James Webb Space Telescope shows the planet and its rings in new clarity. The Webb image exquisitely captures Uranus\u2019s seasonal north polar cap, including the bright, white, inner cap and the dark lane in the bottom of the polar cap. Uranus\u2019 dim inner and outer rings are also visible in this image, including the elusive Zeta ring\u2014the extremely faint and diffuse ring closest to the planet.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Uranus",
+            "Object Description": "Planet",
+            "Data Description": "This image was created from JWST data from proposal: 2739 (K. Pontoppidan)\nImage Processing: Alyssa Pagan, Macarena Garcia Marin (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "04 September 2023",
+            "Filters": "F140M, F210M, F300M, F460M",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nBlue: F140M, Cyan: F210M, Yellow: F300M, Orange: F460M",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Uranus Wide (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HHFPRC79EM3SKWSBXNVKBXTG.png",
+        "caption": "This image of Uranus from NIRCam (Near-Infrared Camera) on NASA\u2019s James Webb Space Telescope shows the planet and its rings in new clarity. The planet\u2019s seasonal north polar cap gleams in a bright white, and Webb\u2019s exquisite sensitivity resolves Uranus\u2019 dim inner and outer rings, including the Zeta ring\u2014the extremely faint and diffuse ring closest to the planet.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Uranus",
+            "Object Description": "Planet",
+            "Data Description": "This image was created from JWST data from proposal: 2739 (K. Pontoppidan)\nImage Processing: Alyssa Pagan, Macarena Garcia Marin (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "04 September 2023",
+            "Filters": "F140M, F210M, F300M, F460M",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample medium wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nBlue: F140M, Cyan: F210M, Yellow: F300M, Orange: F460M"
+        }
+    },
+    {
+        "title": "IC 348 (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HFC83QXT6N4MRJ1RS4D5KFJS.png",
+        "caption": "This image from the NIRCam (Near-Infrared Camera) instrument on NASA\u2019s James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter. The smallest weighs just three to four times Jupiter, challenging theories for star formation.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "IC 348",
+            "Object Description": "Star-forming region",
+            "R.A. Position": "03:44:34.28",
+            "Dec. Position": "+32:09:43.10",
+            "Constellation": "Perseus",
+            "Distance": "About 1,000 lightyears",
+            "Dimensions": "This image is about 1.9 arcminutes across (.6 lightyears)",
+            "Data Description": "This image was created with Webb data from proposal: 1229 (C. Alves de Oliveira). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "28 August 2022",
+            "Filters": "F277W, F360M, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F277W, Green: F360M, Red: F444W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Cassiopeia A (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HGGZ53NN6J3N8R0EXPG1VH6W.png",
+        "caption": "A new high-definition image from NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) unveils intricate details of supernova remnant Cassiopeia A (Cas A), and shows the expanding shell of material slamming into the gas shed by the star before it exploded.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Cassiopeia A; SNR G111.7-02.1",
+            "Object Description": "Supernova remnant",
+            "R.A. Position": "23:23:24.00",
+            "Dec. Position": "+58:48:54.00",
+            "Constellation": "Cassiopeia",
+            "Distance": "11,090 light-years",
+            "Dimensions": "Image is about 5.8 arcminutes across (19 light-years).",
+            "Data Description": "This image was created with Webb data from proposal: 1947 (D. Milisavljevic).\nImage Processing: Alyssa Pagan.",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "05 November 2022",
+            "Filters": "F162M, F356W, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nBlue: F162M, Green: F356W, Red: F444W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Sagittarius C (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HF7NQYVC0E5DHBFT1D9BK79E.png",
+        "caption": "The full view of the James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) instrument reveals a 50 light-years-wide portion of the Milky Way\u2019s dense center. An estimated 500,000 stars shine in this image of the Sagittarius C (Sgr C) region, along with some as-yet unidentified features.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Sagittarius C",
+            "R.A. Position": "17:44:40.30",
+            "Dec. Position": "-29:28:14.93",
+            "Constellation": "Sagittarius",
+            "Distance": "26,000 lightyears",
+            "Dimensions": "This image is about 5.7 arcminutes across (43 lightyears)",
+            "Data Description": "This image was created with Webb data from proposal: 4147 (S. Crowe). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "22 Sept 2023",
+            "Filters": "F162M, F360M, F405N, F470N",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F162M, Cyan: F405N, Orange: F360M, Red: F470N",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "MACS 0416 (Hubble ACS and WFC3 + Webb NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HDHATHMQ6H9MD7A4D9MBPPEG.png",
+        "caption": "This panchromatic view of galaxy cluster MACS0416 was created by combining infrared observations from NASA\u2019s James Webb Space Telescope with visible-light data from NASA\u2019s Hubble Space Telescope. To make the image, in general the shortest wavelengths of light were color-coded blue, the longest wavelengths red, and intermediate wavelengths green. The resulting wavelength coverage, from 0.4 to 5 microns, reveals a vivid landscape of galaxies that could be described as one of the most colorful views of the universe ever created.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "MACS J0416.1-2403",
+            "Object Description": "Lensing Galaxy Cluster",
+            "R.A. Position": "04:16:9.89",
+            "Dec. Position": "-24:03:58.0",
+            "Constellation": "Eridanus",
+            "Data Description": "This image was created with Hubble data from proposals 12459 (M. Postman), 13496 (J. Lotz), and 13386 (S. Rodney) as well as Webb data from proposals:\u00a01176 and 2738 (R. Windhorst). Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "HST ACS & WFC3; JWST NIRCam",
+            "Exposure Dates": "HST: July 2012 - Feb 2023\nJWST: 7 Oct 2022, 29 Dec 2022, 10 Feb 2022",
+            "Filters": "HST ACS: F435W, F606W, F814W; WFC3/IR: F105W, F125W, F140W, F160W; JWST NIRCam: F090W, F115W, F150W, F200W, F277W, F356W, F410M, F444W",
+            "Color Info": "These images are a composite of separate exposures acquired by the Hubble and Webb Space Telescopes using the ACS, WFC3, and NIRCam instruments. Multiple filters were used to sample broad and narrow wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\nRed: F444W and F410M, Orange: F356W, Yellow: F277W and F200W, Green: F160W, F150W, F140W, F125W, F115W, Cyan: F090W, F105W, F814W, Blue: F606W, F435W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "MACS 0416 (Hubble and Webb Compared)",
+        "image_url": "https://stsci-opo.org/STScI-01HDHHS841WF7NB7NS7DFNGTR1.png",
+        "caption": "This side-by-side comparison of galaxy cluster MACS0416 as seen by the Hubble Space Telescope in optical light (left) and the James Webb Space Telescope in infrared light (right) reveals different details. Both images feature hundreds of galaxies, however the Webb image shows galaxies that are invisible or only barely visible in the Hubble image. This is because Webb\u2019s infrared vision can detect galaxies too distant or dusty for Hubble to see. (Light from distant galaxies is redshifted due to the expansion of the universe.) The total exposure time for Webb was about 22 hours, compared to 122 hours of exposure time for the Hubble image.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "MACS J0416.1-2403",
+            "Object Description": "Lensing Galaxy Cluster",
+            "R.A. Position": "04:16:9.89",
+            "Dec. Position": "-24:03:58.0",
+            "Constellation": "Eridanus",
+            "Data Description": "These images were created with Hubble data from proposals 12459 (M. Postman), 13496 (J. Lotz), and 13386 (S. Rodney) as well as Webb data from proposals: 1176 and 2738 (R. Windhorst).\u00a0Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "HST ACS & WFC3; JWST NIRCam",
+            "Exposure Dates": "HST: July 2012 - Feb 2023\nJWST: 7 Oct 2022, 29 Dec 2022, 10 Feb 2022",
+            "Filters": "HST ACS: F435W, F606W, F814W; WFC3/IR: F105W, F125W, F140W, F160W; JWST NIRCam: F090W, F115W, F150W, F200W, F277W, F356W, F410M, F444W"
+        }
+    },
+    {
+        "title": "Crab Nebula (NIRCam and MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HBBMDW8B4A90QZ64RGQJHRV1.png",
+        "caption": "NASA\u2019s James Webb Space Telescope has gazed at the Crab Nebula in the search for answers about the supernova remnant\u2019s origins. Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) have revealed new details in infrared light.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Crab Nebula, M1, NGC 1952",
+            "Object Description": "Supernova Remnant, Pulsar",
+            "R.A. Position": "05:34:32",
+            "Dec. Position": "+22:00:52",
+            "Constellation": "Taurus",
+            "Distance": "6500 light-years",
+            "Dimensions": "Image is about 5.5 arcmin across (about 10 light-years)",
+            "Data Description": "This image was created with Webb data from proposal: 1714 (T. Temim) - Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam, MIRI",
+            "Exposure Dates": "31 Oct 2022, 24 Feb 2023, 17 Mar 2023",
+            "Filters": "NIRCam: F162M, F480M; MIRI: F560W, F1130W, F1800W, F2100W",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0Blue: F162M, Light Blue: F480M, Cyan: F560W, Green: F1130W, Orange: F1800W, Red: F2100W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Crab Nebula (Webb and Hubble Comparison)",
+        "image_url": "https://stsci-opo.org/STScI-01HBXSJ8AQENKP48XBHYJVHWJV.png",
+        "caption": "A side-by-side comparison of the Crab Nebula as seen by the Hubble Space Telescope in optical light (left) and the James Webb Space Telescope in infrared light (right). The Hubble image was released in 2005, while astronomers have recently used Webb\u2019s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) to reveal new details of the Crab Nebula.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Crab Nebula, M1, NGC 1952",
+            "Object Description": "Supernova Remnant, Pulsar",
+            "R.A. Position": "05:34:32",
+            "Dec. Position": "+22:00:52",
+            "Constellation": "Taurus",
+            "Distance": "6500 light-years",
+            "Filters": "None"
+        }
+    },
+    {
+        "title": "Jupiter (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HCX10DQPZNBJMBR90A2M8CHY.png",
+        "caption": "This image of Jupiter from NASA\u2019s James Webb Space Telescope\u2019s NIRCam (Near-Infrared Camera) shows stunning details of the majestic planet in infrared light. In this image, brightness indicates high altitude. The numerous bright white \"spots\" and \"streaks\" are likely very high-altitude cloud tops of condensed convective storms. Auroras, appearing in red in this image, extend to higher altitudes above both the northern and southern poles of the planet. By contrast, dark ribbons north of the equatorial region have little cloud cover.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Jupiter",
+            "Object Description": "Planet",
+            "Distance": "On July 27th, 2022 Jupiter was 4.44 AU from Earth (about 413 million miles).",
+            "Data Description": "This image was created with Webb data from proposal: 1373 (I. de Pater). Image Processing: Joseph DePasquale (STScI)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "27 July 2022",
+            "Filters": "F164N, F212N, F360M",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Three filters were used to sample narrow wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0 Red: F360M, Green: F212N, Blue: F164N",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "NGC 346 (MIRI Image)",
+        "image_url": "https://stsci-opo.org/STScI-01HBVHYACKXBP5Y9R50MAEQYKR.png",
+        "caption": "This new infrared image of NGC 346 from NASA\u2019s James Webb Space Telescope\u2019s Mid-Infrared Instrument (MIRI) traces emission from cool gas and dust. In this image blue represents silicates and sooty chemical molecules known as polycyclic aromatic hydrocarbons, or PAHs. More diffuse red emission shines from warm dust heated by the brightest and most massive stars in the heart of the region. Bright patches and filaments mark areas with abundant numbers of protostars. This image includes 7.7-micron light shown in blue, 10 microns in cyan, 11.3 microns in green, 15 microns in yellow, and 21 microns in red (770W, 1000W, 1130W, 1500W, and 2100W filters, respectively).",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 346",
+            "Object Description": "Cluster and Nebulosity in the Small Magellanic Cloud",
+            "R.A. Position": "00:59:04.95",
+            "Dec. Position": "-72:10:09.15",
+            "Constellation": "Tucana",
+            "Distance": "200,000 light-years away (61,300 parsecs)",
+            "Dimensions": "This image is about 3.4 arcminutes across (200 light-years).",
+            "Data Description": "This image was created with Webb data from proposal: 1227 (M. Meixner). Image Processing: Alyssa Pagan (STScI)",
+            "Instrument": "MIRI",
+            "Exposure Dates": "10 October 2022",
+            "Filters": "F770W, F1000W, F1130W, F1500W, F2100W",
+            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nRed: F2100W, Yellow: F1500W, Green: F1130W, Cyan: F1000W, Blue: F770W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Europa (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01H69AV49MW1M25VT0SNHX3XTA.png",
+        "caption": "NIRCam (the Near Infrared Camera) on NASA\u2019s James Webb Space Telescope captured this picture of the surface of Jupiter\u2019s moon Europa. Webb identified carbon dioxide on the icy surface of Europa that likely originated in the moon\u2019s subsurface ocean. This discovery has important implications for the potential habitability of Europa\u2019s ocean. The moon appears mostly blue because it is brighter at shorter infrared wavelengths. The white features correspond with the chaos terrain Powys Regio (left) and Tara Regio (center and right), which show enhanced carbon dioxide ice on the surface.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Europa",
+            "Object Description": "One of Jupiter's moons",
+            "Data Description": "This image was created with Webb data from proposal: 1250 (G. Villanueva)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "9 Nov 2022, 23 Nov 2022",
+            "Filters": "F070W, F140M, F212N, F250M, F335M, F460M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F070W+F140M, Green: F212N+F250M, Red: F335M+F460M"
+        }
+    },
+    {
+        "title": "HH 211 (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01H9NWHWKBM3DM6PQQPZDSVY7Y.png",
+        "caption": "NASA\u2019s James Webb Space Telescope\u2019s high resolution, near-infrared look at Herbig-Haro 211 reveals exquisite detail of the outflow of a young star, an infantile analogue of our Sun. Herbig-Haro objects are formed when stellar winds or jets of gas spewing from newborn stars form shock waves colliding with nearby gas and dust at high speeds",
+        "release_date": "",
+        "facts": {
+            "Object Name": "HH 211",
+            "Object Description": "Young Stellar Object",
+            "R.A. Position": "03:43:56.52",
+            "Dec. Position": "+32:00:52.8",
+            "Constellation": "Perseus",
+            "Distance": "1,000 light-years",
+            "Data Description": "This image was created with Webb data from proposal: 1257 (T. Ray)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "28 Aug 2022",
+            "Filters": "F162M, F164N, F210M, F323N, F335M, F460M, F466N, F470N",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nPurple: F162M + F164N, Blue: F210M + F323N, Cyan: F335M, Green: F460M, Orange: F466N, Red: F470N"
+        }
+    },
+    {
+        "title": "NGC 5584 (Webb NIRCam + Hubble WFC3)",
+        "image_url": "https://stsci-opo.org/STScI-01H9NTVTH43187J55MB3QGBNMY.png",
+        "caption": "Combined observations from NASA\u2019s NIRCam (Near-Infrared Camera) and Hubble\u2019s WFC3 (Wide Field Camera 3) show spiral galaxy NGC 5584, which resides 72 million light-years away from Earth. Among NGC 5584\u2019s glowing stars are pulsating stars called Cepheid variables and Type Ia supernova, a special class of exploding stars. Astronomers use Cepheid variables and Type Ia supernovae as reliable distance markers to measure the universe\u2019s expansion rate.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "NGC 5584",
+            "Object Description": "Spiral galaxy, cepheids host galaxy",
+            "R.A. Position": "14:22:23.76",
+            "Dec. Position": "00:23:15.61",
+            "Constellation": "Virgo",
+            "Distance": "About 72 million light-years (22 million parsecs)",
+            "Data Description": "This image was created with Webb and Hubble data from proposals: 1685 and 11570 (A. Riess)",
+            "Instrument": "Hubble>WFC3/UVIS\nWebb>NIRCam",
+            "Exposure Dates": "2 February 2023, Janurary-April 2011",
+            "Filters": "Hubble> F555W, F814W\nWebb> F277W",
+            "Color Info": "This image is a composite of separate exposures acquired by the Hubble Space Telescope using the WFC3 instrument and the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F555W, Green: F814W, Red: F277W"
+        }
+    },
+    {
+        "title": "Supernova 1987A (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01H8Q0314JZ8C08QGG70FDMH4F.png",
+        "caption": "Webb\u2019s NIRCam (Near-Infrared Camera) captured this detailed image of SN 1987A (Supernova 1987A). At the center, material ejected from the supernova forms a keyhole shape. Just to its left and right are faint crescents newly discovered by Webb. Beyond them an equatorial ring, formed from material ejected tens of thousands of years before the supernova explosion, contains bright hot spots. Exterior to that is diffuse emission and two faint outer rings. In this image blue represents light at 1.5 microns (F150W), cyan 1.64 and 2.0 microns (F164N, F200W), yellow 3.23 microns (F323N), orange 4.05 microns (F405N), and red 4.44 microns (F444W).",
+        "release_date": "",
+        "facts": {
+            "Object Name": "SN 1987A",
+            "Object Description": "Supernova Remnant",
+            "R.A. Position": "05:35:28.03",
+            "Dec. Position": "-69:16:11.8",
+            "Constellation": "Dorado",
+            "Distance": "Approximately 163,000 light-years (50 kiloparsecs) away",
+            "Dimensions": "Image is about 10.8 arcseconds across (8.5 lightyears)",
+            "Data Description": "This image was created with Webb data from proposal: 1726 (M. Matsuura)",
+            "Instrument": "NIRCam",
+            "Exposure Dates": "1-2 September 2022",
+            "Filters": "F150W; F164N; F200W; F323N; F405N; F444W",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F150W, Cyan: F164N, Cyan: F200W, Yellow: F323N, Orange: F405N, Red: F444W",
+            "Compass and Scale Image": ""
+        }
+    },
+    {
+        "title": "Ring Nebula (NIRCam Image)",
+        "image_url": "https://stsci-opo.org/STScI-01H82G1P61JMNCENZ6S3D6AGHQ.png",
+        "caption": "NASA\u2019s James Webb Space Telescope has observed the well-known Ring Nebula in unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also known as M57 and NGC 6720, it is relatively close to Earth at roughly 2,500 light-years away.",
+        "release_date": "",
+        "facts": {
+            "Object Name": "Ring Nebula, M57, NGC 6720",
+            "Object Description": "Planetary nebula",
+            "R.A. Position": "18:53:35",
+            "Dec. Position": "+33:01:45",
+            "Constellation": "Lyra",
+            "Distance": "2,300 light-years",
+            "Dimensions": "2.14 x 2.17 arcminutes",
+            "Data Description": "This image was created with Webb data from proposal: 1558 (M. Barlow)",
+            "Instrument": "NIRCam (Near-Infrared Camera)",
+            "Exposure Dates": "4 August 2022",
+            "Filters": "F162M, F212N, F300M, F335M",
+            "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0\nBlue: F162M, Cyan: F212N, Green: F300M, Red: F335M"
+        }
+    }
+]

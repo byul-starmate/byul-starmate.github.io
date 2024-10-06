@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>STARMATE</title>
+  <link rel="icon" href="images/stars.jpg" type="image/png">
+  
+  <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+  <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Chakra Petch', sans-serif;
+      background-color: #000;
+      color: #fff;
+      overflow-x: hidden; 
+      overflow-y: auto; 
+    }
+
+    header {
+      background: rgba(0, 0, 0, 0.8);
+      padding: 20px;
+      position: fixed;
+      width: 100%;
+      z-index: 1000;
+      top: 0;
+      left: 0;
+    }
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo-container {
+      display: flex;
+      align-items: center;
+    }
+
+    .logo-container img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    nav h1 {
+      font-size: 24px;
+      margin-left: 10px;
+      color: #fff;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 30px;
+      margin: 0;
+      position: absolute;
+      right: 100px; 
+      top: 50px;
+    }
+
+
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .main-container {
+      margin-top: 100px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 80%;
+      max-width: 1200px;
+      background-color: rgba(0, 0, 0, 0.9);
+      border-radius: 12px;
+      overflow: hidden;
+      padding-bottom: 20px;
+    }
+
+
+    .image-container {
+      position: relative;
+      width: 100%;
+      height: 400px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .blurred-image {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: blur(8px);
+    }
+
+    .center-image {
+      position: relative;
+      width: 50%;
+      height: auto;
+      object-fit: contain;
+      z-index: 1;
+    }
+
+    .info-section {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 100%;
+      padding: 20px;
+    }
+
+    .text-content {
+    flex: 1;
+    max-width: 600px; 
+    padding: 0 20px;
+    margin: 0 auto;
+    }
+
+    .info-section h2 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+
+    .info-section p {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+
+    .spotify-embed {
+      margin-left: 20px;
+      flex-shrink: 0;
+    }
+
+    iframe {
+      border-radius: 12px;
+    }
+
+    .buttons {
+      display: flex;
+      justify-content: flex-end;
+      gap: 20px;
+      padding: 40px 20px;
+    }
+
+
+    .cta-button {
+      padding: 10px 20px;
+      background-color: #6b19e6;
+      border: none;
+      border-radius: 5px;
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .cta-button:hover {
+      background-color: #3b3b3b;
+    }
+
+    .share-box {
+      display: none;
+      position: absolute;
+      bottom: 60px;
+      right: 20px;
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .show {
+      display: block;
+    }
+  </style>
+  <script>
+    // Function to fetch JSON data
+    function fetchData() {
+        return fetch('https://raw.githubusercontent.com/aleckcs/byul/main/ver2_image_data.json')
+            .then(response => response.json())
+            .then(data => {
+                window.imageData = data;
+
+                // Run PyScript code once JSON is loaded
+                document.querySelector('py-script').dispatchEvent(new CustomEvent('pyscript-ready'));
+
+                // Load form data
+                loadFormData();
+            })
+            .catch(error => {
+                console.error("Error fetching JSON data:", error);
+            });
+    }
+
+    // Function to load form data from localStorage
+    function loadFormData() {
+        const formData = JSON.parse(localStorage.getItem('formData'));
+
+        if (formData) {
+            // Display name
+            document.querySelector('.text-content h2').innerText = formData.name || "Your Name";
+
+            // Display selected preferences
+            const preferences = [];
+            if (formData.preference1) preferences.push("Vast, atmospheric images of celestial backgrounds");
+            if (formData.preference2) preferences.push("Exploring distant galaxies");
+            if (formData.preference3) preferences.push("Vibrant space images");
+
+            document.querySelector('.text-content p').innerText = preferences.length > 0 ? preferences.join(', ') : "No preferences selected.";
+
+            // Display selected images
+            const imagesContainer = document.getElementById('image-display');
+            if (formData.selectedImages && formData.selectedImages.length > 0) {
+                const randomIndex = Math.floor(Math.random() * formData.selectedImages.length);
+                imagesContainer.src = formData.selectedImages[randomIndex]; // Display a random selected image
+            } else {
+                imagesContainer.alt = "No images selected.";
+                imagesContainer.src = ""; // Clear image if none selected
+            }
+        }
+    }
+
+    // Fetch data when the DOM is fully loaded
+    document.addEventListener("DOMContentLoaded", function() {
+        fetchData();
+    });
+  </script>
+  <script>
+    function copyLink() {
+      const dummy = document.createElement('input');
+      const url = window.location.href;
+      document.body.appendChild(dummy);
+      dummy.value = url;
+      dummy.select();
+      document.execCommand('copy');
+      document.body.removeChild(dummy);
+      document.querySelector('.share-box').classList.add('show');
+    }
+
+    function hideShareBox() {
+      setTimeout(() => {
+        document.querySelector('.share-box').classList.remove('show');
+      }, 2000);
+    }
+    
+    function savePage() {
+      const shareBtn = document.getElementById('share-btn');
+      const saveBtn = document.getElementById('save-btn');
+
+      shareBtn.style.display = 'none';
+      saveBtn.style.display = 'none';
+
+      html2canvas(document.querySelector(".main-container")).then(canvas => {
+        const link = document.createElement('a');
+        link.download = 'starmate_screenshot.png';
+        link.href = canvas.toDataURL("image/png");
+        link.click();
+
+        shareBtn.style.display = 'block';
+        saveBtn.style.display = 'block';
+      });
+    }
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div class="logo-container">
+          <img src="images/stars.jpg" alt="Starmate Logo">
+          <h1>Starmate</h1>
+      </div>
+      <ul>
+        <li><a href="intro.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="feed.html">Feed</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="main-container">
+    <h1>Selected Image</h1>
+    <div id="image-container">
+        <!-- The image will be displayed here -->
+    </div>
+
+    <script>
+        // Get the selected image data from localStorage
+        const selectedImage = JSON.parse(localStorage.getItem('selectedImage'));
+        
+        if (selectedImage) {
+            const imageContainer = document.getElementById('image-container');
+            const imageElement = document.createElement('img');
+            imageElement.src = selectedImage.link; // Assuming `link` is the URL for the image
+            imageElement.alt = selectedImage.title || 'Selected Image'; // Add a title if available
+            imageElement.style.width = '100%'; // Adjust width as necessary
+
+            imageContainer.appendChild(imageElement);
+
+            // Optional: Display other information
+            const titleElement = document.createElement('h2');
+            titleElement.textContent = selectedImage.title;
+            imageContainer.appendChild(titleElement);
+        } else {
+            document.getElementById('image-container').innerText = "No image found.";
+        }
+    </script>
+    <!-- <div class="image-container">
+      <img src="images/blurry-background.jpg" alt="Blurred Background" class="blurred-image">
+      <img id="image-display" alt="Orion Nebula" class="center-image">
+      <h1>Random Image Selection Based on Attributes</h1>
+      
+    </div> -->
+    <div class="info-section">
+      <div class="text-content">
+        <h2>Orion Nebula</h2>
+        <p>This is the Orion Nebula, one of the brightest nebulae visible to the naked eye. It is located in the Milky Way and is about 1,344 light-years away from Earth. The nebula has a mass of about 2,000 times that of the sun and is an active site of star formation.</p>
+      </div>
+      <script>
+        let trackID = "7896LFcAWlUQMtoHY1OCJv";
+        function setSpotifyEmbed() {
+            const iframe = document.getElementById('spotify-iframe');
+            iframe.src = "https://open.spotify.com/embed/track/" + trackID;
+        }
+        window.onload = setSpotifyEmbed;
+      </script>
+      <div class="spotify-embed">
+        <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
+            allowtransparency="true" allow="encrypted-media"></iframe>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <div id="share-btn" class="cta-button" onclick="copyLink(); hideShareBox();">Share</div>
+      <div id="save-btn" class="cta-button" onclick="savePage();">Save</div>
+      <div class="share-box">Link copied to clipboard!</div>
+    </div>
+  </div>
+</body>
+</html>
