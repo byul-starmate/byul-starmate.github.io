@@ -11,7 +11,7 @@ import os
 
 app = Flask(__name__)  # Create a Flask app
 
-CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
+CORS(app)
 
 @app.route('/favicon.ico')
 def favicon():
