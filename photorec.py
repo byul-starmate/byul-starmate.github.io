@@ -64,6 +64,8 @@ def get_image():
 
 
 def photorec(user_inputs):
+
+    playlist = user_inputs.get('playlistid')
     # Unpack the user inputs
     color_input = {
         "red": user_inputs.get('red', False),
@@ -176,7 +178,8 @@ def photorec(user_inputs):
     # Randomly select an image from the filtered list
     selected_image = random.choice(vibrance_sorted_images)
     return {
-        "image": selected_image
+        "image": selected_image,
+        'playlistid' : playlistid
     }
 
 if __name__ == '__main__':
