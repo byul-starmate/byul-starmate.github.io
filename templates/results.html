@@ -189,21 +189,25 @@
     }
   </style>
   <script>
-    // Function to display the image from the received JSON data
-    function displayImageFromJson(jsonData) {
+    // Function to display the image from localStorage
+    function displayImageFromLocalStorage() {
         const imageContainer = document.getElementById('image-container');
-        
-        // Extract the image link from the JSON data
-        const imageLink = jsonData.image_link;
 
-        // Create an img element and set its source to the image link
-        const imageElement = document.createElement('img');
-        imageElement.src = imageLink;
-        imageElement.alt = "Selected Image";
-        imageElement.style.width = '100%'; // Adjust width as necessary
+        // Retrieve the stored image data from localStorage
+        const imageData = JSON.parse(localStorage.getItem('imageData'));
 
-        // Add the image to the container
-        imageContainer.appendChild(imageElement);
+        if (imageData && imageData.image_link) {
+            // Create an img element and set its source to the image link
+            const imageElement = document.createElement('img');
+            imageElement.src = imageData.image_link;
+            imageElement.alt = "Selected Image";
+            imageElement.style.width = '100%'; // Adjust width as necessary
+
+            // Add the image to the container
+            imageContainer.appendChild(imageElement);
+        } else {
+            imageContainer.innerText = "No image found.";
+        }
     }
 
     // Function to load form data from localStorage
@@ -216,31 +220,24 @@
 
             // Display selected preferences
             const preferences = [];
-            if (formData.vastness) preferences.push("Vast, atmospheric images of celestial backgrounds");
-            if (formData.distance) preferences.push("Exploring distant galaxies");
-            if (formData.vibrance) preferences.push("Vibrant space images");
+            if (formData.preference1) preferences.push("Vast, atmospheric images of celestial backgrounds");
+            if (formData.preference2) preferences.push("Exploring distant galaxies");
+            if (formData.preference3) preferences.push("Vibrant space images");
 
             document.querySelector('.text-content p').innerText = preferences.length > 0 ? preferences.join(', ') : "No preferences selected.";
-
-            // Display selected images
-            const imagesContainer = document.getElementById('image-display');
-            if (formData.selectedImages && formData.selectedImages.length > 0) {
-                const randomIndex = Math.floor(Math.random() * formData.selectedImages.length);
-                imagesContainer.src = formData.selectedImages[randomIndex]; // Display a random selected image
-            } else {
-                imagesContainer.alt = "No images selected.";
-                imagesContainer.src = ""; // Clear image if none selected
-            }
         }
     }
 
-    // Fetch data from the server and then display the image
+    // Fetch data from the server and then store it in localStorage
     document.addEventListener("DOMContentLoaded", function() {
         fetch('https://starmate-01afa58bced4.herokuapp.com/static/data/ver2_image_data.json')
             .then(response => response.json())
             .then(jsonData => {
-                // Call the function to display the image
-                displayImageFromJson(jsonData);
+                // Store the JSON data in localStorage
+                localStorage.setItem('imageData', JSON.stringify(jsonData));
+
+                // Display the image from localStorage
+                displayImageFromLocalStorage();
                 // Load form data after fetching the JSON
                 loadFormData();
             })
