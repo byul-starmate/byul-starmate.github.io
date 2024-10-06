@@ -213,12 +213,13 @@
             localStorage.setItem('recImageTitle', imageData.title);
             // Create a title element
             const titleElement = document.createElement('h2');
+            titleElement.className = 'image-title';
             titleElement.textContent = imageData.title; // Use the title
 
             // Create a description element
             const descriptionElement = document.createElement('p');
-            descriptionElement.textContent = imageData.caption;
             descriptionElement.className = 'image-description';
+            descriptionElement.textContent = imageData.caption;
 
             // Append the image and title to the container
             const container = document.getElementById('image-container');
