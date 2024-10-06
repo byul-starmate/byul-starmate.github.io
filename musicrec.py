@@ -4,10 +4,13 @@ from collections import Counter
 import numpy as np
 import json
 import difflib
-from flask import Flask, request, jsonify  # Import Flask
+from flask import Flask, render_template, request, jsonify, make_response
+from flask_cors import CORS
+from flask import send_from_directory
 
 app = Flask(__name__)  # Create a Flask app
 
+CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 # Function to load JSON data from a file
 def load_json(file_path):
