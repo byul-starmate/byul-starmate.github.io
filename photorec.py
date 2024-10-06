@@ -9,27 +9,14 @@ color_info = item['facts'].get('Color Info', '')
 import json
 import random
 from flask import Flask, render_template, request, jsonify
-from flask_cors import CORS
-from flask import send_from_directory
-import os
-
-
 
 app = Flask(__name__)
-
-CORS(app, resources={r"/*": {"origins": "https://byul-starmate.github.io"}})
-
-
-@app.route('/favicon.ico')
-def favicon():
-    return send_from_directory(os.path.join(app.root_path, 'static'),
-                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 @app.route('/')
 def index():
     return render_template('survey.html')  # Input HTML file for user preferences
 
-@app.route('/get_image', methods=['POST','GET'])
+@app.route('/get_image', methods=['POST'])
 def get_image():
     # Get user inputs from the request
     user_inputs = request.json
@@ -50,14 +37,13 @@ def photorec(user_inputs):
     }
     
     # Optional preferences (expand logic if necessary)
-    preference1 = user_inputs.get('preference1', None)
-    preference2 = user_inputs.get('preference2', None)
-    preference3 = user_inputs.get('preference3', None)
-    selected_images = user_inputs.get('selectedImages', [])
-    user_name = user_inputs.get('userName', 'Guest')  # Get user name
+    vastness = user_inputs.get('vastness', None)
+    distance = user_inputs.get('distance', None)
+    vibrance = user_inputs.get('vibrance', None)
+    user_name = user_inputs.get('name', 'Guest')  # Get user name
     
     # Load image data from JSON file
-    input_file_path = 'static/data/ver2_image_data.json'
+    input_file_path = 'ver2_image_data.json'
     with open(input_file_path, 'r') as file:
         data = json.load(file)
 
@@ -99,7 +85,7 @@ def photorec(user_inputs):
 
     # Create a separate list to store images with color information
     processed_images = []
-
+    
     for item in data:
         colors = count_true_colors(item)
         
@@ -118,20 +104,42 @@ def photorec(user_inputs):
     # Remove images with a color score of 0
     sorted_images = [image for image in sorted_images if image['color_score'] > 0]
 
-    # Optionally filter based on preferences and selected images
-    if selected_images:
-        sorted_images = [image for image in sorted_images if image['title'] in selected_images]
+    # Look thorugh vastness
+    vasttypes = ['Clusters', 'Fields', 'Stellar Formations']
+    
+    if vastness:
+        vast_sorted_images = [image for image in sorted_images if image['type'] in vasttypes]
+    else:
+        vast_sorted_images = [image for image in sorted_images if image['type'] not in vasttypes]
 
-    # Further filtering based on user preferences can be added here if required
+    half_index = len(vast_sorted_images) // 2
+    vast_sorted_images = vast_sorted_images[half_index:]
+    
+    # Look through distance
+    if distance:
+        distance_sorted_images = sorted(vast_sorted_images, key=lambda x: x['distance'], reverse=True)
+    else:
+        distance_sorted_images = sorted(vast_sorted_images, key=lambda x: x['distance'])
+
+    half_index = len(distance_sorted_images) // 2
+    distance_sorted_images = distance_sorted_images[half_index:]
+    
+    # Look through vibrance
+    if vibrance:
+        vibrance_sorted_images = sorted(distance_sorted_images, key=lambda x: x['color_count'], reverse=True)
+    else:
+        vibrance_sorted_images = sorted(distance_sorted_images, key=lambda x: x['color_count'])
+
+    half_index = len(vibrance_sorted_images) // 2
+    vibrance_sorted_images = vibrance_sorted_images[half_index:]
+
+    return random.choice(vibrance_sorted_images)
 
     # Randomly select an image from the filtered list
-    if sorted_images:
-        return {
-            "image": random.choice(sorted_images),
-            "userName": user_name
-        }
-    else:
-        return {"error": "No suitable images found."}
+    selected_image = random.choice(vibrance_sorted_images)
+    return {
+        "image": selected_image
+    }
 
 if __name__ == '__main__':
     app.run(debug=True)
