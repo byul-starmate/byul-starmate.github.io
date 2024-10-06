@@ -9,14 +9,24 @@ color_info = item['facts'].get('Color Info', '')
 import json
 import random
 from flask import Flask, render_template, request, jsonify
+from flask_cors import CORS
+from flask import send_from_directory
+import os
 
 app = Flask(__name__)
+
+CORS(app, resources={r"/*": {"origins": "https://byul-starmate.github.io"}})
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 @app.route('/')
 def index():
     return render_template('survey.html')  # Input HTML file for user preferences
 
-@app.route('/get_image', methods=['POST'])
+@app.route('/get_image', methods=['POST','GET'])
 def get_image():
     # Get user inputs from the request
     user_inputs = request.json
@@ -24,6 +34,7 @@ def get_image():
     selected_image = photorec(user_inputs)  # Modify photorec to accept parameters
 
     return jsonify(selected_image)
+
 
 def photorec(user_inputs):
     # Unpack the user inputs
