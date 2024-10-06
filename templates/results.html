@@ -19,8 +19,8 @@
       font-family: 'Chakra Petch', sans-serif;
       background-color: #121212;
       color: #fff;
-      overflow-x: hidden; 
-      overflow-y: auto; 
+      overflow-x: hidden;
+      overflow-y: auto;
     }
 
     header {
@@ -98,23 +98,37 @@
     .image-container {
       position: relative;
       width: 100%;
-      height: 400px;
       display: flex;
-      justify-content: center;
+      flex-direction: column;
       align-items: center;
       margin-bottom: 30px;
     }
 
     .image-container img {
-      max-width: 100%;
+      max-width: 80%;
       height: auto;
       border-radius: 12px;
       transition: transform 0.3s, box-shadow 0.3s;
+      margin-bottom: 20px;
     }
 
     .image-container img:hover {
       transform: scale(1.05);
       box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    }
+
+    .image-title {
+      font-size: 36px;
+      color: #6b19e6;
+      margin-bottom: 10px;
+    }
+
+    .image-description {
+      font-size: 18px;
+      max-width: 800px;
+      text-align: center;
+      margin-bottom: 30px;
+      line-height: 1.6;
     }
 
     .info-section {
@@ -126,27 +140,11 @@
       text-align: center;
     }
 
-    .text-content {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-
-    .info-section h2 {
-      font-size: 40px;
-      margin-bottom: 20px;
-      color: #6b19e6;
-    }
-
-    .info-section p {
-      font-size: 20px;
-      margin-bottom: 25px;
-      line-height: 1.6;
-    }
-
     .spotify-embed {
-      margin-top: 20px;
+      margin-top: 40px;
       width: 100%;
       max-width: 500px;
+      text-align: center;
     }
 
     iframe {
