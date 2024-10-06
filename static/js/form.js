@@ -95,7 +95,7 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
         vibrance,
     };
     
-    fetch('https://starmate.herokuapp.com/get_image', {  // Flask 서버 URL 경로 확인
+    fetch('https://starmate-01afa58bced4.herokuapp.com/get_image', {  // Flask 서버 URL 경로 확인
         method: 'POST',  // 메소드가 Flask와 일치해야 합니다.
         headers: {
             'Content-Type': 'application/json'
