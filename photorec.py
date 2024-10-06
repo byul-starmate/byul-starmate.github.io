@@ -34,6 +34,15 @@ def survey():
 def results():
     return render_template('results.html')
 
+@app.route('/about.html')
+def about():
+    return render_template('about.html')
+
+@app.route('/feed.html')
+def feed():
+    return render_template('feed.html')
+
+
 
 @app.route('/get_image', methods=['POST','GET'])
 def get_image():
