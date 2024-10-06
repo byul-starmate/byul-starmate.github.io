@@ -188,7 +188,7 @@
       display: block;
     }
   </style>
-  <script>
+<!--   <script>
     // Function to display the image from localStorage
     function displayImageFromLocalStorage() {
         const imageContainer = document.getElementById('image-container');
@@ -240,6 +240,54 @@
                 displayImageFromLocalStorage();
                 // Load form data after fetching the JSON
                 loadFormData();
+            })
+            .catch(error => {
+                console.error('Error fetching JSON data:', error);
+            });
+    });
+</script> -->
+
+  <script>
+    // Function to display the image from localStorage
+    function displayImageFromLocalStorage() {
+        const imageContainer = document.getElementById('image-container');
+
+        // Retrieve the stored image data from localStorage
+        const imageData = JSON.parse(localStorage.getItem('imageData'));
+
+        if (imageData && imageData.link) {
+            // Create an img element and set its source to the image link
+            const imageElement = document.createElement('img');
+            imageElement.src = imageData.link; // Use 'link' from the JSON data
+            imageElement.alt = imageData.title || "Selected Image"; // Use the title for alt text
+            imageElement.style.width = '100%'; // Adjust width as necessary
+
+            // Add the image to the container
+            imageContainer.appendChild(imageElement);
+            
+            // Optionally, display the title
+            const titleElement = document.createElement('h2');
+            titleElement.textContent = imageData.title || "No Title Available"; // Display title
+            imageContainer.appendChild(titleElement);
+        } else {
+            imageContainer.innerText = "No image found.";
+        }
+    }
+
+    // Fetch data from the server and then store it in localStorage
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch('https://starmate-01afa58bced4.herokuapp.com/static/data/ver2_image_data.json')
+            .then(response => response.json())
+            .then(jsonData => {
+                // Store only the link and title in localStorage
+                const imageData = {
+                    link: jsonData.link,
+                    title: jsonData.title
+                };
+                localStorage.setItem('imageData', JSON.stringify(imageData));
+
+                // Display the image from localStorage
+                displayImageFromLocalStorage();
             })
             .catch(error => {
                 console.error('Error fetching JSON data:', error);
