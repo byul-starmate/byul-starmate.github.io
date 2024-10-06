@@ -8,7 +8,7 @@ color_info = item['facts'].get('Color Info', '')
 
 import json
 import random
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, make_response
 from flask_cors import CORS
 from flask import send_from_directory
 import os
