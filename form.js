@@ -60,14 +60,8 @@ imageButtons.forEach(button => {
     });
 });
 
-// Modified the submit button event listener to ensure proper form submission
 document.getElementById('starmateForm').addEventListener('submit', function(event) {
     event.preventDefault();
-
-    if (!validateStep(currentStep)) {
-        alert("Please complete all required fields before submitting.");
-        return;
-    }
 
     const name = document.getElementById('name').value;
 
@@ -78,10 +72,15 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
     const blue = document.getElementById('blue').checked;
     const violet = document.getElementById('violet').checked;
 
-    const vastness = document.getElementById('preference1').checked;
-    const distance = document.getElementById('preference2').checked;
-    const vibrance = document.getElementById('preference3').checked;
+    const preference1 = document.getElementById('preference1').checked;
+    const preference2 = document.getElementById('preference2').checked;
+    const preference3 = document.getElementById('preference3').checked;
 
+    const selectedImages = [];
+    const checkboxes = document.querySelectorAll('input[name="image[]"]:checked');
+    checkboxes.forEach((checkbox) => {
+        selectedImages.push(checkbox.value);
+    });
 
     const formData = {
         name,
@@ -91,35 +90,52 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
         green,
         blue,
         violet,
-        vastness,
-        distance,
-        vibrance
+        preference1,
+        preference2,
+        preference3,
+        selectedImages
     };
-
-    // Send data to the server
-    fetch('https://starmate.earth/get_image', {
-        method: 'POST',
+    
+    fetch('https://starmate.herokuapp.com/get_image', {  // Flask 서버 URL 경로 확인
+        method: 'POST',  // 메소드가 Flask와 일치해야 합니다.
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify(formData)
+        body: JSON.stringify(formData)  // formData를 JSON 형태로 변환
     })
-    .then(response => {
-        if (!response.ok) {
-            throw new Error('Network response was not ok');
-        }
-        return response.json();
-    })
+    // .then(response => {
+    //     if (!response.ok) {
+    //         throw new Error(`HTTP error! status: ${response.status}`);
+    //     }
+    //     return response.json();
+    // })
+    // .then(data => {
+    //     if (data.image) {
+    //         localStorage.setItem('selectedImage', JSON.stringify(data.image));
+    //         window.location.href = 'results.html';
+    //     } else {
+    //         alert('No suitable images found.');
+    //     }
+    // })
+    // .catch(error => console.error('Error:', error));
+//     // Send data to the server
+//     fetch('/get_image', {
+//         method: 'POST',
+//         headers: {
+//             'Content-Type': 'application/json'
+//         },
+//         body: JSON.stringify(formData)
+//     })
+    .then(response => response.json())
     .then(data => {
-        if (data && typeof data === 'object' && data.image) {
+        if (data.image) {
             localStorage.setItem('selectedImage', JSON.stringify(data.image));
             window.location.href = 'results.html';
         } else {
             alert("No suitable images found.");
         }
     })
-    .catch(error => {
-        console.error('Error:', error);
-        alert('There was an error submitting the form. Please try again later.');
-    });
+    .catch(error => console.error('Error:', error));
 });
+
+
