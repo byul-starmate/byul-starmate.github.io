@@ -12,7 +12,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/static/css/nasa.css">
 
-
   <style>
     body {
       margin: 0;
@@ -131,15 +130,6 @@
       line-height: 1.6;
     }
 
-    .info-section {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      width: 100%;
-      padding: 20px;
-      text-align: center;
-    }
-
     .spotify-embed {
       margin-top: 40px;
       width: 100%;
@@ -150,13 +140,6 @@
     iframe {
       border-radius: 15px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-    }
-
-    .buttons {
-      display: flex;
-      justify-content: center;
-      gap: 30px;
-      padding: 20px;
     }
 
     .cta-button {
@@ -175,172 +158,99 @@
       background-color: #4a0db2;
       transform: translateY(-3px);
     }
-
-    .share-box {
-      display: none;
-      position: fixed;
-      bottom: 60px;
-      right: 20px;
-      background-color: #333;
-      color: #fff;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      transition: opacity 0.3s;
-    }
-    
-    .show {
-      display: block;
-      opacity: 1;
-    }
   </style>
+</head>
 <body>
 
-    <div id="image-container">
-        <!-- The image and title will be displayed here -->
+<header>
+  <nav>
+    <div class="logo-container">
+      <img src="/static/data/images/stars.jpg" alt="Starmate Logo">
+      <h1>Starmate</h1>
     </div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="feed.html">Feed</a></li>
+    </ul>
+  </nav>
+</header>
 
-    <script>
-        // Get the image data from localStorage
-        const imageData = JSON.parse(localStorage.getItem('imageData'));
-
-        if (imageData) {
-            // Create an image element
-            const imgElement = document.createElement('img');
-            imgElement.src = imageData.link; // Use the image link
-            imgElement.alt = imageData.title; // Set alt text to the title
-
-            localStorage.setItem('recImageTitle', imageData.title);
-            // Create a title element
-            const titleElement = document.createElement('h2');
-            titleElement.className = 'image-title';
-            titleElement.textContent = imageData.title; // Use the title
-
-            // Create a description element
-            const descriptionElement = document.createElement('p');
-            descriptionElement.className = 'image-description';
-            descriptionElement.textContent = imageData.caption;
-
-            // Append the image and title to the container
-            const container = document.getElementById('image-container');
-            container.appendChild(imgElement);
-            container.appendChild(titleElement);
-            container.appendChild(descriptionElement);
-            console.log('Sending data:', { 
-                title: imageData.title, 
-                playlist_id: imageData.playlistid 
-            });
-            localStorage.setItem('recImageTitle', imageData.title);
-            localStorage.setItem('playlistID', imageData.playlistid);
-            
-            // Function to send data to the Python server
-            function sendDataToServer() {
-                fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec', {  // Adjust the endpoint as needed
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                   body: JSON.stringify({ 
-                      title: imageData.title,  // Correctly use imageData.title
-                      playlist_id: imageData.playlistid // Correctly use imageData.playlistid
-                  }),
-                })
-                .then(response => response.json())
-                .then(data => {
-                    console.log('Response from server:', data);
-                    // Extract the track ID from the returned link
-                    const trackID = data.link.split('/track/')[1].split('?')[0];
-                    console.log('Track ID:', trackID);
-                    // Set the Spotify embed iframe with the trackID
-                    document.getElementById('spotify-iframe').src = `https://open.spotify.com/embed/track/${trackID}`;
-                })
-                .catch((error) => {
-                    console.error('Error:', error);
-                });
-            }
-
-    // Call the function when needed
-    sendDataToServer();
-
-        } else {
-            document.getElementById('image-container').innerText = "No image data found.";
-        }
-    </script>
-   <header>
-    <nav>
-      <div class="logo-container">
-          <img src="/static/data/images/stars.jpg" alt="Starmate Logo">
-          <h1>Starmate</h1>
-      </div>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="feed.html">Feed</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <div class="main-container">
-      <div class="spotify-embed">
-          <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
-                  allowtransparency="true" allow="encrypted-media"></iframe>
-      </div>
+<div class="main-container">
+  <div id="image-container">
+    <!-- The image and title will be displayed here -->
   </div>
-      <script>
-    // Declare the trackLink variable
-    let trackLink; // This will hold the link fetched from the server
 
-    async function fetchRecommendedSong() {
-        const imageTitle = localStorage.getItem('imageTitle'); // Assuming you're storing this in localStorage
-        const playlistID = localStorage.getItem('playlistID'); // Assuming you're storing this in localStorage
+  <div class="spotify-embed">
+    <iframe id="spotify-iframe" width="100%" height="352" frameborder="0" 
+            allowtransparency="true" allow="encrypted-media"></iframe>
+  </div>
+</div>
 
-        // Fetch the recommended song link from the Flask backend
-        const response = await fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                title: imageTitle,    // Send the image title
-                playlist_id: playlistID // Send the playlist ID
-            })
-        });
+<script>
+  async function fetchAndSetSong() {
+    const imageTitle = localStorage.getItem('recImageTitle'); // Use consistent key
+    const playlistID = localStorage.getItem('playlistID'); // Use consistent key
 
-        if (response.ok) {
-            const data = await response.json(); // Parse the JSON response
-            trackLink = data.recommendedSongLink; // Assign the fetched link to trackLink
+    try {
+      const response = await fetch('https://starmate-01afa58bced4.herokuapp.com/musicrec', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          title: imageTitle,
+          playlist_id: playlistID
+        })
+      });
 
-            // Call the function to set the Spotify embed with the new track link
-            setSpotifyEmbed();
-        } else {
-            console.error('Error fetching song recommendation:', response.statusText);
-        }
+      if (!response.ok) throw new Error('Network response was not ok.');
+
+      const data = await response.json();
+      const trackID = data.link.split('/track/')[1].split('?')[0];
+      document.getElementById('spotify-iframe').src = `https://open.spotify.com/embed/track/${trackID}`;
+    } catch (error) {
+      console.error('Error fetching song recommendation:', error);
+      alert('Failed to fetch the recommended song. Please try again later.');
     }
+  }
 
-    function setSpotifyEmbed() {
-        // Use the trackLink variable to extract the trackID
-        if (trackLink) { // Ensure trackLink is available
-            const trackID = trackLink.split('/track/')[1].split('?')[0]; // Extracting trackID
-            const iframe = document.getElementById('spotify-iframe');
-            iframe.src = "https://open.spotify.com/embed/track/" + trackID; // Set the src attribute
-        } else {
-            console.error('No track link available to embed.');
-        }
+  // Function to display image data
+  function displayImageData() {
+    const imageData = JSON.parse(localStorage.getItem('imageData'));
+
+    if (imageData) {
+      // Create and append the image element
+      const imgElement = document.createElement('img');
+      imgElement.src = imageData.link; 
+      imgElement.alt = imageData.title;
+
+      // Create and append the title element
+      const titleElement = document.createElement('h2');
+      titleElement.className = 'image-title';
+      titleElement.textContent = imageData.title;
+
+      // Create and append the description element
+      const descriptionElement = document.createElement('p');
+      descriptionElement.className = 'image-description';
+      descriptionElement.textContent = imageData.caption;
+
+      // Append all elements to the container
+      const container = document.getElementById('image-container');
+      container.appendChild(imgElement);
+      container.appendChild(titleElement);
+      container.appendChild(descriptionElement);
+
+      // Send data to the server
+      fetchAndSetSong();
+    } else {
+      document.getElementById('image-container').innerText = "No image data found.";
     }
+  }
 
-    // Call the function to fetch the recommended song when the page loads
-    window.onload = fetchRecommendedSong;
+  // Call the function to display image data on page load
+  window.onload = displayImageData;
 </script>
-    </div>
-   <!-- <div class="image-container">
-      <img src="images/blurry-background.jpg" alt="Blurred Background" class="blurred-image">
-      <img id="image-display" alt="Orion Nebula" class="center-image">
-      <h1>Random Image Selection Based on Attributes</h1>
-      
-    </div> -->
-    <div class="main-container">
-    <div id="image-container">
-    </div>
 
 </body>
 </html>
