@@ -90,10 +90,9 @@ document.getElementById('starmateForm').addEventListener('submit', function(even
         green,
         blue,
         violet,
-        preference1,
-        preference2,
-        preference3,
-        selectedImages
+        vastness,
+        distance,
+        vibrance,
     };
     
     fetch('https://starmate.herokuapp.com/get_image', {  // Flask 서버 URL 경로 확인
