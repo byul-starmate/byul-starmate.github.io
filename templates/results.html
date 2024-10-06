@@ -247,7 +247,7 @@
     });
 </script> -->
 
-  <script>
+<!--   <script>
     // Function to display the image from localStorage
     function displayImageFromLocalStorage() {
         const imageContainer = document.getElementById('image-container');
@@ -294,7 +294,33 @@
             });
     });
 </script>
+ -->
+  <div id="image-container">
+        <!-- The image and title will be displayed here -->
+    </div>
 
+    <script>
+        // Get the image data from localStorage
+        const imageData = JSON.parse(localStorage.getItem('imageData'));
+
+        if (imageData) {
+            // Create an image element
+            const imgElement = document.createElement('img');
+            imgElement.src = imageData.link; // Use the image link
+            imgElement.alt = imageData.title; // Set alt text to the title
+
+            // Create a title element
+            const titleElement = document.createElement('h2');
+            titleElement.textContent = imageData.title; // Use the title
+
+            // Append the image and title to the container
+            const container = document.getElementById('image-container');
+            container.appendChild(imgElement);
+            container.appendChild(titleElement);
+        } else {
+            document.getElementById('image-container').innerText = "No image data found.";
+        }
+    </script>
   <script>
     function copyLink() {
       const dummy = document.createElement('input');
